@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-- name: cn.zzv11.infonode.xyz@中国(CN)-镇江市/IMV
+- name: cn.zzv11.infonode.xyz@中国(CN)-镇江市/TJw
   type: vmess
   server: cn.zzv11.infonode.xyz
   port: '17011'
@@ -18,7 +18,7 @@ proxies:
   ws-headers:
     Host: cn.zzv11.infonode.xyz
   tls: false
-- name: cn.zzv01.infonode.xyz@中国(CN)-广州市/9ux
+- name: cn.zzv01.infonode.xyz@中国(CN)-广州市/9ER
   type: vmess
   server: cn.zzv01.infonode.xyz
   port: '17011'
@@ -31,7 +31,7 @@ proxies:
   ws-headers:
     Host: cn.zzv01.infonode.xyz
   tls: false
-- name: cn.zzv13.infonode.xyz@中国(CN)-温州市/Adi
+- name: cn.zzv13.infonode.xyz@中国(CN)-温州市/I2J
   type: vmess
   server: cn.zzv13.infonode.xyz
   port: '17011'
@@ -44,7 +44,7 @@ proxies:
   ws-headers:
     Host: cn.zzv13.infonode.xyz
   tls: false
-- name: 183.240.181.14@中国(CN)-深圳市/PQ4
+- name: 183.240.181.14@中国(CN)-深圳市/W9I
   type: vmess
   server: 183.240.181.14
   port: '10001'
@@ -57,7 +57,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 183.232.157.72@中国(CN)-深圳市/IVq
+- name: 183.232.157.72@中国(CN)-深圳市/GSC
   type: vmess
   server: 183.232.157.72
   port: '10001'
@@ -70,7 +70,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 183.240.181.14@中国(CN)-深圳市/DVI
+- name: 183.240.181.14@中国(CN)-深圳市/3sx
   type: vmess
   server: 183.240.181.14
   port: '10001'
@@ -83,7 +83,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/u7s
+- name: ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/SVB
   type: vmess
   server: ngzyd-1.okex-tradebot.xyz
   port: '30006'
@@ -96,7 +96,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 183.232.157.72@中国(CN)-深圳市/47o
+- name: 183.232.157.72@中国(CN)-深圳市/mjP
   type: vmess
   server: 183.232.157.72
   port: '10001'
@@ -109,7 +109,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/sbY
+- name: ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/GdD
   type: vmess
   server: ngzyd-1.okex-tradebot.xyz
   port: '30006'
@@ -122,7 +122,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: shcu01.iplc188.com@中国(CN)-上海/KcX
+- name: shcu01.iplc188.com@中国(CN)-上海/wSH
   type: vmess
   server: shcu01.iplc188.com
   port: '10004'
@@ -135,7 +135,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 154.31.41.10@美国(US)-San Jose/lVb
+- name: 154.31.41.10@美国(US)-San Jose/3Pl
   type: vmess
   server: 154.31.41.10
   port: '443'
@@ -148,7 +148,7 @@ proxies:
   ws-headers:
     Host: chuch3go.com
   tls: true
-- name: chuch3go.com@美国(US)-San Jose/Kt0
+- name: chuch3go.com@美国(US)-San Jose/sIX
   type: vmess
   server: chuch3go.com
   port: '443'
@@ -161,7 +161,7 @@ proxies:
   ws-headers:
     Host: chuch3go.com
   tls: true
-- name: 43.155.75.170@香港(HK)-中環/KNY
+- name: 43.155.75.170@香港(HK)-中環/BbS
   type: vmess
   server: 43.155.75.170
   port: '80'
@@ -174,7 +174,7 @@ proxies:
   ws-headers:
     Host: www.microsoft.com
   tls: false
-- name: ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/QJD
+- name: ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/IHJ
   type: vmess
   server: ngzyd-1.okex-tradebot.xyz
   port: '30014'
@@ -187,7 +187,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: uslsj.52jjyun.top@美国(US)-Canyon Country/Z1q
+- name: uslsj.52jjyun.top@美国(US)-Canyon Country/wAF
   type: vmess
   server: uslsj.52jjyun.top
   port: '80'
@@ -200,7 +200,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 147.182.249.191@美国(US)-圣克拉拉/roQ
+- name: 147.182.249.191@美国(US)-圣克拉拉/PQh
   type: vmess
   server: 147.182.249.191
   port: '44036'
@@ -213,7 +213,7 @@ proxies:
   ws-headers:
     Host: domeixi.nbczl233.ml
   tls: true
-- name: c23s801.jamjams.net@美国(US)-費利蒙/ZqY
+- name: c23s801.jamjams.net@美国(US)-費利蒙/dv1
   type: vmess
   server: c23s801.jamjams.net
   port: '61173'
@@ -226,7 +226,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: usa-sanfrancisco.lvuft.com@美国(US)-Cheney/94L
+- name: usa-sanfrancisco.lvuft.com@美国(US)-Cheney/s3O
   type: vmess
   server: usa-sanfrancisco.lvuft.com
   port: '443'
@@ -239,14 +239,14 @@ proxies:
   ws-headers:
     Host: usa-sanfrancisco.lvuft.com
   tls: true
-- name: 70.39.71.2@美国(US)-諾克斯維爾/tCB
+- name: 70.39.71.2@美国(US)-諾克斯維爾/M4o
   type: ss
   server: 70.39.71.2
   port: '8389'
   password: XkH8z99cQguQ8ywK5jhV
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: c23s801.jamjams.net@美国(US)-費利蒙/mOc
+- name: c23s801.jamjams.net@美国(US)-費利蒙/OHh
   type: vmess
   server: c23s801.jamjams.net
   port: '61173'
@@ -259,7 +259,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: usml.jjyun.ren@美国(US)-紐華克/mU6
+- name: usml.jjyun.ren@美国(US)-紐華克/Z6N
   type: vmess
   server: usml.jjyun.ren
   port: '80'
@@ -272,7 +272,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: usa-sanfrancisco.lvuft.com@美国(US)-Cheney/2WX
+- name: usa-sanfrancisco.lvuft.com@美国(US)-Cheney/tN5
   type: vmess
   server: usa-sanfrancisco.lvuft.com
   port: '443'
@@ -285,14 +285,14 @@ proxies:
   ws-headers:
     Host: usa-sanfrancisco.lvuft.com
   tls: true
-- name: 169.57.35.97@墨西哥(MX)-墨西哥城/WXI
+- name: 169.57.35.97@墨西哥(MX)-墨西哥城/7t3
   type: ss
   server: 169.57.35.97
   port: '8389'
   password: 3Q5yYEGGMu8jU2p25aWL
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: usa-washington.lvuft.com@美国(US)-馬納薩斯/AHi
+- name: usa-washington.lvuft.com@美国(US)-馬納薩斯/Yuo
   type: vmess
   server: usa-washington.lvuft.com
   port: '443'
@@ -305,7 +305,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: shcn2-06b.iplc188.com@中国(CN)-上海/U41
+- name: shcn2-06b.iplc188.com@中国(CN)-上海/Lt5
   type: vmess
   server: shcn2-06b.iplc188.com
   port: '10001'
@@ -318,7 +318,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 192.186.129.66@美国(US)-水牛城/OnH
+- name: 192.186.129.66@美国(US)-水牛城/h6A
   type: vmess
   server: 192.186.129.66
   port: '443'
@@ -331,7 +331,7 @@ proxies:
   ws-headers:
     Host: usa-buffalo.lvuft.com
   tls: true
-- name: 192.96.204.250@美国(US)-馬納薩斯/BrY
+- name: 192.96.204.250@美国(US)-馬納薩斯/jfv
   type: vmess
   server: 192.96.204.250
   port: '443'
@@ -344,14 +344,14 @@ proxies:
   ws-headers:
     Host: usa-washington.lvuft.com
   tls: true
-- name: 193.108.118.2@德国(DE)-法兰克福/XzQ
+- name: 193.108.118.2@德国(DE)-法兰克福/4Ja
   type: ss
   server: 193.108.118.2
   port: '7306'
   password: FoOiGlkAA9yPEGP
   alterId: 2
   cipher: aes-256-gcm
-- name: usa-dallas.lvuft.com@美国(US)-達拉斯/BqD
+- name: usa-dallas.lvuft.com@美国(US)-達拉斯/Kf1
   type: vmess
   server: usa-dallas.lvuft.com
   port: '443'
@@ -364,7 +364,7 @@ proxies:
   ws-headers:
     Host: usa-dallas.lvuft.com
   tls: true
-- name: 209.58.139.41@美国(US)-Cheney/E1B
+- name: 209.58.139.41@美国(US)-Cheney/VBp
   type: vmess
   server: 209.58.139.41
   port: '443'
@@ -377,7 +377,7 @@ proxies:
   ws-headers:
     Host: usa-sanfrancisco.lvuft.com
   tls: true
-- name: 112.33.32.148@中国(CN)-深圳市/5RV
+- name: 112.33.32.148@中国(CN)-深圳市/p0B
   type: vmess
   server: 112.33.32.148
   port: '10003'
@@ -390,7 +390,7 @@ proxies:
   ws-headers:
     Host: 112.33.32.148
   tls: false
-- name: usa-buffalo.lvuft.com@美国(US)-水牛城/dCb
+- name: usa-buffalo.lvuft.com@美国(US)-水牛城/LTU
   type: vmess
   server: usa-buffalo.lvuft.com
   port: '443'
@@ -403,7 +403,7 @@ proxies:
   ws-headers:
     Host: usa-buffalo.lvuft.com
   tls: true
-- name: 715hk.fans8.xyz@香港(HK)-中環/sFQ
+- name: 715hk.fans8.xyz@香港(HK)-中環/SHy
   type: vmess
   server: 715hk.fans8.xyz
   port: '80'
@@ -416,7 +416,7 @@ proxies:
   ws-headers:
     Host: t.me/vpnhat
   tls: false
-- name: de.52jjyun.top@德国(DE)-法兰克福/5nO
+- name: de.52jjyun.top@德国(DE)-法兰克福/aFo
   type: vmess
   server: de.52jjyun.top
   port: '80'
@@ -429,7 +429,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: usa-dallas.lvuft.com@美国(US)-達拉斯/tkK
+- name: usa-dallas.lvuft.com@美国(US)-達拉斯/Ls3
   type: vmess
   server: usa-dallas.lvuft.com
   port: '443'
@@ -442,7 +442,7 @@ proxies:
   ws-headers:
     Host: usa-dallas.lvuft.com
   tls: true
-- name: nl.52jjyun.top@德国(DE)-法兰克福/DBF
+- name: nl.52jjyun.top@德国(DE)-法兰克福/2Cn
   type: vmess
   server: nl.52jjyun.top
   port: '80'
@@ -455,7 +455,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: usdsl.52jjyun.top@美国(US)-達拉斯/3zP
+- name: usdsl.52jjyun.top@美国(US)-達拉斯/SNA
   type: vmess
   server: usdsl.52jjyun.top
   port: '80'
@@ -468,14 +468,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 38.91.100.130@美国(US)-纽约/B20
+- name: 38.91.100.130@美国(US)-纽约/3Sh
   type: ss
   server: 38.91.100.130
   port: '2375'
   password: faBAoD54k87UJG7
   alterId: 2
   cipher: aes-256-gcm
-- name: ruzz.52jjyun.top@台湾(TW)-新北市/5XD
+- name: ruzz.52jjyun.top@台湾(TW)-新北市/ejW
   type: vmess
   server: ruzz.52jjyun.top
   port: '51232'
@@ -488,7 +488,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: hkf1.dior.bar@香港(HK)-中環/xUe
+- name: hkf1.dior.bar@香港(HK)-中環/aCN
   type: vmess
   server: hkf1.dior.bar
   port: '80'
@@ -501,7 +501,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: hkf1.dior.bar@香港(HK)-中環/15q
+- name: hkf1.dior.bar@香港(HK)-中環/Udg
   type: vmess
   server: hkf1.dior.bar
   port: '80'
@@ -514,7 +514,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: fus1.uuv2.co.ukTHkna7sU
+- name: fus1.uuv2.co.ukTRyhEr3z
   type: vmess
   server: fus1.uuv2.co.uk
   port: '2082'
@@ -527,21 +527,21 @@ proxies:
   ws-headers:
     Host: download.jianguoyun.com
   tls: false
-- name: 167.88.63.74@美国(US)-亚特兰大/zQk
+- name: 167.88.63.74@美国(US)-亚特兰大/D5y
   type: ss
   server: 167.88.63.74
   port: '3389'
   password: Y6R9pAtvxxzmGC
   alterId: 2
   cipher: aes-256-gcm
-- name: 84.17.37.55@香港(HK)-中環/FoB
+- name: 84.17.37.55@香港(HK)-中環/vQD
   type: ss
   server: 84.17.37.55
   port: '8389'
   password: tjwRqQvteAjt3xFmbZTA
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: 112.33.32.148@中国(CN)-深圳市/8UE
+- name: 112.33.32.148@中国(CN)-深圳市/XQi
   type: vmess
   server: 112.33.32.148
   port: '10003'
@@ -554,7 +554,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 930tg.fans8.xyzEod2i8gp
+- name: 930tg.fans8.xyzL3qN4FQ2
   type: vmess
   server: 930tg.fans8.xyz
   port: '80'
@@ -567,7 +567,7 @@ proxies:
   ws-headers:
     Host: t.me/vpnhat
   tls: false
-- name: 104.19.101.3GceQWlpP
+- name: 104.19.101.3rvJPE9sU
   type: vmess
   server: 104.19.101.3
   port: '2053'
@@ -580,14 +580,14 @@ proxies:
   ws-headers:
     Host: e.fovi.tk
   tls: true
-- name: 102.129.144.142ApXPS6vM
+- name: 102.129.144.142GwHdE4z2
   type: ss
   server: 102.129.144.142
   port: '8389'
   password: QzTsOpqsdj29bWqIqWR6
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: 107.161.50.42DRXgCHVa
+- name: 107.161.50.42YpaWhRBL
   type: vmess
   server: 107.161.50.42
   port: '22401'
@@ -600,7 +600,7 @@ proxies:
   ws-headers:
     Host: 107.161.50.42
   tls: false
-- name: 1114hk.fans8.xyzyszxjbRc
+- name: 1114hk.fans8.xyznNarJHbZ
   type: vmess
   server: 1114hk.fans8.xyz
   port: '80'
@@ -613,7 +613,7 @@ proxies:
   ws-headers:
     Host: t.me/vpnhat
   tls: false
-- name: 1116yn.fans8.xyzupNkaqxn
+- name: 1116yn.fans8.xyzBwZ7LSIa
   type: vmess
   server: 1116yn.fans8.xyz
   port: '80'
@@ -626,7 +626,7 @@ proxies:
   ws-headers:
     Host: t.me/vpnhat
   tls: false
-- name: 198.41.212.234U1m38bur
+- name: 198.41.212.234tLMskPBq
   type: vmess
   server: 198.41.212.234
   port: '2082'
@@ -639,7 +639,7 @@ proxies:
   ws-headers:
     Host: download.jianguoyun.com
   tls: false
-- name: v2ray.ifuckgfw.gaPRB8te9v
+- name: v2ray.ifuckgfw.gaalNGw0yX
   type: vmess
   server: v2ray.ifuckgfw.ga
   port: '8443'
@@ -652,7 +652,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: shcn2-06b.iplc188.comTkeDLgFC
+- name: shcn2-06b.iplc188.comE85mwq4K
   type: vmess
   server: shcn2-06b.iplc188.com
   port: '10002'
@@ -665,14 +665,14 @@ proxies:
   ws-headers:
     Host: shcn2-06b.iplc188.com
   tls: false
-- name: 142.202.48.17s5jefJ7g
+- name: 142.202.48.17sWu0YhQH
   type: ss
   server: 142.202.48.17
   port: '7306'
   password: FoOiGlkAA9yPEGP
   alterId: 2
   cipher: aes-256-gcm
-- name: 143.244.185.97GEUeP9sC
+- name: 143.244.185.97nNejtC6x
   type: vmess
   server: 143.244.185.97
   port: '4216'
@@ -685,7 +685,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: usjjs.52jjyun.topfBotJCUy
+- name: usjjs.52jjyun.topRuhVOXig
   type: vmess
   server: usjjs.52jjyun.top
   port: '80'
@@ -698,7 +698,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 1031kr.fans8.xyzYKdkvGPc
+- name: 1031kr.fans8.xyzjcXqaRAF
   type: vmess
   server: 1031kr.fans8.xyz
   port: '80'
@@ -711,7 +711,7 @@ proxies:
   ws-headers:
     Host: t.me/vpnhat
   tls: false
-- name: shcn2-06b.iplc188.comJWOZgmN9
+- name: shcn2-06b.iplc188.comzrUg9OSP
   type: vmess
   server: shcn2-06b.iplc188.com
   port: '10004'
@@ -724,7 +724,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 172.104.98.216yKYGxvpr
+- name: 172.104.98.216n2pErOqJ
   type: vmess
   server: 172.104.98.216
   port: '80'
@@ -737,7 +737,7 @@ proxies:
   ws-headers:
     Host: www.gov.hk
   tls: false
-- name: 129.227.201.23451DzuHsF
+- name: 129.227.201.234IrBMx8F7
   type: vmess
   server: 129.227.201.234
   port: '443'
@@ -756,133 +756,133 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - cn.zzv11.infonode.xyz@中国(CN)-镇江市/IMV
-  - cn.zzv01.infonode.xyz@中国(CN)-广州市/9ux
-  - cn.zzv13.infonode.xyz@中国(CN)-温州市/Adi
-  - 183.240.181.14@中国(CN)-深圳市/PQ4
-  - 183.232.157.72@中国(CN)-深圳市/IVq
-  - 183.240.181.14@中国(CN)-深圳市/DVI
-  - ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/u7s
-  - 183.232.157.72@中国(CN)-深圳市/47o
-  - ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/sbY
-  - shcu01.iplc188.com@中国(CN)-上海/KcX
-  - 154.31.41.10@美国(US)-San Jose/lVb
-  - chuch3go.com@美国(US)-San Jose/Kt0
-  - 43.155.75.170@香港(HK)-中環/KNY
-  - ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/QJD
-  - uslsj.52jjyun.top@美国(US)-Canyon Country/Z1q
-  - 147.182.249.191@美国(US)-圣克拉拉/roQ
-  - c23s801.jamjams.net@美国(US)-費利蒙/ZqY
-  - usa-sanfrancisco.lvuft.com@美国(US)-Cheney/94L
-  - 70.39.71.2@美国(US)-諾克斯維爾/tCB
-  - c23s801.jamjams.net@美国(US)-費利蒙/mOc
-  - usml.jjyun.ren@美国(US)-紐華克/mU6
-  - usa-sanfrancisco.lvuft.com@美国(US)-Cheney/2WX
-  - 169.57.35.97@墨西哥(MX)-墨西哥城/WXI
-  - usa-washington.lvuft.com@美国(US)-馬納薩斯/AHi
-  - shcn2-06b.iplc188.com@中国(CN)-上海/U41
-  - 192.186.129.66@美国(US)-水牛城/OnH
-  - 192.96.204.250@美国(US)-馬納薩斯/BrY
-  - 193.108.118.2@德国(DE)-法兰克福/XzQ
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/BqD
-  - 209.58.139.41@美国(US)-Cheney/E1B
-  - 112.33.32.148@中国(CN)-深圳市/5RV
-  - usa-buffalo.lvuft.com@美国(US)-水牛城/dCb
-  - 715hk.fans8.xyz@香港(HK)-中環/sFQ
-  - de.52jjyun.top@德国(DE)-法兰克福/5nO
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/tkK
-  - nl.52jjyun.top@德国(DE)-法兰克福/DBF
-  - usdsl.52jjyun.top@美国(US)-達拉斯/3zP
-  - 38.91.100.130@美国(US)-纽约/B20
-  - ruzz.52jjyun.top@台湾(TW)-新北市/5XD
-  - hkf1.dior.bar@香港(HK)-中環/xUe
-  - hkf1.dior.bar@香港(HK)-中環/15q
-  - fus1.uuv2.co.ukTHkna7sU
-  - 167.88.63.74@美国(US)-亚特兰大/zQk
-  - 84.17.37.55@香港(HK)-中環/FoB
-  - 112.33.32.148@中国(CN)-深圳市/8UE
-  - 930tg.fans8.xyzEod2i8gp
-  - 104.19.101.3GceQWlpP
-  - 102.129.144.142ApXPS6vM
-  - 107.161.50.42DRXgCHVa
-  - 1114hk.fans8.xyzyszxjbRc
-  - 1116yn.fans8.xyzupNkaqxn
-  - 198.41.212.234U1m38bur
-  - v2ray.ifuckgfw.gaPRB8te9v
-  - shcn2-06b.iplc188.comTkeDLgFC
-  - 142.202.48.17s5jefJ7g
-  - 143.244.185.97GEUeP9sC
-  - usjjs.52jjyun.topfBotJCUy
-  - 1031kr.fans8.xyzYKdkvGPc
-  - shcn2-06b.iplc188.comJWOZgmN9
-  - 172.104.98.216yKYGxvpr
-  - 129.227.201.23451DzuHsF
+  - cn.zzv11.infonode.xyz@中国(CN)-镇江市/TJw
+  - cn.zzv01.infonode.xyz@中国(CN)-广州市/9ER
+  - cn.zzv13.infonode.xyz@中国(CN)-温州市/I2J
+  - 183.240.181.14@中国(CN)-深圳市/W9I
+  - 183.232.157.72@中国(CN)-深圳市/GSC
+  - 183.240.181.14@中国(CN)-深圳市/3sx
+  - ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/SVB
+  - 183.232.157.72@中国(CN)-深圳市/mjP
+  - ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/GdD
+  - shcu01.iplc188.com@中国(CN)-上海/wSH
+  - 154.31.41.10@美国(US)-San Jose/3Pl
+  - chuch3go.com@美国(US)-San Jose/sIX
+  - 43.155.75.170@香港(HK)-中環/BbS
+  - ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/IHJ
+  - uslsj.52jjyun.top@美国(US)-Canyon Country/wAF
+  - 147.182.249.191@美国(US)-圣克拉拉/PQh
+  - c23s801.jamjams.net@美国(US)-費利蒙/dv1
+  - usa-sanfrancisco.lvuft.com@美国(US)-Cheney/s3O
+  - 70.39.71.2@美国(US)-諾克斯維爾/M4o
+  - c23s801.jamjams.net@美国(US)-費利蒙/OHh
+  - usml.jjyun.ren@美国(US)-紐華克/Z6N
+  - usa-sanfrancisco.lvuft.com@美国(US)-Cheney/tN5
+  - 169.57.35.97@墨西哥(MX)-墨西哥城/7t3
+  - usa-washington.lvuft.com@美国(US)-馬納薩斯/Yuo
+  - shcn2-06b.iplc188.com@中国(CN)-上海/Lt5
+  - 192.186.129.66@美国(US)-水牛城/h6A
+  - 192.96.204.250@美国(US)-馬納薩斯/jfv
+  - 193.108.118.2@德国(DE)-法兰克福/4Ja
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/Kf1
+  - 209.58.139.41@美国(US)-Cheney/VBp
+  - 112.33.32.148@中国(CN)-深圳市/p0B
+  - usa-buffalo.lvuft.com@美国(US)-水牛城/LTU
+  - 715hk.fans8.xyz@香港(HK)-中環/SHy
+  - de.52jjyun.top@德国(DE)-法兰克福/aFo
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/Ls3
+  - nl.52jjyun.top@德国(DE)-法兰克福/2Cn
+  - usdsl.52jjyun.top@美国(US)-達拉斯/SNA
+  - 38.91.100.130@美国(US)-纽约/3Sh
+  - ruzz.52jjyun.top@台湾(TW)-新北市/ejW
+  - hkf1.dior.bar@香港(HK)-中環/aCN
+  - hkf1.dior.bar@香港(HK)-中環/Udg
+  - fus1.uuv2.co.ukTRyhEr3z
+  - 167.88.63.74@美国(US)-亚特兰大/D5y
+  - 84.17.37.55@香港(HK)-中環/vQD
+  - 112.33.32.148@中国(CN)-深圳市/XQi
+  - 930tg.fans8.xyzL3qN4FQ2
+  - 104.19.101.3rvJPE9sU
+  - 102.129.144.142GwHdE4z2
+  - 107.161.50.42YpaWhRBL
+  - 1114hk.fans8.xyznNarJHbZ
+  - 1116yn.fans8.xyzBwZ7LSIa
+  - 198.41.212.234tLMskPBq
+  - v2ray.ifuckgfw.gaalNGw0yX
+  - shcn2-06b.iplc188.comE85mwq4K
+  - 142.202.48.17sWu0YhQH
+  - 143.244.185.97nNejtC6x
+  - usjjs.52jjyun.topRuhVOXig
+  - 1031kr.fans8.xyzjcXqaRAF
+  - shcn2-06b.iplc188.comzrUg9OSP
+  - 172.104.98.216n2pErOqJ
+  - 129.227.201.234IrBMx8F7
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   proxies:
-  - cn.zzv11.infonode.xyz@中国(CN)-镇江市/IMV
-  - cn.zzv01.infonode.xyz@中国(CN)-广州市/9ux
-  - cn.zzv13.infonode.xyz@中国(CN)-温州市/Adi
-  - 183.240.181.14@中国(CN)-深圳市/PQ4
-  - 183.232.157.72@中国(CN)-深圳市/IVq
-  - 183.240.181.14@中国(CN)-深圳市/DVI
-  - ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/u7s
-  - 183.232.157.72@中国(CN)-深圳市/47o
-  - ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/sbY
-  - shcu01.iplc188.com@中国(CN)-上海/KcX
-  - 154.31.41.10@美国(US)-San Jose/lVb
-  - chuch3go.com@美国(US)-San Jose/Kt0
-  - 43.155.75.170@香港(HK)-中環/KNY
-  - ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/QJD
-  - uslsj.52jjyun.top@美国(US)-Canyon Country/Z1q
-  - 147.182.249.191@美国(US)-圣克拉拉/roQ
-  - c23s801.jamjams.net@美国(US)-費利蒙/ZqY
-  - usa-sanfrancisco.lvuft.com@美国(US)-Cheney/94L
-  - 70.39.71.2@美国(US)-諾克斯維爾/tCB
-  - c23s801.jamjams.net@美国(US)-費利蒙/mOc
-  - usml.jjyun.ren@美国(US)-紐華克/mU6
-  - usa-sanfrancisco.lvuft.com@美国(US)-Cheney/2WX
-  - 169.57.35.97@墨西哥(MX)-墨西哥城/WXI
-  - usa-washington.lvuft.com@美国(US)-馬納薩斯/AHi
-  - shcn2-06b.iplc188.com@中国(CN)-上海/U41
-  - 192.186.129.66@美国(US)-水牛城/OnH
-  - 192.96.204.250@美国(US)-馬納薩斯/BrY
-  - 193.108.118.2@德国(DE)-法兰克福/XzQ
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/BqD
-  - 209.58.139.41@美国(US)-Cheney/E1B
-  - 112.33.32.148@中国(CN)-深圳市/5RV
-  - usa-buffalo.lvuft.com@美国(US)-水牛城/dCb
-  - 715hk.fans8.xyz@香港(HK)-中環/sFQ
-  - de.52jjyun.top@德国(DE)-法兰克福/5nO
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/tkK
-  - nl.52jjyun.top@德国(DE)-法兰克福/DBF
-  - usdsl.52jjyun.top@美国(US)-達拉斯/3zP
-  - 38.91.100.130@美国(US)-纽约/B20
-  - ruzz.52jjyun.top@台湾(TW)-新北市/5XD
-  - hkf1.dior.bar@香港(HK)-中環/xUe
-  - hkf1.dior.bar@香港(HK)-中環/15q
-  - fus1.uuv2.co.ukTHkna7sU
-  - 167.88.63.74@美国(US)-亚特兰大/zQk
-  - 84.17.37.55@香港(HK)-中環/FoB
-  - 112.33.32.148@中国(CN)-深圳市/8UE
-  - 930tg.fans8.xyzEod2i8gp
-  - 104.19.101.3GceQWlpP
-  - 102.129.144.142ApXPS6vM
-  - 107.161.50.42DRXgCHVa
-  - 1114hk.fans8.xyzyszxjbRc
-  - 1116yn.fans8.xyzupNkaqxn
-  - 198.41.212.234U1m38bur
-  - v2ray.ifuckgfw.gaPRB8te9v
-  - shcn2-06b.iplc188.comTkeDLgFC
-  - 142.202.48.17s5jefJ7g
-  - 143.244.185.97GEUeP9sC
-  - usjjs.52jjyun.topfBotJCUy
-  - 1031kr.fans8.xyzYKdkvGPc
-  - shcn2-06b.iplc188.comJWOZgmN9
-  - 172.104.98.216yKYGxvpr
-  - 129.227.201.23451DzuHsF
+  - cn.zzv11.infonode.xyz@中国(CN)-镇江市/TJw
+  - cn.zzv01.infonode.xyz@中国(CN)-广州市/9ER
+  - cn.zzv13.infonode.xyz@中国(CN)-温州市/I2J
+  - 183.240.181.14@中国(CN)-深圳市/W9I
+  - 183.232.157.72@中国(CN)-深圳市/GSC
+  - 183.240.181.14@中国(CN)-深圳市/3sx
+  - ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/SVB
+  - 183.232.157.72@中国(CN)-深圳市/mjP
+  - ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/GdD
+  - shcu01.iplc188.com@中国(CN)-上海/wSH
+  - 154.31.41.10@美国(US)-San Jose/3Pl
+  - chuch3go.com@美国(US)-San Jose/sIX
+  - 43.155.75.170@香港(HK)-中環/BbS
+  - ngzyd-1.okex-tradebot.xyz@中国(CN)-Luohu/IHJ
+  - uslsj.52jjyun.top@美国(US)-Canyon Country/wAF
+  - 147.182.249.191@美国(US)-圣克拉拉/PQh
+  - c23s801.jamjams.net@美国(US)-費利蒙/dv1
+  - usa-sanfrancisco.lvuft.com@美国(US)-Cheney/s3O
+  - 70.39.71.2@美国(US)-諾克斯維爾/M4o
+  - c23s801.jamjams.net@美国(US)-費利蒙/OHh
+  - usml.jjyun.ren@美国(US)-紐華克/Z6N
+  - usa-sanfrancisco.lvuft.com@美国(US)-Cheney/tN5
+  - 169.57.35.97@墨西哥(MX)-墨西哥城/7t3
+  - usa-washington.lvuft.com@美国(US)-馬納薩斯/Yuo
+  - shcn2-06b.iplc188.com@中国(CN)-上海/Lt5
+  - 192.186.129.66@美国(US)-水牛城/h6A
+  - 192.96.204.250@美国(US)-馬納薩斯/jfv
+  - 193.108.118.2@德国(DE)-法兰克福/4Ja
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/Kf1
+  - 209.58.139.41@美国(US)-Cheney/VBp
+  - 112.33.32.148@中国(CN)-深圳市/p0B
+  - usa-buffalo.lvuft.com@美国(US)-水牛城/LTU
+  - 715hk.fans8.xyz@香港(HK)-中環/SHy
+  - de.52jjyun.top@德国(DE)-法兰克福/aFo
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/Ls3
+  - nl.52jjyun.top@德国(DE)-法兰克福/2Cn
+  - usdsl.52jjyun.top@美国(US)-達拉斯/SNA
+  - 38.91.100.130@美国(US)-纽约/3Sh
+  - ruzz.52jjyun.top@台湾(TW)-新北市/ejW
+  - hkf1.dior.bar@香港(HK)-中環/aCN
+  - hkf1.dior.bar@香港(HK)-中環/Udg
+  - fus1.uuv2.co.ukTRyhEr3z
+  - 167.88.63.74@美国(US)-亚特兰大/D5y
+  - 84.17.37.55@香港(HK)-中環/vQD
+  - 112.33.32.148@中国(CN)-深圳市/XQi
+  - 930tg.fans8.xyzL3qN4FQ2
+  - 104.19.101.3rvJPE9sU
+  - 102.129.144.142GwHdE4z2
+  - 107.161.50.42YpaWhRBL
+  - 1114hk.fans8.xyznNarJHbZ
+  - 1116yn.fans8.xyzBwZ7LSIa
+  - 198.41.212.234tLMskPBq
+  - v2ray.ifuckgfw.gaalNGw0yX
+  - shcn2-06b.iplc188.comE85mwq4K
+  - 142.202.48.17sWu0YhQH
+  - 143.244.185.97nNejtC6x
+  - usjjs.52jjyun.topRuhVOXig
+  - 1031kr.fans8.xyzjcXqaRAF
+  - shcn2-06b.iplc188.comzrUg9OSP
+  - 172.104.98.216n2pErOqJ
+  - 129.227.201.234IrBMx8F7
 - name: 🌍 国外媒体
   type: select
   proxies:
