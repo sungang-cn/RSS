@@ -5,337 +5,45 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/bTC
+- name: zz-hk-v5.laov888.win@中国(CN)-广州市/1k4
   type: vmess
-  server: guangzou-yd-jy-03.pucdn.me
-  port: '62008'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
+  server: zz-hk-v5.laov888.win
+  port: '21705'
+  uuid: 67b1589b-473a-3875-9174-ed5e314fa41a
   alterId: '2'
   cipher: auto
   network: ws
   ucp: true
-  ws-path: /vvv
+  ws-path: /hls
   ws-headers:
-    Host: L1-aws-hk-09.pucdn.me
+    Host: www.baidu.com
   tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/yTC
+- name: zz-hk-v5.laov888.win@中国(CN)-广州市/Ugh
   type: vmess
-  server: guangzou-yd-jy-03.pucdn.me
-  port: '62005'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
+  server: zz-hk-v5.laov888.win
+  port: '21705'
+  uuid: 67b1589b-473a-3875-9174-ed5e314fa41a
   alterId: '2'
   cipher: auto
   network: ws
   ucp: true
-  ws-path: /vvv
+  ws-path: /hls
   ws-headers:
-    Host: L1-aws-hk-06.pucdn.me
+    Host: www.baidu.com
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Xf2
+- name: 118.107.244.112@香港(HK)-中環/CnR
+  type: ss
+  server: 118.107.244.112
+  port: '8008'
+  password: XKFKl2rULjIp74
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 216.24.179.100@美国(US)-洛杉矶/Omv
   type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '62011'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-hk-12.pucdn.me
-  tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/ngK
-  type: vmess
-  server: global-transit-hk-v2.pucdn.me
-  port: '40011'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-jp-11.pucdn.me
-  tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/erO
-  type: vmess
-  server: guangzou-yd-jy-03.pucdn.me
-  port: '62007'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-hk-08.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ZiX
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '63008'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-kr-08.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ahm
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '62010'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-hk-11.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/LGD
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '63005'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-kr-05.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/u9v
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '63005'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-kr-05.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/tjF
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '63008'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-kr-08.pucdn.me
-  tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/RxV
-  type: vmess
-  server: global-transit-hk-v2.pucdn.me
-  port: '40011'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-jp-11.pucdn.me
-  tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/WCO
-  type: vmess
-  server: global-transit-hk-v2.pucdn.me
-  port: '40009'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-jp-09.pucdn.me
-  tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/WbA
-  type: vmess
-  server: guangzou-yd-jy-03.pucdn.me
-  port: '62008'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-hk-09.pucdn.me
-  tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/W71
-  type: vmess
-  server: global-transit-hk-v2.pucdn.me
-  port: '40007'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-jp-07.pucdn.me
-  tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/nEx
-  type: vmess
-  server: global-transit-hk-v2.pucdn.me
-  port: '40009'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-jp-09.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/xyB
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '63006'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-kr-06.pucdn.me
-  tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/VTZ
-  type: vmess
-  server: global-transit-hk-v2.pucdn.me
-  port: '40010'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-jp-10.pucdn.me
-  tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/tcn
-  type: vmess
-  server: global-transit-hk-v2.pucdn.me
-  port: '40006'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-jp-06.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/GQx
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '63002'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-kr-02.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/mOp
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '63002'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-kr-02.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/v31
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '63007'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-kr-07.pucdn.me
-  tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/bly
-  type: vmess
-  server: global-transit-hk-v2.pucdn.me
-  port: '40010'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-jp-10.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/5Qd
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '63007'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-kr-07.pucdn.me
-  tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/zOc
-  type: vmess
-  server: global-transit-hk-v2.pucdn.me
-  port: '40012'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-jp-12.pucdn.me
-  tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/J8a
-  type: vmess
-  server: guangzou-yd-jy-03.pucdn.me
-  port: '40003'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-jp-03.pucdn.me
-  tls: false
-- name: 139.227.161.129@中国(CN)-上海/tyS
-  type: vmess
-  server: 139.227.161.129
-  port: '10001'
-  uuid: 65cac56d-4155-43c8-bae0-f368cb21f771
-  alterId: '1'
+  server: 216.24.179.100
+  port: '17839'
+  uuid: 525a0aa8-9374-4f31-8207-29ca1d6a1620
+  alterId: '8'
   cipher: auto
   network: tcp
   ucp: true
@@ -343,202 +51,20 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/3WJ
+- name: 216.24.179.100@美国(US)-洛杉矶/8d3
   type: vmess
-  server: guangzou-yd-jy-03.pucdn.me
-  port: '40004'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-jp-04.pucdn.me
-  tls: false
-- name: 120.232.173.88@中国(CN)-广州市/25H
-  type: vmess
-  server: 120.232.173.88
-  port: '45319'
-  uuid: 310948de-6c49-36f3-990e-2048adea5ab0
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /inde
-  ws-headers:
-    Host: ''
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/HFc
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '61003'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-sg-04.pucdn.me
-  tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/oVG
-  type: vmess
-  server: guangzou-yd-jy-03.pucdn.me
-  port: '62007'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-hk-08.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/3Au
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '61002'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-sg-03.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/qxV
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '63003'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-kr-03.pucdn.me
-  tls: false
-- name: 104.17.170.210@加拿大(CA)-蒙特利尔/q9W
-  type: vmess
-  server: 104.17.170.210
-  port: '443'
-  uuid: d064d11b-477c-4c5d-a2d8-9fd599ef8e79
-  alterId: '1'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: kycc
-  ws-headers:
-    Host: lsb.stupidfellow.cf
-  tls: true
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/PlM
-  type: vmess
-  server: guangzou-yd-jy-03.pucdn.me
-  port: '62005'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-hk-06.pucdn.me
-  tls: false
-- name: v8.ssrsub.com@美国(US)-紐華克/Ea0
-  type: vmess
-  server: v8.ssrsub.com
-  port: '443'
-  uuid: 3babef69-fb91-47f8-8882-e5a0a1ba3689
-  alterId: '0'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /ssrsub
-  ws-headers:
-    Host: ''
-  tls: true
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/XIp
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '62012'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-hk-13.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/IY9
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '62011'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-hk-12.pucdn.me
-  tls: false
-- name: 172.104.98.216@日本(JP)-东京/Zih
-  type: vmess
-  server: 172.104.98.216
-  port: '80'
-  uuid: e5af0cad-295c-37b2-b601-f35d13f6b1bb
-  alterId: '64'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /
-  ws-headers:
-    Host: www.gov.hk
-  tls: false
-- name: mf-az-yd-01.xncloud.xyz@印度(IN)-金奈/uYX
-  type: vmess
-  server: mf-az-yd-01.xncloud.xyz
-  port: '80'
-  uuid: c407f3e3-d302-3e51-a13e-b4d91c53739c
-  alterId: '1'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /niaoyun
-  ws-headers:
-    Host: t.me/vpnhat
-  tls: false
-- name: 112.33.32.136@中国(CN)-深圳市/uEI
-  type: vmess
-  server: 112.33.32.136
-  port: '10003'
-  uuid: 65cac56d-4155-43c8-bae0-f368cb21f771
-  alterId: '1'
+  server: 216.24.179.100
+  port: '17839'
+  uuid: 525a0aa8-9374-4f31-8207-29ca1d6a1620
+  alterId: '8'
   cipher: auto
   network: tcp
   ucp: true
-  ws-path: /
+  ws-path: ''
   ws-headers:
     Host: ''
   tls: false
-- name: 104.168.83.22@美国(US)-西雅圖/XUz
-  type: vmess
-  server: 104.168.83.22
-  port: '80'
-  uuid: 892ebb75-7055-3007-8d16-356e65c6a49a
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /v1032N9rN0yPy
-  ws-headers:
-    Host: gd.189.cn
-  tls: false
-- name: www.ltzs.buzz@加拿大(CA)-蒙特利尔/YVG
+- name: www.ltzs.buzz@加拿大(CA)-蒙特利尔/pOg
   type: vmess
   server: www.ltzs.buzz
   port: '443'
@@ -551,70 +77,31 @@ proxies:
   ws-headers:
     Host: www.ltzs.buzz
   tls: true
-- name: 45.141.152.178@德国(DE)-法兰克福/qiJ
+- name: us11.vip-v2ray.ml@美国(US)-凤凰城/SpM
+  type: vmess
+  server: us11.vip-v2ray.ml
+  port: '42564'
+  uuid: b2d38458-c821-4317-c5eb-461bc9169e70
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /hls/cctv5phd.m3u8
+  ws-headers:
+    Host: us11.vip-v2ray.ml
+  tls: false
+- name: 118.107.244.112@香港(HK)-中環/ekE
   type: ss
-  server: 45.141.152.178
-  port: '8389'
-  password: FTvsfXCvXLPFEMKNSADr
+  server: 118.107.244.112
+  port: '5601'
+  password: Y6R9pAtvxxzmGC
   alterId: 2
-  cipher: chacha20-ietf-poly1305
-- name: misty-meadow-9120.lishanpao.workers.dev@美国(US)-紐華克/PfI
+  cipher: aes-256-gcm
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/dwK
   type: vmess
-  server: misty-meadow-9120.lishanpao.workers.dev
-  port: '443'
-  uuid: 76579717-0477-47fe-dc08-76ab561f224b
-  alterId: '7758'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /YunShangDaShanPao
-  ws-headers:
-    Host: misty-meadow-9120.lishanpao.workers.dev
-  tls: true
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/MRc
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '62009'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-hk-10.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Uyc
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '61003'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-sg-04.pucdn.me
-  tls: false
-- name: 120.197.88.216@中国(CN)-深圳市/erP
-  type: vmess
-  server: 120.197.88.216
-  port: '20049'
-  uuid: e016e2ce-e311-4658-874b-0de7c03ecdc0
-  alterId: '1'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /
-  ws-headers:
-    Host: cm-jm.okvpn.xyz
-  tls: false
-- name: 120.197.88.216@中国(CN)-深圳市/fwP
-  type: vmess
-  server: 120.197.88.216
-  port: '20015'
-  uuid: 0c80b44c-d683-4ec3-94b0-f356ec134d54
+  server: cm-jm.okvpn.xyz
+  port: '20005'
+  uuid: fa2c02cf-bbc1-4da0-b051-3731d87ec785
   alterId: '1'
   cipher: auto
   network: ws
@@ -623,7 +110,145 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 45.58.150.130@荷兰(NL)-阿姆斯特丹/6iZ
+- name: 118.107.244.112@香港(HK)-中環/N8D
+  type: ss
+  server: 118.107.244.112
+  port: '8881'
+  password: kDWvXYZoTBcGkC4
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 45.77.69.134@美国(US)-洛杉矶/qk3
+  type: vmess
+  server: 45.77.69.134
+  port: '59892'
+  uuid: 1b6e0c84-684e-11ec-8e25-560003c368c6
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /8xEeiU7c/
+  ws-headers:
+    Host: ''
+  tls: false
+- name: 70.32.0.208@美国(US)-Ashburn/dEa
+  type: ss
+  server: 70.32.0.208
+  port: '8389'
+  password: q4apPAjyY9knqKS4e9xZ
+  alterId: 2
+  cipher: chacha20-ietf-poly1305
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/4ia
+  type: vmess
+  server: cm-jm.okvpn.xyz
+  port: '20047'
+  uuid: fa2c02cf-bbc1-4da0-b051-3731d87ec785
+  alterId: '1'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: ''
+  tls: false
+- name: 77.243.191.178@比利时(BE)-布鲁塞尔/Vhe
+  type: ss
+  server: 77.243.191.178
+  port: '8389'
+  password: 47GH3wQRw7V4Zhd35bFs
+  alterId: 2
+  cipher: chacha20-ietf-poly1305
+- name: 192.186.129.66@美国(US)-水牛城/JF2
+  type: vmess
+  server: 192.186.129.66
+  port: '443'
+  uuid: aba50dd4-5484-3b05-b14a-4661caf862d5
+  alterId: '4'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /ws
+  ws-headers:
+    Host: usa-buffalo.lvuft.com
+  tls: true
+- name: 23.82.136.151@美国(US)-Carthage/YfH
+  type: vmess
+  server: 23.82.136.151
+  port: '443'
+  uuid: aba50dd4-5484-3b05-b14a-4661caf862d5
+  alterId: '4'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /ws
+  ws-headers:
+    Host: usa-miami.lvuft.com
+  tls: true
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/afs
+  type: vmess
+  server: cm-jm.okvpn.xyz
+  port: '20005'
+  uuid: fa2c02cf-bbc1-4da0-b051-3731d87ec785
+  alterId: '1'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: ''
+  ws-headers:
+    Host: youtube-aweikeji
+  tls: false
+- name: 104.16.160.114@加拿大(CA)-蒙特利尔/320
+  type: vmess
+  server: 104.16.160.114
+  port: '443'
+  uuid: 5f4b2e42-ff2b-4342-86fc-b7ba1b5361e8
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /The-Great-Awakening_vws
+  ws-headers:
+    Host: vincent-jackson2021.ga
+  tls: true
+- name: us01.eelvee.org@美国(US)-費利蒙/dxu
+  type: vmess
+  server: us01.eelvee.org
+  port: '3389'
+  uuid: e5eedfed-5872-336c-a6bf-7dc91759db63
+  alterId: '2'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /hls/cctv5phd.m3u8
+  ws-headers:
+    Host: ''
+  tls: false
+- name: ff7.uuv2.co.uk@加拿大(CA)-蒙特利尔/DxI
+  type: vmess
+  server: ff7.uuv2.co.uk
+  port: '443'
+  uuid: d064d11b-477c-4c5d-a2d8-9fd599ef8e79
+  alterId: '1'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: kycc
+  ws-headers:
+    Host: lsb.stupidfellow.cf
+  tls: true
+- name: us01.eelvee.org@美国(US)-費利蒙/2eI
+  type: vmess
+  server: us01.eelvee.org
+  port: '3389'
+  uuid: e5eedfed-5872-336c-a6bf-7dc91759db63
+  alterId: '2'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /hls/cctv5phd.m3u8
+  ws-headers:
+    Host: ''
+  tls: false
+- name: 45.58.150.130@荷兰(NL)-阿姆斯特丹/WjJ
   type: vmess
   server: 45.58.150.130
   port: '443'
@@ -636,436 +261,7 @@ proxies:
   ws-headers:
     Host: dax6ujai.com
   tls: true
-- name: 120.197.88.216@中国(CN)-深圳市/VqW
-  type: vmess
-  server: 120.197.88.216
-  port: '20006'
-  uuid: e016e2ce-e311-4658-874b-0de7c03ecdc0
-  alterId: '1'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /
-  ws-headers:
-    Host: cm-jm.okvpn.xyz
-  tls: false
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/a8z
-  type: vmess
-  server: cm-jm.okvpn.xyz
-  port: '20003'
-  uuid: 0c80b44c-d683-4ec3-94b0-f356ec134d54
-  alterId: '1'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: ''
-  ws-headers:
-    Host: ''
-  tls: false
-- name: 120.197.88.216@中国(CN)-深圳市/ZIy
-  type: vmess
-  server: 120.197.88.216
-  port: '20006'
-  uuid: e016e2ce-e311-4658-874b-0de7c03ecdc0
-  alterId: '1'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /
-  ws-headers:
-    Host: cm-jm.okvpn.xyz
-  tls: false
-- name: usa-buffalo.lvuft.com@美国(US)-水牛城/J8f
-  type: vmess
-  server: usa-buffalo.lvuft.com
-  port: '443'
-  uuid: aba50dd4-5484-3b05-b14a-4661caf862d5
-  alterId: '4'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /ws
-  ws-headers:
-    Host: usa-buffalo.lvuft.com
-  tls: true
-- name: 120.197.88.216@中国(CN)-深圳市/6L9
-  type: vmess
-  server: 120.197.88.216
-  port: '20015'
-  uuid: e016e2ce-e311-4658-874b-0de7c03ecdc0
-  alterId: '1'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /
-  ws-headers:
-    Host: cm-jm.okvpn.xyz
-  tls: false
-- name: 20.187.111.148@香港(HK)-香港/qBW
-  type: vmess
-  server: 20.187.111.148
-  port: '14083'
-  uuid: 52c197fd-667a-3194-adb6-dfc0ccafa4c5
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /zz
-  ws-headers:
-    Host: zhuzhu12.com
-  tls: false
-- name: 185.252.223.203@匈牙利(HU)-布达佩斯/aK9
-  type: vmess
-  server: 185.252.223.203
-  port: '443'
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  alterId: '64'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /path/243535322906
-  ws-headers:
-    Host: www.16675463.xyz
-  tls: true
-- name: v3.ssrsub.com@加拿大(CA)-蒙特利尔/4Hi
-  type: vmess
-  server: v3.ssrsub.com
-  port: '443'
-  uuid: 3babef69-fb91-47f8-8882-e5a0a1ba3689
-  alterId: '0'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /ssrsub
-  ws-headers:
-    Host: ''
-  tls: true
-- name: v3.ssrsub.com@加拿大(CA)-蒙特利尔/Qir
-  type: vmess
-  server: v3.ssrsub.com
-  port: '443'
-  uuid: c4415de6-7548-4c8b-94c7-28c37179e84a
-  alterId: '0'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /ssrsub
-  ws-headers:
-    Host: ''
-  tls: true
-- name: mf-do-ua-02.xncloud.xyz@美国(US)-克利夫頓/n24
-  type: vmess
-  server: mf-do-ua-02.xncloud.xyz
-  port: '80'
-  uuid: bc7abdaa-1152-3ed2-a571-a993b064569c
-  alterId: '1'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /niaoyun
-  ws-headers:
-    Host: mf-do-ua-02.xncloud.xyz
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/iuc
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '61004'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-sg-05.pucdn.me
-  tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/AYc
-  type: vmess
-  server: guangzou-yd-jy-03.pucdn.me
-  port: '62006'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-hk-07.pucdn.me
-  tls: false
-- name: 120.197.88.216@中国(CN)-深圳市/jRi
-  type: vmess
-  server: 120.197.88.216
-  port: '20003'
-  uuid: 0c80b44c-d683-4ec3-94b0-f356ec134d54
-  alterId: '1'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /
-  ws-headers:
-    Host: ''
-  tls: false
-- name: v8.ssrsub.com@美国(US)-紐華克/wjO
-  type: vmess
-  server: v8.ssrsub.com
-  port: '443'
-  uuid: c4415de6-7548-4c8b-94c7-28c37179e84a
-  alterId: '0'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /ssrsub
-  ws-headers:
-    Host: ''
-  tls: true
-- name: 120.232.173.88@中国(CN)-广州市/xjL
-  type: vmess
-  server: 120.232.173.88
-  port: '45319'
-  uuid: 310948de-6c49-36f3-990e-2048adea5ab0
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /inde
-  ws-headers:
-    Host: ''
-  tls: false
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/w49
-  type: vmess
-  server: cm-jm.okvpn.xyz
-  port: '20049'
-  uuid: e016e2ce-e311-4658-874b-0de7c03ecdc0
-  alterId: '1'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /
-  ws-headers:
-    Host: cm-jm.okvpn.xyz
-  tls: false
-- name: 120.197.88.216@中国(CN)-深圳市/fSZ
-  type: vmess
-  server: 120.197.88.216
-  port: '20015'
-  uuid: e016e2ce-e311-4658-874b-0de7c03ecdc0
-  alterId: '1'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /
-  ws-headers:
-    Host: cm-jm.okvpn.xyz
-  tls: false
-- name: v5.ssrsub.com@加拿大(CA)-蒙特利尔/vhA
-  type: vmess
-  server: v5.ssrsub.com
-  port: '8443'
-  uuid: 3babef69-fb91-47f8-8882-e5a0a1ba3689
-  alterId: '0'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /ssrsub
-  ws-headers:
-    Host: ''
-  tls: true
-- name: v3.ssrsub.com@美国(US)-紐華克/Adz
-  type: vmess
-  server: v3.ssrsub.com
-  port: '443'
-  uuid: c4415de6-7548-4c8b-94c7-28c37179e84a
-  alterId: '0'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /ssrsub
-  ws-headers:
-    Host: ''
-  tls: true
-- name: 120.197.88.216@中国(CN)-深圳市/oPH
-  type: vmess
-  server: 120.197.88.216
-  port: '20006'
-  uuid: 0c80b44c-d683-4ec3-94b0-f356ec134d54
-  alterId: '1'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /
-  ws-headers:
-    Host: ''
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/VJe
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '61002'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-sg-03.pucdn.me
-  tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/4Kt
-  type: vmess
-  server: guangzou-yd-jy-03.pucdn.me
-  port: '62006'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-hk-07.pucdn.me
-  tls: false
-- name: 172.104.98.216@日本(JP)-东京/y1D
-  type: vmess
-  server: 172.104.98.216
-  port: '80'
-  uuid: e5af0cad-295c-37b2-b601-f35d13f6b1bb
-  alterId: '64'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /
-  ws-headers:
-    Host: www.gov.hk
-  tls: false
-- name: 1.0.0.1@澳大利亞(AU)-South Brisbane/fMB
-  type: vmess
-  server: 1.0.0.1
-  port: '443'
-  uuid: ffffffff-ffff-ffff-ffff-ffffffffffff
-  alterId: '0'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /ffffffff-ffff-ffff-ffff-ffffffffffff-vmess
-  ws-headers:
-    Host: us-aws1.payday501.workers.dev
-  tls: true
-- name: v3.ssrsub.com@美国(US)-紐華克/JDC
-  type: vmess
-  server: v3.ssrsub.com
-  port: '443'
-  uuid: 3babef69-fb91-47f8-8882-e5a0a1ba3689
-  alterId: '0'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /ssrsub
-  ws-headers:
-    Host: ''
-  tls: true
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/GZg
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '63001'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-kr-01.pucdn.me
-  tls: false
-- name: v1.ssrsub.com@加拿大(CA)-蒙特利尔/kXl
-  type: vmess
-  server: v1.ssrsub.com
-  port: '8443'
-  uuid: c4415de6-7548-4c8b-94c7-28c37179e84a
-  alterId: '0'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /ssrsub
-  ws-headers:
-    Host: ''
-  tls: true
-- name: 112.33.32.136@中国(CN)-深圳市/CNV
-  type: vmess
-  server: 112.33.32.136
-  port: '10004'
-  uuid: 65cac56d-4155-43c8-bae0-f368cb21f771
-  alterId: '1'
-  cipher: auto
-  network: tcp
-  ucp: true
-  ws-path: ''
-  ws-headers:
-    Host: ''
-  tls: false
-- name: 120.197.88.216@中国(CN)-深圳市/9Ts
-  type: vmess
-  server: 120.197.88.216
-  port: '20003'
-  uuid: e016e2ce-e311-4658-874b-0de7c03ecdc0
-  alterId: '1'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /
-  ws-headers:
-    Host: cm-jm.okvpn.xyz
-  tls: false
-- name: 146.56.177.34@韩国(KR)-首尔特别市/8ZC
-  type: vmess
-  server: 146.56.177.34
-  port: '80'
-  uuid: fbf53107-1b42-3da5-a77d-6ad22544c0e9
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /v2ray
-  ws-headers:
-    Host: t.me/vpnhat
-  tls: false
-- name: shcn2-06b.iplc188.com@中国(CN)-上海/Tli
-  type: vmess
-  server: shcn2-06b.iplc188.com
-  port: '10001'
-  uuid: 65cac56d-4155-43c8-bae0-f368cb21f771
-  alterId: '1'
-  cipher: auto
-  network: tcp
-  ucp: true
-  ws-path: ''
-  ws-headers:
-    Host: shcn2-06b.iplc188.com
-  tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/BVR
-  type: vmess
-  server: guangzou-yd-jy-03.pucdn.me
-  port: '40002'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: l1-aws-jp-02.pucdn.me
-  tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/nxX
-  type: vmess
-  server: global-transit-02-sg.pucdn.me
-  port: '62009'
-  uuid: 98e77fe2-773a-380b-89df-9f3dae0127bd
-  alterId: '2'
-  cipher: auto
-  network: ws
-  ucp: true
-  ws-path: /vvv
-  ws-headers:
-    Host: L1-aws-hk-10.pucdn.me
-  tls: false
-- name: 103.138.75.226@香港(HK)-意法半/jQ7
+- name: 103.138.75.226@香港(HK)-意法半/vQz
   type: vmess
   server: 103.138.75.226
   port: '443'
@@ -1078,11 +274,90 @@ proxies:
   ws-headers:
     Host: hkbgp-100m01.nb1.fr
   tls: true
-- name: 120.197.88.216@中国(CN)-深圳市/OhP
+- name: 172.105.180.227@澳大利亚(AU)-悉尼/HdA
+  type: ss
+  server: 172.105.180.227
+  port: '2376'
+  password: faBAoD54k87UJG7
+  alterId: 2
+  cipher: aes-256-gcm
+- name: us11.vip-v2ray.ml@美国(US)-凤凰城/yGq
   type: vmess
-  server: 120.197.88.216
-  port: '20015'
-  uuid: 0c80b44c-d683-4ec3-94b0-f356ec134d54
+  server: us11.vip-v2ray.ml
+  port: '42564'
+  uuid: b2d38458-c821-4317-c5eb-461bc9169e70
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /hls/cctv5phd.m3u8
+  ws-headers:
+    Host: us11.vip-v2ray.ml
+  tls: false
+- name: 104.20.100.214@美国(US)-紐華克/HG0
+  type: vmess
+  server: 104.20.100.214
+  port: '443'
+  uuid: 8f5176f2-dab4-4035-9a85-a9bd8d20b92c
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: us.wwsq.workers.dev
+  tls: true
+- name: us02.eelvee.org@美国(US)-費利蒙/JTX
+  type: vmess
+  server: us02.eelvee.org
+  port: '3389'
+  uuid: e5eedfed-5872-336c-a6bf-7dc91759db63
+  alterId: '2'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /hls/cctv5phd.m3u8
+  ws-headers:
+    Host: ''
+  tls: false
+- name: 38.75.136.93@美国(US)-洛杉矶/xjW
+  type: ss
+  server: 38.75.136.93
+  port: '5003'
+  password: g5MeD6Ft3CWlJId
+  alterId: 2
+  cipher: aes-256-gcm
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/NmY
+  type: vmess
+  server: cm-jm.okvpn.xyz
+  port: '20005'
+  uuid: fa2c02cf-bbc1-4da0-b051-3731d87ec785
+  alterId: '1'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: youtube-aweikeji
+  tls: false
+- name: usa-dallas.lvuft.com@美国(US)-達拉斯/87S
+  type: vmess
+  server: usa-dallas.lvuft.com
+  port: '443'
+  uuid: aba50dd4-5484-3b05-b14a-4661caf862d5
+  alterId: '4'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /ws
+  ws-headers:
+    Host: ''
+  tls: true
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/9Ot
+  type: vmess
+  server: cm-jm.okvpn.xyz
+  port: '20047'
+  uuid: fa2c02cf-bbc1-4da0-b051-3731d87ec785
   alterId: '1'
   cipher: auto
   network: ws
@@ -1091,200 +366,403 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 112.33.32.136@中国(CN)-深圳市/qrL
+- name: 20.205.37.251@香港(HK)-香港/Fcp
   type: vmess
-  server: 112.33.32.136
-  port: '10003'
-  uuid: 65cac56d-4155-43c8-bae0-f368cb21f771
+  server: 20.205.37.251
+  port: '60111'
+  uuid: 1b693eb3-3241-362a-9001-5b503789cfbe
+  alterId: '2'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /v2ray
+  ws-headers:
+    Host: microsoft.com
+  tls: false
+- name: oz.mooncloud.bike@芬兰(FI)-图苏拉/WLR
+  type: vmess
+  server: oz.mooncloud.bike
+  port: '8443'
+  uuid: 79fedd93-e758-4655-83ed-574f4afe2a04
   alterId: '1'
   cipher: auto
-  network: tcp
+  network: ws
   ucp: true
-  ws-path: ''
+  ws-path: /
+  ws-headers:
+    Host: ''
+  tls: true
+- name: 62.210.209.50@法国(FR)-巴黎/3IP
+  type: ss
+  server: 62.210.209.50
+  port: '8118'
+  password: cdBIDV42DCwnfIN
+  alterId: 2
+  cipher: aes-256-gcm
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/AlQ
+  type: vmess
+  server: cm-jm.okvpn.xyz
+  port: '20047'
+  uuid: fa2c02cf-bbc1-4da0-b051-3731d87ec785
+  alterId: '1'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: youtube-aweikeji
+  tls: false
+- name: usa-dallas.lvuft.com@美国(US)-達拉斯/O5b
+  type: vmess
+  server: usa-dallas.lvuft.com
+  port: '443'
+  uuid: aba50dd4-5484-3b05-b14a-4661caf862d5
+  alterId: '4'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /ws
+  ws-headers:
+    Host: usa-dallas.lvuft.com
+  tls: true
+- name: us02.eelvee.org@美国(US)-費利蒙/rsp
+  type: vmess
+  server: us02.eelvee.org
+  port: '3389'
+  uuid: e5eedfed-5872-336c-a6bf-7dc91759db63
+  alterId: '2'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /hls/cctv5phd.m3u8
   ws-headers:
     Host: ''
   tls: false
+- name: 45.77.69.134@美国(US)-洛杉矶/Ob2
+  type: vmess
+  server: 45.77.69.134
+  port: '59892'
+  uuid: 1b6e0c84-684e-11ec-8e25-560003c368c6
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /8xEeiU7c/
+  ws-headers:
+    Host: ''
+  tls: false
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/aI3
+  type: vmess
+  server: cm-jm.okvpn.xyz
+  port: '20005'
+  uuid: fa2c02cf-bbc1-4da0-b051-3731d87ec785
+  alterId: '1'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: ''
+  tls: false
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/kTH
+  type: vmess
+  server: cm-jm.okvpn.xyz
+  port: '20047'
+  uuid: fa2c02cf-bbc1-4da0-b051-3731d87ec785
+  alterId: '1'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: ''
+  ws-headers:
+    Host: youtube-aweikeji
+  tls: false
+- name: 38.64.138.145@美国(US)-芝加哥/zc5
+  type: ss
+  server: 38.64.138.145
+  port: '3306'
+  password: Y6R9pAtvxxzmGC
+  alterId: 2
+  cipher: aes-256-gcm
+- name: mf-do-ua-04.xncloud.xyz@美国(US)-克利夫頓/C7B
+  type: vmess
+  server: mf-do-ua-04.xncloud.xyz
+  port: '80'
+  uuid: 12c00b6c-bdec-3162-aac2-2ae87e174156
+  alterId: '1'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /niaoyun
+  ws-headers:
+    Host: mf-do-ua-04.xncloud.xyz
+  tls: false
+- name: 169.197.141.24@美国(US)-纽约/wNU
+  type: ss
+  server: 169.197.141.24
+  port: '5001'
+  password: Y6R9pAtvxxzmGC
+  alterId: 2
+  cipher: aes-256-gcm
+- name: usa-dallas.lvuft.com@美国(US)-達拉斯/2yx
+  type: vmess
+  server: usa-dallas.lvuft.com
+  port: '443'
+  uuid: aba50dd4-5484-3b05-b14a-4661caf862d5
+  alterId: '4'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /ws
+  ws-headers:
+    Host: usa-dallas.lvuft.com
+  tls: true
+- name: 104.26.9.74@美国(US)-紐華克/NDC
+  type: vmess
+  server: 104.26.9.74
+  port: '443'
+  uuid: f6c1babe-416e-47d1-8726-049678e25c7a
+  alterId: '64'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /sshocean
+  ws-headers:
+    Host: us2.v2rayserv.com
+  tls: true
+- name: 167.88.61.60@美国(US)-圣克拉拉/4tZ
+  type: ss
+  server: 167.88.61.60
+  port: '8118'
+  password: cdBIDV42DCwnfIN
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 172.105.35.61@印度(IN)-孟买/ruW
+  type: ss
+  server: 172.105.35.61
+  port: '8118'
+  password: cdBIDV42DCwnfIN
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 169.197.141.24@美国(US)-纽约/KXW
+  type: ss
+  server: 169.197.141.24
+  port: '3389'
+  password: Y6R9pAtvxxzmGC
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 172.104.98.216@日本(JP)-东京/WMg
+  type: vmess
+  server: 172.104.98.216
+  port: '80'
+  uuid: e5af0cad-295c-37b2-b601-f35d13f6b1bb
+  alterId: '64'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: 172.104.98.216
+  tls: false
+- name: 45.35.84.162@美国(US)-達拉斯/yFf
+  type: vmess
+  server: 45.35.84.162
+  port: '443'
+  uuid: aba50dd4-5484-3b05-b14a-4661caf862d5
+  alterId: '4'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /ws
+  ws-headers:
+    Host: usa-dallas.lvuft.com
+  tls: true
+- name: 38.91.102.86@美国(US)-西雅圖/84w
+  type: ss
+  server: 38.91.102.86
+  port: '3306'
+  password: Y6R9pAtvxxzmGC
+  alterId: 2
+  cipher: aes-256-gcm
+- name: oz.mooncloud.bike@芬兰(FI)-图苏拉/9Wu
+  type: vmess
+  server: oz.mooncloud.bike
+  port: '8443'
+  uuid: 79fedd93-e758-4655-83ed-574f4afe2a04
+  alterId: '1'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: ''
+  tls: true
+- name: 169.197.141.24@美国(US)-纽约/1iv
+  type: ss
+  server: 169.197.141.24
+  port: '8888'
+  password: Y6R9pAtvxxzmGC
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 198.57.27.218@加拿大(CA)-多伦多/SQy
+  type: ss
+  server: 198.57.27.218
+  port: '7307'
+  password: FoOiGlkAA9yPEGP
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 38.64.138.145@美国(US)-芝加哥/N0o
+  type: ss
+  server: 38.64.138.145
+  port: '5000'
+  password: Y6R9pAtvxxzmGC
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 104.21.62.193@美国(US)-紐華克/36t
+  type: vmess
+  server: 104.21.62.193
+  port: '443'
+  uuid: e64c6f7c-48eb-4852-9b29-778faef14212
+  alterId: '233'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /319285eb2d/
+  ws-headers:
+    Host: free-russian-cdn.xiaohouzi.club
+  tls: true
+- name: 38.91.102.96@美国(US)-西雅圖/nRT
+  type: ss
+  server: 38.91.102.96
+  port: '5601'
+  password: Y6R9pAtvxxzmGC
+  alterId: 2
+  cipher: aes-256-gcm
 proxy-groups:
 - name: 🔰 节点选择
   type: select
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/bTC
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/yTC
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Xf2
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/ngK
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/erO
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ZiX
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ahm
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/LGD
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/u9v
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/tjF
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/RxV
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/WCO
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/WbA
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/W71
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/nEx
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/xyB
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/VTZ
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/tcn
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/GQx
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/mOp
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/v31
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/bly
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/5Qd
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/zOc
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/J8a
-  - 139.227.161.129@中国(CN)-上海/tyS
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/3WJ
-  - 120.232.173.88@中国(CN)-广州市/25H
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/HFc
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/oVG
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/3Au
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/qxV
-  - 104.17.170.210@加拿大(CA)-蒙特利尔/q9W
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/PlM
-  - v8.ssrsub.com@美国(US)-紐華克/Ea0
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/XIp
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/IY9
-  - 172.104.98.216@日本(JP)-东京/Zih
-  - mf-az-yd-01.xncloud.xyz@印度(IN)-金奈/uYX
-  - 112.33.32.136@中国(CN)-深圳市/uEI
-  - 104.168.83.22@美国(US)-西雅圖/XUz
-  - www.ltzs.buzz@加拿大(CA)-蒙特利尔/YVG
-  - 45.141.152.178@德国(DE)-法兰克福/qiJ
-  - misty-meadow-9120.lishanpao.workers.dev@美国(US)-紐華克/PfI
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/MRc
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Uyc
-  - 120.197.88.216@中国(CN)-深圳市/erP
-  - 120.197.88.216@中国(CN)-深圳市/fwP
-  - 45.58.150.130@荷兰(NL)-阿姆斯特丹/6iZ
-  - 120.197.88.216@中国(CN)-深圳市/VqW
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/a8z
-  - 120.197.88.216@中国(CN)-深圳市/ZIy
-  - usa-buffalo.lvuft.com@美国(US)-水牛城/J8f
-  - 120.197.88.216@中国(CN)-深圳市/6L9
-  - 20.187.111.148@香港(HK)-香港/qBW
-  - 185.252.223.203@匈牙利(HU)-布达佩斯/aK9
-  - v3.ssrsub.com@加拿大(CA)-蒙特利尔/4Hi
-  - v3.ssrsub.com@加拿大(CA)-蒙特利尔/Qir
-  - mf-do-ua-02.xncloud.xyz@美国(US)-克利夫頓/n24
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/iuc
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/AYc
-  - 120.197.88.216@中国(CN)-深圳市/jRi
-  - v8.ssrsub.com@美国(US)-紐華克/wjO
-  - 120.232.173.88@中国(CN)-广州市/xjL
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/w49
-  - 120.197.88.216@中国(CN)-深圳市/fSZ
-  - v5.ssrsub.com@加拿大(CA)-蒙特利尔/vhA
-  - v3.ssrsub.com@美国(US)-紐華克/Adz
-  - 120.197.88.216@中国(CN)-深圳市/oPH
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/VJe
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/4Kt
-  - 172.104.98.216@日本(JP)-东京/y1D
-  - 1.0.0.1@澳大利亞(AU)-South Brisbane/fMB
-  - v3.ssrsub.com@美国(US)-紐華克/JDC
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/GZg
-  - v1.ssrsub.com@加拿大(CA)-蒙特利尔/kXl
-  - 112.33.32.136@中国(CN)-深圳市/CNV
-  - 120.197.88.216@中国(CN)-深圳市/9Ts
-  - 146.56.177.34@韩国(KR)-首尔特别市/8ZC
-  - shcn2-06b.iplc188.com@中国(CN)-上海/Tli
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/BVR
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/nxX
-  - 103.138.75.226@香港(HK)-意法半/jQ7
-  - 120.197.88.216@中国(CN)-深圳市/OhP
-  - 112.33.32.136@中国(CN)-深圳市/qrL
+  - zz-hk-v5.laov888.win@中国(CN)-广州市/1k4
+  - zz-hk-v5.laov888.win@中国(CN)-广州市/Ugh
+  - 118.107.244.112@香港(HK)-中環/CnR
+  - 216.24.179.100@美国(US)-洛杉矶/Omv
+  - 216.24.179.100@美国(US)-洛杉矶/8d3
+  - www.ltzs.buzz@加拿大(CA)-蒙特利尔/pOg
+  - us11.vip-v2ray.ml@美国(US)-凤凰城/SpM
+  - 118.107.244.112@香港(HK)-中環/ekE
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/dwK
+  - 118.107.244.112@香港(HK)-中環/N8D
+  - 45.77.69.134@美国(US)-洛杉矶/qk3
+  - 70.32.0.208@美国(US)-Ashburn/dEa
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/4ia
+  - 77.243.191.178@比利时(BE)-布鲁塞尔/Vhe
+  - 192.186.129.66@美国(US)-水牛城/JF2
+  - 23.82.136.151@美国(US)-Carthage/YfH
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/afs
+  - 104.16.160.114@加拿大(CA)-蒙特利尔/320
+  - us01.eelvee.org@美国(US)-費利蒙/dxu
+  - ff7.uuv2.co.uk@加拿大(CA)-蒙特利尔/DxI
+  - us01.eelvee.org@美国(US)-費利蒙/2eI
+  - 45.58.150.130@荷兰(NL)-阿姆斯特丹/WjJ
+  - 103.138.75.226@香港(HK)-意法半/vQz
+  - 172.105.180.227@澳大利亚(AU)-悉尼/HdA
+  - us11.vip-v2ray.ml@美国(US)-凤凰城/yGq
+  - 104.20.100.214@美国(US)-紐華克/HG0
+  - us02.eelvee.org@美国(US)-費利蒙/JTX
+  - 38.75.136.93@美国(US)-洛杉矶/xjW
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/NmY
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/87S
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/9Ot
+  - 20.205.37.251@香港(HK)-香港/Fcp
+  - oz.mooncloud.bike@芬兰(FI)-图苏拉/WLR
+  - 62.210.209.50@法国(FR)-巴黎/3IP
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/AlQ
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/O5b
+  - us02.eelvee.org@美国(US)-費利蒙/rsp
+  - 45.77.69.134@美国(US)-洛杉矶/Ob2
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/aI3
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/kTH
+  - 38.64.138.145@美国(US)-芝加哥/zc5
+  - mf-do-ua-04.xncloud.xyz@美国(US)-克利夫頓/C7B
+  - 169.197.141.24@美国(US)-纽约/wNU
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/2yx
+  - 104.26.9.74@美国(US)-紐華克/NDC
+  - 167.88.61.60@美国(US)-圣克拉拉/4tZ
+  - 172.105.35.61@印度(IN)-孟买/ruW
+  - 169.197.141.24@美国(US)-纽约/KXW
+  - 172.104.98.216@日本(JP)-东京/WMg
+  - 45.35.84.162@美国(US)-達拉斯/yFf
+  - 38.91.102.86@美国(US)-西雅圖/84w
+  - oz.mooncloud.bike@芬兰(FI)-图苏拉/9Wu
+  - 169.197.141.24@美国(US)-纽约/1iv
+  - 198.57.27.218@加拿大(CA)-多伦多/SQy
+  - 38.64.138.145@美国(US)-芝加哥/N0o
+  - 104.21.62.193@美国(US)-紐華克/36t
+  - 38.91.102.96@美国(US)-西雅圖/nRT
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   proxies:
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/bTC
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/yTC
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Xf2
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/ngK
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/erO
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ZiX
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ahm
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/LGD
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/u9v
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/tjF
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/RxV
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/WCO
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/WbA
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/W71
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/nEx
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/xyB
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/VTZ
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/tcn
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/GQx
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/mOp
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/v31
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/bly
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/5Qd
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/zOc
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/J8a
-  - 139.227.161.129@中国(CN)-上海/tyS
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/3WJ
-  - 120.232.173.88@中国(CN)-广州市/25H
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/HFc
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/oVG
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/3Au
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/qxV
-  - 104.17.170.210@加拿大(CA)-蒙特利尔/q9W
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/PlM
-  - v8.ssrsub.com@美国(US)-紐華克/Ea0
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/XIp
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/IY9
-  - 172.104.98.216@日本(JP)-东京/Zih
-  - mf-az-yd-01.xncloud.xyz@印度(IN)-金奈/uYX
-  - 112.33.32.136@中国(CN)-深圳市/uEI
-  - 104.168.83.22@美国(US)-西雅圖/XUz
-  - www.ltzs.buzz@加拿大(CA)-蒙特利尔/YVG
-  - 45.141.152.178@德国(DE)-法兰克福/qiJ
-  - misty-meadow-9120.lishanpao.workers.dev@美国(US)-紐華克/PfI
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/MRc
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Uyc
-  - 120.197.88.216@中国(CN)-深圳市/erP
-  - 120.197.88.216@中国(CN)-深圳市/fwP
-  - 45.58.150.130@荷兰(NL)-阿姆斯特丹/6iZ
-  - 120.197.88.216@中国(CN)-深圳市/VqW
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/a8z
-  - 120.197.88.216@中国(CN)-深圳市/ZIy
-  - usa-buffalo.lvuft.com@美国(US)-水牛城/J8f
-  - 120.197.88.216@中国(CN)-深圳市/6L9
-  - 20.187.111.148@香港(HK)-香港/qBW
-  - 185.252.223.203@匈牙利(HU)-布达佩斯/aK9
-  - v3.ssrsub.com@加拿大(CA)-蒙特利尔/4Hi
-  - v3.ssrsub.com@加拿大(CA)-蒙特利尔/Qir
-  - mf-do-ua-02.xncloud.xyz@美国(US)-克利夫頓/n24
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/iuc
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/AYc
-  - 120.197.88.216@中国(CN)-深圳市/jRi
-  - v8.ssrsub.com@美国(US)-紐華克/wjO
-  - 120.232.173.88@中国(CN)-广州市/xjL
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/w49
-  - 120.197.88.216@中国(CN)-深圳市/fSZ
-  - v5.ssrsub.com@加拿大(CA)-蒙特利尔/vhA
-  - v3.ssrsub.com@美国(US)-紐華克/Adz
-  - 120.197.88.216@中国(CN)-深圳市/oPH
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/VJe
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/4Kt
-  - 172.104.98.216@日本(JP)-东京/y1D
-  - 1.0.0.1@澳大利亞(AU)-South Brisbane/fMB
-  - v3.ssrsub.com@美国(US)-紐華克/JDC
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/GZg
-  - v1.ssrsub.com@加拿大(CA)-蒙特利尔/kXl
-  - 112.33.32.136@中国(CN)-深圳市/CNV
-  - 120.197.88.216@中国(CN)-深圳市/9Ts
-  - 146.56.177.34@韩国(KR)-首尔特别市/8ZC
-  - shcn2-06b.iplc188.com@中国(CN)-上海/Tli
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/BVR
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/nxX
-  - 103.138.75.226@香港(HK)-意法半/jQ7
-  - 120.197.88.216@中国(CN)-深圳市/OhP
-  - 112.33.32.136@中国(CN)-深圳市/qrL
+  - zz-hk-v5.laov888.win@中国(CN)-广州市/1k4
+  - zz-hk-v5.laov888.win@中国(CN)-广州市/Ugh
+  - 118.107.244.112@香港(HK)-中環/CnR
+  - 216.24.179.100@美国(US)-洛杉矶/Omv
+  - 216.24.179.100@美国(US)-洛杉矶/8d3
+  - www.ltzs.buzz@加拿大(CA)-蒙特利尔/pOg
+  - us11.vip-v2ray.ml@美国(US)-凤凰城/SpM
+  - 118.107.244.112@香港(HK)-中環/ekE
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/dwK
+  - 118.107.244.112@香港(HK)-中環/N8D
+  - 45.77.69.134@美国(US)-洛杉矶/qk3
+  - 70.32.0.208@美国(US)-Ashburn/dEa
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/4ia
+  - 77.243.191.178@比利时(BE)-布鲁塞尔/Vhe
+  - 192.186.129.66@美国(US)-水牛城/JF2
+  - 23.82.136.151@美国(US)-Carthage/YfH
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/afs
+  - 104.16.160.114@加拿大(CA)-蒙特利尔/320
+  - us01.eelvee.org@美国(US)-費利蒙/dxu
+  - ff7.uuv2.co.uk@加拿大(CA)-蒙特利尔/DxI
+  - us01.eelvee.org@美国(US)-費利蒙/2eI
+  - 45.58.150.130@荷兰(NL)-阿姆斯特丹/WjJ
+  - 103.138.75.226@香港(HK)-意法半/vQz
+  - 172.105.180.227@澳大利亚(AU)-悉尼/HdA
+  - us11.vip-v2ray.ml@美国(US)-凤凰城/yGq
+  - 104.20.100.214@美国(US)-紐華克/HG0
+  - us02.eelvee.org@美国(US)-費利蒙/JTX
+  - 38.75.136.93@美国(US)-洛杉矶/xjW
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/NmY
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/87S
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/9Ot
+  - 20.205.37.251@香港(HK)-香港/Fcp
+  - oz.mooncloud.bike@芬兰(FI)-图苏拉/WLR
+  - 62.210.209.50@法国(FR)-巴黎/3IP
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/AlQ
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/O5b
+  - us02.eelvee.org@美国(US)-費利蒙/rsp
+  - 45.77.69.134@美国(US)-洛杉矶/Ob2
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/aI3
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/kTH
+  - 38.64.138.145@美国(US)-芝加哥/zc5
+  - mf-do-ua-04.xncloud.xyz@美国(US)-克利夫頓/C7B
+  - 169.197.141.24@美国(US)-纽约/wNU
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/2yx
+  - 104.26.9.74@美国(US)-紐華克/NDC
+  - 167.88.61.60@美国(US)-圣克拉拉/4tZ
+  - 172.105.35.61@印度(IN)-孟买/ruW
+  - 169.197.141.24@美国(US)-纽约/KXW
+  - 172.104.98.216@日本(JP)-东京/WMg
+  - 45.35.84.162@美国(US)-達拉斯/yFf
+  - 38.91.102.86@美国(US)-西雅圖/84w
+  - oz.mooncloud.bike@芬兰(FI)-图苏拉/9Wu
+  - 169.197.141.24@美国(US)-纽约/1iv
+  - 198.57.27.218@加拿大(CA)-多伦多/SQy
+  - 38.64.138.145@美国(US)-芝加哥/N0o
+  - 104.21.62.193@美国(US)-紐華克/36t
+  - 38.91.102.96@美国(US)-西雅圖/nRT
 - name: 🌍 国外媒体
   type: select
   proxies:
