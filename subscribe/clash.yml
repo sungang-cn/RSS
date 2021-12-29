@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/O7Q
+- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/bTC
   type: vmess
   server: guangzou-yd-jy-03.pucdn.me
   port: '62008'
@@ -18,7 +18,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-09.pucdn.me
   tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/Ul0
+- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/yTC
   type: vmess
   server: guangzou-yd-jy-03.pucdn.me
   port: '62005'
@@ -31,7 +31,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-06.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/HNA
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Xf2
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '62011'
@@ -44,7 +44,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-12.pucdn.me
   tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/kdo
+- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/ngK
   type: vmess
   server: global-transit-hk-v2.pucdn.me
   port: '40011'
@@ -57,7 +57,7 @@ proxies:
   ws-headers:
     Host: l1-aws-jp-11.pucdn.me
   tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/u0i
+- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/erO
   type: vmess
   server: guangzou-yd-jy-03.pucdn.me
   port: '62007'
@@ -70,7 +70,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-08.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/rbu
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ZiX
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '63008'
@@ -83,7 +83,7 @@ proxies:
   ws-headers:
     Host: L1-aws-kr-08.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/nhi
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ahm
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '62010'
@@ -96,7 +96,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-11.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/dAY
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/LGD
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '63005'
@@ -109,7 +109,7 @@ proxies:
   ws-headers:
     Host: L1-aws-kr-05.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/18I
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/u9v
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '63005'
@@ -122,7 +122,7 @@ proxies:
   ws-headers:
     Host: L1-aws-kr-05.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/RlS
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/tjF
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '63008'
@@ -135,7 +135,7 @@ proxies:
   ws-headers:
     Host: L1-aws-kr-08.pucdn.me
   tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/4AQ
+- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/RxV
   type: vmess
   server: global-transit-hk-v2.pucdn.me
   port: '40011'
@@ -148,7 +148,7 @@ proxies:
   ws-headers:
     Host: l1-aws-jp-11.pucdn.me
   tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/Jtf
+- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/WCO
   type: vmess
   server: global-transit-hk-v2.pucdn.me
   port: '40009'
@@ -161,7 +161,7 @@ proxies:
   ws-headers:
     Host: l1-aws-jp-09.pucdn.me
   tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/gmz
+- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/WbA
   type: vmess
   server: guangzou-yd-jy-03.pucdn.me
   port: '62008'
@@ -174,7 +174,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-09.pucdn.me
   tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/uSj
+- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/W71
   type: vmess
   server: global-transit-hk-v2.pucdn.me
   port: '40007'
@@ -187,7 +187,7 @@ proxies:
   ws-headers:
     Host: l1-aws-jp-07.pucdn.me
   tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/foY
+- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/nEx
   type: vmess
   server: global-transit-hk-v2.pucdn.me
   port: '40009'
@@ -200,7 +200,7 @@ proxies:
   ws-headers:
     Host: l1-aws-jp-09.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/s2M
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/xyB
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '63006'
@@ -213,7 +213,7 @@ proxies:
   ws-headers:
     Host: L1-aws-kr-06.pucdn.me
   tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/oWV
+- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/VTZ
   type: vmess
   server: global-transit-hk-v2.pucdn.me
   port: '40010'
@@ -226,7 +226,7 @@ proxies:
   ws-headers:
     Host: l1-aws-jp-10.pucdn.me
   tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/8GW
+- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/tcn
   type: vmess
   server: global-transit-hk-v2.pucdn.me
   port: '40006'
@@ -239,7 +239,7 @@ proxies:
   ws-headers:
     Host: l1-aws-jp-06.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Sko
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/GQx
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '63002'
@@ -252,7 +252,7 @@ proxies:
   ws-headers:
     Host: L1-aws-kr-02.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/0c7
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/mOp
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '63002'
@@ -265,7 +265,7 @@ proxies:
   ws-headers:
     Host: L1-aws-kr-02.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/WjB
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/v31
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '63007'
@@ -278,7 +278,7 @@ proxies:
   ws-headers:
     Host: L1-aws-kr-07.pucdn.me
   tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/MkJ
+- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/bly
   type: vmess
   server: global-transit-hk-v2.pucdn.me
   port: '40010'
@@ -291,7 +291,7 @@ proxies:
   ws-headers:
     Host: l1-aws-jp-10.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Pkm
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/5Qd
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '63007'
@@ -304,7 +304,7 @@ proxies:
   ws-headers:
     Host: L1-aws-kr-07.pucdn.me
   tls: false
-- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/2mW
+- name: global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/zOc
   type: vmess
   server: global-transit-hk-v2.pucdn.me
   port: '40012'
@@ -317,7 +317,7 @@ proxies:
   ws-headers:
     Host: l1-aws-jp-12.pucdn.me
   tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/F2M
+- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/J8a
   type: vmess
   server: guangzou-yd-jy-03.pucdn.me
   port: '40003'
@@ -330,7 +330,7 @@ proxies:
   ws-headers:
     Host: l1-aws-jp-03.pucdn.me
   tls: false
-- name: 139.227.161.129@中国(CN)-上海/blN
+- name: 139.227.161.129@中国(CN)-上海/tyS
   type: vmess
   server: 139.227.161.129
   port: '10001'
@@ -343,7 +343,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/KbF
+- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/3WJ
   type: vmess
   server: guangzou-yd-jy-03.pucdn.me
   port: '40004'
@@ -356,7 +356,7 @@ proxies:
   ws-headers:
     Host: l1-aws-jp-04.pucdn.me
   tls: false
-- name: 120.232.173.88@中国(CN)-广州市/q2x
+- name: 120.232.173.88@中国(CN)-广州市/25H
   type: vmess
   server: 120.232.173.88
   port: '45319'
@@ -369,7 +369,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/OnM
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/HFc
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '61003'
@@ -382,7 +382,7 @@ proxies:
   ws-headers:
     Host: l1-aws-sg-04.pucdn.me
   tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/439
+- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/oVG
   type: vmess
   server: guangzou-yd-jy-03.pucdn.me
   port: '62007'
@@ -395,7 +395,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-08.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Pi5
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/3Au
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '61002'
@@ -408,7 +408,7 @@ proxies:
   ws-headers:
     Host: l1-aws-sg-03.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/PKL
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/qxV
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '63003'
@@ -421,7 +421,7 @@ proxies:
   ws-headers:
     Host: L1-aws-kr-03.pucdn.me
   tls: false
-- name: 104.17.170.210@加拿大(CA)-蒙特利尔/fsU
+- name: 104.17.170.210@加拿大(CA)-蒙特利尔/q9W
   type: vmess
   server: 104.17.170.210
   port: '443'
@@ -434,7 +434,7 @@ proxies:
   ws-headers:
     Host: lsb.stupidfellow.cf
   tls: true
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/tpJ
+- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/PlM
   type: vmess
   server: guangzou-yd-jy-03.pucdn.me
   port: '62005'
@@ -447,7 +447,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-06.pucdn.me
   tls: false
-- name: v8.ssrsub.com@加拿大(CA)-蒙特利尔/bZB
+- name: v8.ssrsub.com@美国(US)-紐華克/Ea0
   type: vmess
   server: v8.ssrsub.com
   port: '443'
@@ -460,7 +460,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/imL
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/XIp
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '62012'
@@ -473,7 +473,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-13.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/F4E
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/IY9
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '62011'
@@ -486,7 +486,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-12.pucdn.me
   tls: false
-- name: 172.104.98.216@日本(JP)-东京/kJl
+- name: 172.104.98.216@日本(JP)-东京/Zih
   type: vmess
   server: 172.104.98.216
   port: '80'
@@ -499,7 +499,7 @@ proxies:
   ws-headers:
     Host: www.gov.hk
   tls: false
-- name: mf-az-yd-01.xncloud.xyz@印度(IN)-金奈/Ldz
+- name: mf-az-yd-01.xncloud.xyz@印度(IN)-金奈/uYX
   type: vmess
   server: mf-az-yd-01.xncloud.xyz
   port: '80'
@@ -512,7 +512,7 @@ proxies:
   ws-headers:
     Host: t.me/vpnhat
   tls: false
-- name: 112.33.32.136@中国(CN)-深圳市/J8Y
+- name: 112.33.32.136@中国(CN)-深圳市/uEI
   type: vmess
   server: 112.33.32.136
   port: '10003'
@@ -525,7 +525,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 104.168.83.22@美国(US)-西雅圖/dCc
+- name: 104.168.83.22@美国(US)-西雅圖/XUz
   type: vmess
   server: 104.168.83.22
   port: '80'
@@ -538,7 +538,7 @@ proxies:
   ws-headers:
     Host: gd.189.cn
   tls: false
-- name: www.ltzs.buzz@美国(US)-紐華克/6Pk
+- name: www.ltzs.buzz@加拿大(CA)-蒙特利尔/YVG
   type: vmess
   server: www.ltzs.buzz
   port: '443'
@@ -551,14 +551,14 @@ proxies:
   ws-headers:
     Host: www.ltzs.buzz
   tls: true
-- name: 45.141.152.178@德国(DE)-法兰克福/iHx
+- name: 45.141.152.178@德国(DE)-法兰克福/qiJ
   type: ss
   server: 45.141.152.178
   port: '8389'
   password: FTvsfXCvXLPFEMKNSADr
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: misty-meadow-9120.lishanpao.workers.dev@美国(US)-紐華克/tGu
+- name: misty-meadow-9120.lishanpao.workers.dev@美国(US)-紐華克/PfI
   type: vmess
   server: misty-meadow-9120.lishanpao.workers.dev
   port: '443'
@@ -571,7 +571,7 @@ proxies:
   ws-headers:
     Host: misty-meadow-9120.lishanpao.workers.dev
   tls: true
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/j4q
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/MRc
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '62009'
@@ -584,7 +584,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-10.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/mCU
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Uyc
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '61003'
@@ -597,7 +597,7 @@ proxies:
   ws-headers:
     Host: l1-aws-sg-04.pucdn.me
   tls: false
-- name: 120.197.88.216@中国(CN)-深圳市/m4B
+- name: 120.197.88.216@中国(CN)-深圳市/erP
   type: vmess
   server: 120.197.88.216
   port: '20049'
@@ -610,7 +610,7 @@ proxies:
   ws-headers:
     Host: cm-jm.okvpn.xyz
   tls: false
-- name: 120.197.88.216@中国(CN)-深圳市/VmL
+- name: 120.197.88.216@中国(CN)-深圳市/fwP
   type: vmess
   server: 120.197.88.216
   port: '20015'
@@ -623,7 +623,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 45.58.150.130@荷兰(NL)-阿姆斯特丹/2Zh
+- name: 45.58.150.130@荷兰(NL)-阿姆斯特丹/6iZ
   type: vmess
   server: 45.58.150.130
   port: '443'
@@ -636,7 +636,7 @@ proxies:
   ws-headers:
     Host: dax6ujai.com
   tls: true
-- name: 120.197.88.216@中国(CN)-深圳市/bEC
+- name: 120.197.88.216@中国(CN)-深圳市/VqW
   type: vmess
   server: 120.197.88.216
   port: '20006'
@@ -649,7 +649,7 @@ proxies:
   ws-headers:
     Host: cm-jm.okvpn.xyz
   tls: false
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/MQ3
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/a8z
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20003'
@@ -662,7 +662,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 120.197.88.216@中国(CN)-深圳市/jrp
+- name: 120.197.88.216@中国(CN)-深圳市/ZIy
   type: vmess
   server: 120.197.88.216
   port: '20006'
@@ -675,7 +675,7 @@ proxies:
   ws-headers:
     Host: cm-jm.okvpn.xyz
   tls: false
-- name: usa-buffalo.lvuft.com@美国(US)-水牛城/wRO
+- name: usa-buffalo.lvuft.com@美国(US)-水牛城/J8f
   type: vmess
   server: usa-buffalo.lvuft.com
   port: '443'
@@ -688,7 +688,7 @@ proxies:
   ws-headers:
     Host: usa-buffalo.lvuft.com
   tls: true
-- name: 120.197.88.216@中国(CN)-深圳市/xqX
+- name: 120.197.88.216@中国(CN)-深圳市/6L9
   type: vmess
   server: 120.197.88.216
   port: '20015'
@@ -701,7 +701,7 @@ proxies:
   ws-headers:
     Host: cm-jm.okvpn.xyz
   tls: false
-- name: 20.187.111.148@香港(HK)-香港/ezR
+- name: 20.187.111.148@香港(HK)-香港/qBW
   type: vmess
   server: 20.187.111.148
   port: '14083'
@@ -714,7 +714,7 @@ proxies:
   ws-headers:
     Host: zhuzhu12.com
   tls: false
-- name: 185.252.223.203@匈牙利(HU)-布达佩斯/4da
+- name: 185.252.223.203@匈牙利(HU)-布达佩斯/aK9
   type: vmess
   server: 185.252.223.203
   port: '443'
@@ -727,7 +727,7 @@ proxies:
   ws-headers:
     Host: www.16675463.xyz
   tls: true
-- name: v3.ssrsub.com@美国(US)-紐華克/S7t
+- name: v3.ssrsub.com@加拿大(CA)-蒙特利尔/4Hi
   type: vmess
   server: v3.ssrsub.com
   port: '443'
@@ -740,7 +740,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: v3.ssrsub.com@美国(US)-紐華克/o3z
+- name: v3.ssrsub.com@加拿大(CA)-蒙特利尔/Qir
   type: vmess
   server: v3.ssrsub.com
   port: '443'
@@ -753,7 +753,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: mf-do-ua-02.xncloud.xyz@美国(US)-克利夫頓/gxb
+- name: mf-do-ua-02.xncloud.xyz@美国(US)-克利夫頓/n24
   type: vmess
   server: mf-do-ua-02.xncloud.xyz
   port: '80'
@@ -766,7 +766,7 @@ proxies:
   ws-headers:
     Host: mf-do-ua-02.xncloud.xyz
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/p4L
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/iuc
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '61004'
@@ -779,7 +779,7 @@ proxies:
   ws-headers:
     Host: l1-aws-sg-05.pucdn.me
   tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/qLg
+- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/AYc
   type: vmess
   server: guangzou-yd-jy-03.pucdn.me
   port: '62006'
@@ -792,7 +792,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-07.pucdn.me
   tls: false
-- name: 120.197.88.216@中国(CN)-深圳市/3b2
+- name: 120.197.88.216@中国(CN)-深圳市/jRi
   type: vmess
   server: 120.197.88.216
   port: '20003'
@@ -805,7 +805,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: v8.ssrsub.com@美国(US)-紐華克/pXK
+- name: v8.ssrsub.com@美国(US)-紐華克/wjO
   type: vmess
   server: v8.ssrsub.com
   port: '443'
@@ -818,7 +818,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: 120.232.173.88@中国(CN)-广州市/uyY
+- name: 120.232.173.88@中国(CN)-广州市/xjL
   type: vmess
   server: 120.232.173.88
   port: '45319'
@@ -831,7 +831,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/8fq
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/w49
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20049'
@@ -844,7 +844,7 @@ proxies:
   ws-headers:
     Host: cm-jm.okvpn.xyz
   tls: false
-- name: 120.197.88.216@中国(CN)-深圳市/zR2
+- name: 120.197.88.216@中国(CN)-深圳市/fSZ
   type: vmess
   server: 120.197.88.216
   port: '20015'
@@ -857,7 +857,7 @@ proxies:
   ws-headers:
     Host: cm-jm.okvpn.xyz
   tls: false
-- name: v5.ssrsub.com@美国(US)-紐華克/La2
+- name: v5.ssrsub.com@加拿大(CA)-蒙特利尔/vhA
   type: vmess
   server: v5.ssrsub.com
   port: '8443'
@@ -870,7 +870,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: v3.ssrsub.com@美国(US)-紐華克/jDA
+- name: v3.ssrsub.com@美国(US)-紐華克/Adz
   type: vmess
   server: v3.ssrsub.com
   port: '443'
@@ -883,7 +883,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: 120.197.88.216@中国(CN)-深圳市/lCy
+- name: 120.197.88.216@中国(CN)-深圳市/oPH
   type: vmess
   server: 120.197.88.216
   port: '20006'
@@ -896,7 +896,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/wVq
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/VJe
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '61002'
@@ -909,7 +909,7 @@ proxies:
   ws-headers:
     Host: l1-aws-sg-03.pucdn.me
   tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/xRO
+- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/4Kt
   type: vmess
   server: guangzou-yd-jy-03.pucdn.me
   port: '62006'
@@ -922,7 +922,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-07.pucdn.me
   tls: false
-- name: 172.104.98.216@日本(JP)-东京/yG2
+- name: 172.104.98.216@日本(JP)-东京/y1D
   type: vmess
   server: 172.104.98.216
   port: '80'
@@ -935,7 +935,7 @@ proxies:
   ws-headers:
     Host: www.gov.hk
   tls: false
-- name: 1.0.0.1@澳大利亞(AU)-South Brisbane/qWL
+- name: 1.0.0.1@澳大利亞(AU)-South Brisbane/fMB
   type: vmess
   server: 1.0.0.1
   port: '443'
@@ -948,7 +948,7 @@ proxies:
   ws-headers:
     Host: us-aws1.payday501.workers.dev
   tls: true
-- name: v3.ssrsub.com@美国(US)-紐華克/24d
+- name: v3.ssrsub.com@美国(US)-紐華克/JDC
   type: vmess
   server: v3.ssrsub.com
   port: '443'
@@ -961,7 +961,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ycr
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/GZg
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '63001'
@@ -974,7 +974,7 @@ proxies:
   ws-headers:
     Host: L1-aws-kr-01.pucdn.me
   tls: false
-- name: v1.ssrsub.com@美国(US)-紐華克/5nH
+- name: v1.ssrsub.com@加拿大(CA)-蒙特利尔/kXl
   type: vmess
   server: v1.ssrsub.com
   port: '8443'
@@ -987,7 +987,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: 112.33.32.136@中国(CN)-深圳市/CX3
+- name: 112.33.32.136@中国(CN)-深圳市/CNV
   type: vmess
   server: 112.33.32.136
   port: '10004'
@@ -1000,7 +1000,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 120.197.88.216@中国(CN)-深圳市/1hQ
+- name: 120.197.88.216@中国(CN)-深圳市/9Ts
   type: vmess
   server: 120.197.88.216
   port: '20003'
@@ -1013,7 +1013,7 @@ proxies:
   ws-headers:
     Host: cm-jm.okvpn.xyz
   tls: false
-- name: 146.56.177.34@韩国(KR)-首尔特别市/o1b
+- name: 146.56.177.34@韩国(KR)-首尔特别市/8ZC
   type: vmess
   server: 146.56.177.34
   port: '80'
@@ -1026,7 +1026,7 @@ proxies:
   ws-headers:
     Host: t.me/vpnhat
   tls: false
-- name: shcn2-06b.iplc188.com@中国(CN)-上海/aZM
+- name: shcn2-06b.iplc188.com@中国(CN)-上海/Tli
   type: vmess
   server: shcn2-06b.iplc188.com
   port: '10001'
@@ -1039,7 +1039,7 @@ proxies:
   ws-headers:
     Host: shcn2-06b.iplc188.com
   tls: false
-- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/aJH
+- name: guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/BVR
   type: vmess
   server: guangzou-yd-jy-03.pucdn.me
   port: '40002'
@@ -1052,7 +1052,7 @@ proxies:
   ws-headers:
     Host: l1-aws-jp-02.pucdn.me
   tls: false
-- name: global-transit-02-sg.pucdn.mehowjPRB5
+- name: global-transit-02-sg.pucdn.me@中国(CN)-深圳市/nxX
   type: vmess
   server: global-transit-02-sg.pucdn.me
   port: '62009'
@@ -1065,7 +1065,7 @@ proxies:
   ws-headers:
     Host: L1-aws-hk-10.pucdn.me
   tls: false
-- name: 103.138.75.226Gj1McFOy
+- name: 103.138.75.226@香港(HK)-意法半/jQ7
   type: vmess
   server: 103.138.75.226
   port: '443'
@@ -1078,7 +1078,7 @@ proxies:
   ws-headers:
     Host: hkbgp-100m01.nb1.fr
   tls: true
-- name: 120.197.88.216@中国(CN)-深圳市/r9F
+- name: 120.197.88.216@中国(CN)-深圳市/OhP
   type: vmess
   server: 120.197.88.216
   port: '20015'
@@ -1091,7 +1091,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 112.33.32.136dPMuT5VO
+- name: 112.33.32.136@中国(CN)-深圳市/qrL
   type: vmess
   server: 112.33.32.136
   port: '10003'
@@ -1110,181 +1110,181 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/O7Q
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/Ul0
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/HNA
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/kdo
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/u0i
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/rbu
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/nhi
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/dAY
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/18I
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/RlS
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/4AQ
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/Jtf
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/gmz
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/uSj
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/foY
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/s2M
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/oWV
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/8GW
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Sko
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/0c7
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/WjB
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/MkJ
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Pkm
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/2mW
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/F2M
-  - 139.227.161.129@中国(CN)-上海/blN
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/KbF
-  - 120.232.173.88@中国(CN)-广州市/q2x
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/OnM
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/439
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Pi5
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/PKL
-  - 104.17.170.210@加拿大(CA)-蒙特利尔/fsU
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/tpJ
-  - v8.ssrsub.com@加拿大(CA)-蒙特利尔/bZB
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/imL
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/F4E
-  - 172.104.98.216@日本(JP)-东京/kJl
-  - mf-az-yd-01.xncloud.xyz@印度(IN)-金奈/Ldz
-  - 112.33.32.136@中国(CN)-深圳市/J8Y
-  - 104.168.83.22@美国(US)-西雅圖/dCc
-  - www.ltzs.buzz@美国(US)-紐華克/6Pk
-  - 45.141.152.178@德国(DE)-法兰克福/iHx
-  - misty-meadow-9120.lishanpao.workers.dev@美国(US)-紐華克/tGu
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/j4q
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/mCU
-  - 120.197.88.216@中国(CN)-深圳市/m4B
-  - 120.197.88.216@中国(CN)-深圳市/VmL
-  - 45.58.150.130@荷兰(NL)-阿姆斯特丹/2Zh
-  - 120.197.88.216@中国(CN)-深圳市/bEC
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/MQ3
-  - 120.197.88.216@中国(CN)-深圳市/jrp
-  - usa-buffalo.lvuft.com@美国(US)-水牛城/wRO
-  - 120.197.88.216@中国(CN)-深圳市/xqX
-  - 20.187.111.148@香港(HK)-香港/ezR
-  - 185.252.223.203@匈牙利(HU)-布达佩斯/4da
-  - v3.ssrsub.com@美国(US)-紐華克/S7t
-  - v3.ssrsub.com@美国(US)-紐華克/o3z
-  - mf-do-ua-02.xncloud.xyz@美国(US)-克利夫頓/gxb
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/p4L
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/qLg
-  - 120.197.88.216@中国(CN)-深圳市/3b2
-  - v8.ssrsub.com@美国(US)-紐華克/pXK
-  - 120.232.173.88@中国(CN)-广州市/uyY
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/8fq
-  - 120.197.88.216@中国(CN)-深圳市/zR2
-  - v5.ssrsub.com@美国(US)-紐華克/La2
-  - v3.ssrsub.com@美国(US)-紐華克/jDA
-  - 120.197.88.216@中国(CN)-深圳市/lCy
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/wVq
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/xRO
-  - 172.104.98.216@日本(JP)-东京/yG2
-  - 1.0.0.1@澳大利亞(AU)-South Brisbane/qWL
-  - v3.ssrsub.com@美国(US)-紐華克/24d
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ycr
-  - v1.ssrsub.com@美国(US)-紐華克/5nH
-  - 112.33.32.136@中国(CN)-深圳市/CX3
-  - 120.197.88.216@中国(CN)-深圳市/1hQ
-  - 146.56.177.34@韩国(KR)-首尔特别市/o1b
-  - shcn2-06b.iplc188.com@中国(CN)-上海/aZM
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/aJH
-  - global-transit-02-sg.pucdn.mehowjPRB5
-  - 103.138.75.226Gj1McFOy
-  - 120.197.88.216@中国(CN)-深圳市/r9F
-  - 112.33.32.136dPMuT5VO
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/bTC
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/yTC
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Xf2
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/ngK
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/erO
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ZiX
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ahm
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/LGD
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/u9v
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/tjF
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/RxV
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/WCO
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/WbA
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/W71
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/nEx
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/xyB
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/VTZ
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/tcn
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/GQx
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/mOp
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/v31
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/bly
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/5Qd
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/zOc
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/J8a
+  - 139.227.161.129@中国(CN)-上海/tyS
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/3WJ
+  - 120.232.173.88@中国(CN)-广州市/25H
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/HFc
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/oVG
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/3Au
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/qxV
+  - 104.17.170.210@加拿大(CA)-蒙特利尔/q9W
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/PlM
+  - v8.ssrsub.com@美国(US)-紐華克/Ea0
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/XIp
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/IY9
+  - 172.104.98.216@日本(JP)-东京/Zih
+  - mf-az-yd-01.xncloud.xyz@印度(IN)-金奈/uYX
+  - 112.33.32.136@中国(CN)-深圳市/uEI
+  - 104.168.83.22@美国(US)-西雅圖/XUz
+  - www.ltzs.buzz@加拿大(CA)-蒙特利尔/YVG
+  - 45.141.152.178@德国(DE)-法兰克福/qiJ
+  - misty-meadow-9120.lishanpao.workers.dev@美国(US)-紐華克/PfI
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/MRc
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Uyc
+  - 120.197.88.216@中国(CN)-深圳市/erP
+  - 120.197.88.216@中国(CN)-深圳市/fwP
+  - 45.58.150.130@荷兰(NL)-阿姆斯特丹/6iZ
+  - 120.197.88.216@中国(CN)-深圳市/VqW
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/a8z
+  - 120.197.88.216@中国(CN)-深圳市/ZIy
+  - usa-buffalo.lvuft.com@美国(US)-水牛城/J8f
+  - 120.197.88.216@中国(CN)-深圳市/6L9
+  - 20.187.111.148@香港(HK)-香港/qBW
+  - 185.252.223.203@匈牙利(HU)-布达佩斯/aK9
+  - v3.ssrsub.com@加拿大(CA)-蒙特利尔/4Hi
+  - v3.ssrsub.com@加拿大(CA)-蒙特利尔/Qir
+  - mf-do-ua-02.xncloud.xyz@美国(US)-克利夫頓/n24
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/iuc
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/AYc
+  - 120.197.88.216@中国(CN)-深圳市/jRi
+  - v8.ssrsub.com@美国(US)-紐華克/wjO
+  - 120.232.173.88@中国(CN)-广州市/xjL
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/w49
+  - 120.197.88.216@中国(CN)-深圳市/fSZ
+  - v5.ssrsub.com@加拿大(CA)-蒙特利尔/vhA
+  - v3.ssrsub.com@美国(US)-紐華克/Adz
+  - 120.197.88.216@中国(CN)-深圳市/oPH
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/VJe
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/4Kt
+  - 172.104.98.216@日本(JP)-东京/y1D
+  - 1.0.0.1@澳大利亞(AU)-South Brisbane/fMB
+  - v3.ssrsub.com@美国(US)-紐華克/JDC
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/GZg
+  - v1.ssrsub.com@加拿大(CA)-蒙特利尔/kXl
+  - 112.33.32.136@中国(CN)-深圳市/CNV
+  - 120.197.88.216@中国(CN)-深圳市/9Ts
+  - 146.56.177.34@韩国(KR)-首尔特别市/8ZC
+  - shcn2-06b.iplc188.com@中国(CN)-上海/Tli
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/BVR
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/nxX
+  - 103.138.75.226@香港(HK)-意法半/jQ7
+  - 120.197.88.216@中国(CN)-深圳市/OhP
+  - 112.33.32.136@中国(CN)-深圳市/qrL
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   proxies:
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/O7Q
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/Ul0
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/HNA
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/kdo
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/u0i
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/rbu
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/nhi
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/dAY
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/18I
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/RlS
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/4AQ
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/Jtf
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/gmz
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/uSj
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/foY
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/s2M
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/oWV
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/8GW
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Sko
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/0c7
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/WjB
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/MkJ
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Pkm
-  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/2mW
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/F2M
-  - 139.227.161.129@中国(CN)-上海/blN
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/KbF
-  - 120.232.173.88@中国(CN)-广州市/q2x
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/OnM
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/439
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Pi5
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/PKL
-  - 104.17.170.210@加拿大(CA)-蒙特利尔/fsU
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/tpJ
-  - v8.ssrsub.com@加拿大(CA)-蒙特利尔/bZB
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/imL
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/F4E
-  - 172.104.98.216@日本(JP)-东京/kJl
-  - mf-az-yd-01.xncloud.xyz@印度(IN)-金奈/Ldz
-  - 112.33.32.136@中国(CN)-深圳市/J8Y
-  - 104.168.83.22@美国(US)-西雅圖/dCc
-  - www.ltzs.buzz@美国(US)-紐華克/6Pk
-  - 45.141.152.178@德国(DE)-法兰克福/iHx
-  - misty-meadow-9120.lishanpao.workers.dev@美国(US)-紐華克/tGu
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/j4q
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/mCU
-  - 120.197.88.216@中国(CN)-深圳市/m4B
-  - 120.197.88.216@中国(CN)-深圳市/VmL
-  - 45.58.150.130@荷兰(NL)-阿姆斯特丹/2Zh
-  - 120.197.88.216@中国(CN)-深圳市/bEC
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/MQ3
-  - 120.197.88.216@中国(CN)-深圳市/jrp
-  - usa-buffalo.lvuft.com@美国(US)-水牛城/wRO
-  - 120.197.88.216@中国(CN)-深圳市/xqX
-  - 20.187.111.148@香港(HK)-香港/ezR
-  - 185.252.223.203@匈牙利(HU)-布达佩斯/4da
-  - v3.ssrsub.com@美国(US)-紐華克/S7t
-  - v3.ssrsub.com@美国(US)-紐華克/o3z
-  - mf-do-ua-02.xncloud.xyz@美国(US)-克利夫頓/gxb
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/p4L
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/qLg
-  - 120.197.88.216@中国(CN)-深圳市/3b2
-  - v8.ssrsub.com@美国(US)-紐華克/pXK
-  - 120.232.173.88@中国(CN)-广州市/uyY
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/8fq
-  - 120.197.88.216@中国(CN)-深圳市/zR2
-  - v5.ssrsub.com@美国(US)-紐華克/La2
-  - v3.ssrsub.com@美国(US)-紐華克/jDA
-  - 120.197.88.216@中国(CN)-深圳市/lCy
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/wVq
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/xRO
-  - 172.104.98.216@日本(JP)-东京/yG2
-  - 1.0.0.1@澳大利亞(AU)-South Brisbane/qWL
-  - v3.ssrsub.com@美国(US)-紐華克/24d
-  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ycr
-  - v1.ssrsub.com@美国(US)-紐華克/5nH
-  - 112.33.32.136@中国(CN)-深圳市/CX3
-  - 120.197.88.216@中国(CN)-深圳市/1hQ
-  - 146.56.177.34@韩国(KR)-首尔特别市/o1b
-  - shcn2-06b.iplc188.com@中国(CN)-上海/aZM
-  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/aJH
-  - global-transit-02-sg.pucdn.mehowjPRB5
-  - 103.138.75.226Gj1McFOy
-  - 120.197.88.216@中国(CN)-深圳市/r9F
-  - 112.33.32.136dPMuT5VO
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/bTC
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/yTC
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Xf2
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/ngK
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/erO
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ZiX
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/ahm
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/LGD
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/u9v
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/tjF
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/RxV
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/WCO
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/WbA
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/W71
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/nEx
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/xyB
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/VTZ
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/tcn
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/GQx
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/mOp
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/v31
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/bly
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/5Qd
+  - global-transit-hk-v2.pucdn.me@中国(CN)-深圳市/zOc
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/J8a
+  - 139.227.161.129@中国(CN)-上海/tyS
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/3WJ
+  - 120.232.173.88@中国(CN)-广州市/25H
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/HFc
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/oVG
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/3Au
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/qxV
+  - 104.17.170.210@加拿大(CA)-蒙特利尔/q9W
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/PlM
+  - v8.ssrsub.com@美国(US)-紐華克/Ea0
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/XIp
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/IY9
+  - 172.104.98.216@日本(JP)-东京/Zih
+  - mf-az-yd-01.xncloud.xyz@印度(IN)-金奈/uYX
+  - 112.33.32.136@中国(CN)-深圳市/uEI
+  - 104.168.83.22@美国(US)-西雅圖/XUz
+  - www.ltzs.buzz@加拿大(CA)-蒙特利尔/YVG
+  - 45.141.152.178@德国(DE)-法兰克福/qiJ
+  - misty-meadow-9120.lishanpao.workers.dev@美国(US)-紐華克/PfI
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/MRc
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/Uyc
+  - 120.197.88.216@中国(CN)-深圳市/erP
+  - 120.197.88.216@中国(CN)-深圳市/fwP
+  - 45.58.150.130@荷兰(NL)-阿姆斯特丹/6iZ
+  - 120.197.88.216@中国(CN)-深圳市/VqW
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/a8z
+  - 120.197.88.216@中国(CN)-深圳市/ZIy
+  - usa-buffalo.lvuft.com@美国(US)-水牛城/J8f
+  - 120.197.88.216@中国(CN)-深圳市/6L9
+  - 20.187.111.148@香港(HK)-香港/qBW
+  - 185.252.223.203@匈牙利(HU)-布达佩斯/aK9
+  - v3.ssrsub.com@加拿大(CA)-蒙特利尔/4Hi
+  - v3.ssrsub.com@加拿大(CA)-蒙特利尔/Qir
+  - mf-do-ua-02.xncloud.xyz@美国(US)-克利夫頓/n24
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/iuc
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/AYc
+  - 120.197.88.216@中国(CN)-深圳市/jRi
+  - v8.ssrsub.com@美国(US)-紐華克/wjO
+  - 120.232.173.88@中国(CN)-广州市/xjL
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/w49
+  - 120.197.88.216@中国(CN)-深圳市/fSZ
+  - v5.ssrsub.com@加拿大(CA)-蒙特利尔/vhA
+  - v3.ssrsub.com@美国(US)-紐華克/Adz
+  - 120.197.88.216@中国(CN)-深圳市/oPH
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/VJe
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/4Kt
+  - 172.104.98.216@日本(JP)-东京/y1D
+  - 1.0.0.1@澳大利亞(AU)-South Brisbane/fMB
+  - v3.ssrsub.com@美国(US)-紐華克/JDC
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/GZg
+  - v1.ssrsub.com@加拿大(CA)-蒙特利尔/kXl
+  - 112.33.32.136@中国(CN)-深圳市/CNV
+  - 120.197.88.216@中国(CN)-深圳市/9Ts
+  - 146.56.177.34@韩国(KR)-首尔特别市/8ZC
+  - shcn2-06b.iplc188.com@中国(CN)-上海/Tli
+  - guangzou-yd-jy-03.pucdn.me@中国(CN)-深圳市/BVR
+  - global-transit-02-sg.pucdn.me@中国(CN)-深圳市/nxX
+  - 103.138.75.226@香港(HK)-意法半/jQ7
+  - 120.197.88.216@中国(CN)-深圳市/OhP
+  - 112.33.32.136@中国(CN)-深圳市/qrL
 - name: 🌍 国外媒体
   type: select
   proxies:
