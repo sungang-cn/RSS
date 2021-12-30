@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-- name: zz-hk-v5.laov888.win@中国(CN)-广州市/1k4
+- name: zz-hk-v5.laov888.win@中国(CN)-广州市/f5r
   type: vmess
   server: zz-hk-v5.laov888.win
   port: '21705'
@@ -18,7 +18,7 @@ proxies:
   ws-headers:
     Host: www.baidu.com
   tls: false
-- name: zz-hk-v5.laov888.win@中国(CN)-广州市/Ugh
+- name: zz-hk-v5.laov888.win@中国(CN)-广州市/OZ8
   type: vmess
   server: zz-hk-v5.laov888.win
   port: '21705'
@@ -31,14 +31,14 @@ proxies:
   ws-headers:
     Host: www.baidu.com
   tls: false
-- name: 118.107.244.112@香港(HK)-中環/CnR
+- name: 118.107.244.112@香港(HK)-中環/AuD
   type: ss
   server: 118.107.244.112
   port: '8008'
   password: XKFKl2rULjIp74
   alterId: 2
   cipher: aes-256-gcm
-- name: 216.24.179.100@美国(US)-洛杉矶/Omv
+- name: 216.24.179.100@美国(US)-洛杉矶/MpV
   type: vmess
   server: 216.24.179.100
   port: '17839'
@@ -51,7 +51,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 216.24.179.100@美国(US)-洛杉矶/8d3
+- name: 216.24.179.100@美国(US)-洛杉矶/K8o
   type: vmess
   server: 216.24.179.100
   port: '17839'
@@ -64,7 +64,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: www.ltzs.buzz@加拿大(CA)-蒙特利尔/pOg
+- name: www.ltzs.buzz@加拿大(CA)-蒙特利尔/INF
   type: vmess
   server: www.ltzs.buzz
   port: '443'
@@ -77,7 +77,7 @@ proxies:
   ws-headers:
     Host: www.ltzs.buzz
   tls: true
-- name: us11.vip-v2ray.ml@美国(US)-凤凰城/SpM
+- name: us11.vip-v2ray.ml@美国(US)-凤凰城/3ia
   type: vmess
   server: us11.vip-v2ray.ml
   port: '42564'
@@ -90,14 +90,14 @@ proxies:
   ws-headers:
     Host: us11.vip-v2ray.ml
   tls: false
-- name: 118.107.244.112@香港(HK)-中環/ekE
+- name: 118.107.244.112@香港(HK)-中環/cQX
   type: ss
   server: 118.107.244.112
   port: '5601'
   password: Y6R9pAtvxxzmGC
   alterId: 2
   cipher: aes-256-gcm
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/dwK
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/4kq
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20005'
@@ -110,14 +110,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 118.107.244.112@香港(HK)-中環/N8D
+- name: 118.107.244.112@香港(HK)-中環/8m5
   type: ss
   server: 118.107.244.112
   port: '8881'
   password: kDWvXYZoTBcGkC4
   alterId: 2
   cipher: aes-256-gcm
-- name: 45.77.69.134@美国(US)-洛杉矶/qk3
+- name: 45.77.69.134@美国(US)-洛杉矶/bvE
   type: vmess
   server: 45.77.69.134
   port: '59892'
@@ -130,14 +130,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 70.32.0.208@美国(US)-Ashburn/dEa
+- name: 70.32.0.208@美国(US)-Ashburn/a8g
   type: ss
   server: 70.32.0.208
   port: '8389'
   password: q4apPAjyY9knqKS4e9xZ
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/4ia
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/l7L
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20047'
@@ -150,14 +150,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 77.243.191.178@比利时(BE)-布鲁塞尔/Vhe
+- name: 77.243.191.178@比利时(BE)-布鲁塞尔/7R0
   type: ss
   server: 77.243.191.178
   port: '8389'
   password: 47GH3wQRw7V4Zhd35bFs
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: 192.186.129.66@美国(US)-水牛城/JF2
+- name: 192.186.129.66@美国(US)-水牛城/SPi
   type: vmess
   server: 192.186.129.66
   port: '443'
@@ -170,7 +170,7 @@ proxies:
   ws-headers:
     Host: usa-buffalo.lvuft.com
   tls: true
-- name: 23.82.136.151@美国(US)-Carthage/YfH
+- name: 23.82.136.151@美国(US)-Carthage/iop
   type: vmess
   server: 23.82.136.151
   port: '443'
@@ -183,7 +183,7 @@ proxies:
   ws-headers:
     Host: usa-miami.lvuft.com
   tls: true
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/afs
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/pVE
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20005'
@@ -196,7 +196,7 @@ proxies:
   ws-headers:
     Host: youtube-aweikeji
   tls: false
-- name: 104.16.160.114@加拿大(CA)-蒙特利尔/320
+- name: 104.16.160.114@加拿大(CA)-蒙特利尔/ZHj
   type: vmess
   server: 104.16.160.114
   port: '443'
@@ -209,7 +209,7 @@ proxies:
   ws-headers:
     Host: vincent-jackson2021.ga
   tls: true
-- name: us01.eelvee.org@美国(US)-費利蒙/dxu
+- name: us01.eelvee.org@美国(US)-費利蒙/uJi
   type: vmess
   server: us01.eelvee.org
   port: '3389'
@@ -222,7 +222,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: ff7.uuv2.co.uk@加拿大(CA)-蒙特利尔/DxI
+- name: ff7.uuv2.co.uk@加拿大(CA)-蒙特利尔/4R9
   type: vmess
   server: ff7.uuv2.co.uk
   port: '443'
@@ -235,7 +235,7 @@ proxies:
   ws-headers:
     Host: lsb.stupidfellow.cf
   tls: true
-- name: us01.eelvee.org@美国(US)-費利蒙/2eI
+- name: us01.eelvee.org@美国(US)-費利蒙/VKh
   type: vmess
   server: us01.eelvee.org
   port: '3389'
@@ -248,7 +248,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 45.58.150.130@荷兰(NL)-阿姆斯特丹/WjJ
+- name: 45.58.150.130@荷兰(NL)-阿姆斯特丹/K6C
   type: vmess
   server: 45.58.150.130
   port: '443'
@@ -261,7 +261,7 @@ proxies:
   ws-headers:
     Host: dax6ujai.com
   tls: true
-- name: 103.138.75.226@香港(HK)-意法半/vQz
+- name: 103.138.75.226@香港(HK)-意法半/hqn
   type: vmess
   server: 103.138.75.226
   port: '443'
@@ -274,14 +274,14 @@ proxies:
   ws-headers:
     Host: hkbgp-100m01.nb1.fr
   tls: true
-- name: 172.105.180.227@澳大利亚(AU)-悉尼/HdA
+- name: 172.105.180.227@澳大利亚(AU)-悉尼/K49
   type: ss
   server: 172.105.180.227
   port: '2376'
   password: faBAoD54k87UJG7
   alterId: 2
   cipher: aes-256-gcm
-- name: us11.vip-v2ray.ml@美国(US)-凤凰城/yGq
+- name: us11.vip-v2ray.ml@美国(US)-凤凰城/pDM
   type: vmess
   server: us11.vip-v2ray.ml
   port: '42564'
@@ -294,7 +294,7 @@ proxies:
   ws-headers:
     Host: us11.vip-v2ray.ml
   tls: false
-- name: 104.20.100.214@美国(US)-紐華克/HG0
+- name: 104.20.100.214@美国(US)-紐華克/pEL
   type: vmess
   server: 104.20.100.214
   port: '443'
@@ -307,7 +307,7 @@ proxies:
   ws-headers:
     Host: us.wwsq.workers.dev
   tls: true
-- name: us02.eelvee.org@美国(US)-費利蒙/JTX
+- name: us02.eelvee.org@美国(US)-費利蒙/CvM
   type: vmess
   server: us02.eelvee.org
   port: '3389'
@@ -320,14 +320,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 38.75.136.93@美国(US)-洛杉矶/xjW
+- name: 38.75.136.93@美国(US)-洛杉矶/FVn
   type: ss
   server: 38.75.136.93
   port: '5003'
   password: g5MeD6Ft3CWlJId
   alterId: 2
   cipher: aes-256-gcm
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/NmY
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/RGB
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20005'
@@ -340,7 +340,7 @@ proxies:
   ws-headers:
     Host: youtube-aweikeji
   tls: false
-- name: usa-dallas.lvuft.com@美国(US)-達拉斯/87S
+- name: usa-dallas.lvuft.com@美国(US)-達拉斯/r7h
   type: vmess
   server: usa-dallas.lvuft.com
   port: '443'
@@ -353,7 +353,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/9Ot
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/E3N
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20047'
@@ -366,7 +366,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 20.205.37.251@香港(HK)-香港/Fcp
+- name: 20.205.37.251@香港(HK)-香港/5B2
   type: vmess
   server: 20.205.37.251
   port: '60111'
@@ -379,7 +379,7 @@ proxies:
   ws-headers:
     Host: microsoft.com
   tls: false
-- name: oz.mooncloud.bike@芬兰(FI)-图苏拉/WLR
+- name: oz.mooncloud.bike@芬兰(FI)-图苏拉/q2L
   type: vmess
   server: oz.mooncloud.bike
   port: '8443'
@@ -392,14 +392,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: 62.210.209.50@法国(FR)-巴黎/3IP
+- name: 62.210.209.50@法国(FR)-巴黎/w7C
   type: ss
   server: 62.210.209.50
   port: '8118'
   password: cdBIDV42DCwnfIN
   alterId: 2
   cipher: aes-256-gcm
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/AlQ
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/Iva
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20047'
@@ -412,7 +412,7 @@ proxies:
   ws-headers:
     Host: youtube-aweikeji
   tls: false
-- name: usa-dallas.lvuft.com@美国(US)-達拉斯/O5b
+- name: usa-dallas.lvuft.com@美国(US)-達拉斯/vLz
   type: vmess
   server: usa-dallas.lvuft.com
   port: '443'
@@ -425,7 +425,7 @@ proxies:
   ws-headers:
     Host: usa-dallas.lvuft.com
   tls: true
-- name: us02.eelvee.org@美国(US)-費利蒙/rsp
+- name: us02.eelvee.org@美国(US)-費利蒙/yQj
   type: vmess
   server: us02.eelvee.org
   port: '3389'
@@ -438,7 +438,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 45.77.69.134@美国(US)-洛杉矶/Ob2
+- name: 45.77.69.134@美国(US)-洛杉矶/ZMX
   type: vmess
   server: 45.77.69.134
   port: '59892'
@@ -451,7 +451,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/aI3
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/21Y
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20005'
@@ -464,7 +464,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/kTH
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/gN4
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20047'
@@ -477,14 +477,14 @@ proxies:
   ws-headers:
     Host: youtube-aweikeji
   tls: false
-- name: 38.64.138.145@美国(US)-芝加哥/zc5
+- name: 38.64.138.145@美国(US)-芝加哥/L85
   type: ss
   server: 38.64.138.145
   port: '3306'
   password: Y6R9pAtvxxzmGC
   alterId: 2
   cipher: aes-256-gcm
-- name: mf-do-ua-04.xncloud.xyz@美国(US)-克利夫頓/C7B
+- name: mf-do-ua-04.xncloud.xyz@美国(US)-克利夫頓/aVD
   type: vmess
   server: mf-do-ua-04.xncloud.xyz
   port: '80'
@@ -497,14 +497,14 @@ proxies:
   ws-headers:
     Host: mf-do-ua-04.xncloud.xyz
   tls: false
-- name: 169.197.141.24@美国(US)-纽约/wNU
+- name: 169.197.141.24@美国(US)-纽约/FNu
   type: ss
   server: 169.197.141.24
   port: '5001'
   password: Y6R9pAtvxxzmGC
   alterId: 2
   cipher: aes-256-gcm
-- name: usa-dallas.lvuft.com@美国(US)-達拉斯/2yx
+- name: usa-dallas.lvuft.com@美国(US)-達拉斯/JCj
   type: vmess
   server: usa-dallas.lvuft.com
   port: '443'
@@ -517,7 +517,7 @@ proxies:
   ws-headers:
     Host: usa-dallas.lvuft.com
   tls: true
-- name: 104.26.9.74@美国(US)-紐華克/NDC
+- name: 104.26.9.74@美国(US)-紐華克/KWu
   type: vmess
   server: 104.26.9.74
   port: '443'
@@ -530,28 +530,28 @@ proxies:
   ws-headers:
     Host: us2.v2rayserv.com
   tls: true
-- name: 167.88.61.60@美国(US)-圣克拉拉/4tZ
+- name: 167.88.61.60SlkipcoQ
   type: ss
   server: 167.88.61.60
   port: '8118'
   password: cdBIDV42DCwnfIN
   alterId: 2
   cipher: aes-256-gcm
-- name: 172.105.35.61@印度(IN)-孟买/ruW
+- name: 172.105.35.61rsW9C0d3
   type: ss
   server: 172.105.35.61
   port: '8118'
   password: cdBIDV42DCwnfIN
   alterId: 2
   cipher: aes-256-gcm
-- name: 169.197.141.24@美国(US)-纽约/KXW
+- name: 169.197.141.24c2T6BojS
   type: ss
   server: 169.197.141.24
   port: '3389'
   password: Y6R9pAtvxxzmGC
   alterId: 2
   cipher: aes-256-gcm
-- name: 172.104.98.216@日本(JP)-东京/WMg
+- name: 172.104.98.2168pybmhiq
   type: vmess
   server: 172.104.98.216
   port: '80'
@@ -564,7 +564,7 @@ proxies:
   ws-headers:
     Host: 172.104.98.216
   tls: false
-- name: 45.35.84.162@美国(US)-達拉斯/yFf
+- name: 45.35.84.16275lV2ofm
   type: vmess
   server: 45.35.84.162
   port: '443'
@@ -577,14 +577,14 @@ proxies:
   ws-headers:
     Host: usa-dallas.lvuft.com
   tls: true
-- name: 38.91.102.86@美国(US)-西雅圖/84w
+- name: 38.91.102.86xalzAcMB
   type: ss
   server: 38.91.102.86
   port: '3306'
   password: Y6R9pAtvxxzmGC
   alterId: 2
   cipher: aes-256-gcm
-- name: oz.mooncloud.bike@芬兰(FI)-图苏拉/9Wu
+- name: oz.mooncloud.bikezfyxl8Qo
   type: vmess
   server: oz.mooncloud.bike
   port: '8443'
@@ -597,28 +597,28 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: 169.197.141.24@美国(US)-纽约/1iv
+- name: 169.197.141.24cRNCn5g2
   type: ss
   server: 169.197.141.24
   port: '8888'
   password: Y6R9pAtvxxzmGC
   alterId: 2
   cipher: aes-256-gcm
-- name: 198.57.27.218@加拿大(CA)-多伦多/SQy
+- name: 198.57.27.218vwPOdRuy
   type: ss
   server: 198.57.27.218
   port: '7307'
   password: FoOiGlkAA9yPEGP
   alterId: 2
   cipher: aes-256-gcm
-- name: 38.64.138.145@美国(US)-芝加哥/N0o
+- name: 38.64.138.145KFGZPubs
   type: ss
   server: 38.64.138.145
   port: '5000'
   password: Y6R9pAtvxxzmGC
   alterId: 2
   cipher: aes-256-gcm
-- name: 104.21.62.193@美国(US)-紐華克/36t
+- name: 104.21.62.1935eovag2n
   type: vmess
   server: 104.21.62.193
   port: '443'
@@ -631,7 +631,7 @@ proxies:
   ws-headers:
     Host: free-russian-cdn.xiaohouzi.club
   tls: true
-- name: 38.91.102.96@美国(US)-西雅圖/nRT
+- name: 38.91.102.96FODUQwjK
   type: ss
   server: 38.91.102.96
   port: '5601'
@@ -644,125 +644,125 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - zz-hk-v5.laov888.win@中国(CN)-广州市/1k4
-  - zz-hk-v5.laov888.win@中国(CN)-广州市/Ugh
-  - 118.107.244.112@香港(HK)-中環/CnR
-  - 216.24.179.100@美国(US)-洛杉矶/Omv
-  - 216.24.179.100@美国(US)-洛杉矶/8d3
-  - www.ltzs.buzz@加拿大(CA)-蒙特利尔/pOg
-  - us11.vip-v2ray.ml@美国(US)-凤凰城/SpM
-  - 118.107.244.112@香港(HK)-中環/ekE
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/dwK
-  - 118.107.244.112@香港(HK)-中環/N8D
-  - 45.77.69.134@美国(US)-洛杉矶/qk3
-  - 70.32.0.208@美国(US)-Ashburn/dEa
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/4ia
-  - 77.243.191.178@比利时(BE)-布鲁塞尔/Vhe
-  - 192.186.129.66@美国(US)-水牛城/JF2
-  - 23.82.136.151@美国(US)-Carthage/YfH
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/afs
-  - 104.16.160.114@加拿大(CA)-蒙特利尔/320
-  - us01.eelvee.org@美国(US)-費利蒙/dxu
-  - ff7.uuv2.co.uk@加拿大(CA)-蒙特利尔/DxI
-  - us01.eelvee.org@美国(US)-費利蒙/2eI
-  - 45.58.150.130@荷兰(NL)-阿姆斯特丹/WjJ
-  - 103.138.75.226@香港(HK)-意法半/vQz
-  - 172.105.180.227@澳大利亚(AU)-悉尼/HdA
-  - us11.vip-v2ray.ml@美国(US)-凤凰城/yGq
-  - 104.20.100.214@美国(US)-紐華克/HG0
-  - us02.eelvee.org@美国(US)-費利蒙/JTX
-  - 38.75.136.93@美国(US)-洛杉矶/xjW
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/NmY
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/87S
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/9Ot
-  - 20.205.37.251@香港(HK)-香港/Fcp
-  - oz.mooncloud.bike@芬兰(FI)-图苏拉/WLR
-  - 62.210.209.50@法国(FR)-巴黎/3IP
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/AlQ
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/O5b
-  - us02.eelvee.org@美国(US)-費利蒙/rsp
-  - 45.77.69.134@美国(US)-洛杉矶/Ob2
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/aI3
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/kTH
-  - 38.64.138.145@美国(US)-芝加哥/zc5
-  - mf-do-ua-04.xncloud.xyz@美国(US)-克利夫頓/C7B
-  - 169.197.141.24@美国(US)-纽约/wNU
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/2yx
-  - 104.26.9.74@美国(US)-紐華克/NDC
-  - 167.88.61.60@美国(US)-圣克拉拉/4tZ
-  - 172.105.35.61@印度(IN)-孟买/ruW
-  - 169.197.141.24@美国(US)-纽约/KXW
-  - 172.104.98.216@日本(JP)-东京/WMg
-  - 45.35.84.162@美国(US)-達拉斯/yFf
-  - 38.91.102.86@美国(US)-西雅圖/84w
-  - oz.mooncloud.bike@芬兰(FI)-图苏拉/9Wu
-  - 169.197.141.24@美国(US)-纽约/1iv
-  - 198.57.27.218@加拿大(CA)-多伦多/SQy
-  - 38.64.138.145@美国(US)-芝加哥/N0o
-  - 104.21.62.193@美国(US)-紐華克/36t
-  - 38.91.102.96@美国(US)-西雅圖/nRT
+  - zz-hk-v5.laov888.win@中国(CN)-广州市/f5r
+  - zz-hk-v5.laov888.win@中国(CN)-广州市/OZ8
+  - 118.107.244.112@香港(HK)-中環/AuD
+  - 216.24.179.100@美国(US)-洛杉矶/MpV
+  - 216.24.179.100@美国(US)-洛杉矶/K8o
+  - www.ltzs.buzz@加拿大(CA)-蒙特利尔/INF
+  - us11.vip-v2ray.ml@美国(US)-凤凰城/3ia
+  - 118.107.244.112@香港(HK)-中環/cQX
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/4kq
+  - 118.107.244.112@香港(HK)-中環/8m5
+  - 45.77.69.134@美国(US)-洛杉矶/bvE
+  - 70.32.0.208@美国(US)-Ashburn/a8g
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/l7L
+  - 77.243.191.178@比利时(BE)-布鲁塞尔/7R0
+  - 192.186.129.66@美国(US)-水牛城/SPi
+  - 23.82.136.151@美国(US)-Carthage/iop
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/pVE
+  - 104.16.160.114@加拿大(CA)-蒙特利尔/ZHj
+  - us01.eelvee.org@美国(US)-費利蒙/uJi
+  - ff7.uuv2.co.uk@加拿大(CA)-蒙特利尔/4R9
+  - us01.eelvee.org@美国(US)-費利蒙/VKh
+  - 45.58.150.130@荷兰(NL)-阿姆斯特丹/K6C
+  - 103.138.75.226@香港(HK)-意法半/hqn
+  - 172.105.180.227@澳大利亚(AU)-悉尼/K49
+  - us11.vip-v2ray.ml@美国(US)-凤凰城/pDM
+  - 104.20.100.214@美国(US)-紐華克/pEL
+  - us02.eelvee.org@美国(US)-費利蒙/CvM
+  - 38.75.136.93@美国(US)-洛杉矶/FVn
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/RGB
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/r7h
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/E3N
+  - 20.205.37.251@香港(HK)-香港/5B2
+  - oz.mooncloud.bike@芬兰(FI)-图苏拉/q2L
+  - 62.210.209.50@法国(FR)-巴黎/w7C
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/Iva
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/vLz
+  - us02.eelvee.org@美国(US)-費利蒙/yQj
+  - 45.77.69.134@美国(US)-洛杉矶/ZMX
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/21Y
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/gN4
+  - 38.64.138.145@美国(US)-芝加哥/L85
+  - mf-do-ua-04.xncloud.xyz@美国(US)-克利夫頓/aVD
+  - 169.197.141.24@美国(US)-纽约/FNu
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/JCj
+  - 104.26.9.74@美国(US)-紐華克/KWu
+  - 167.88.61.60SlkipcoQ
+  - 172.105.35.61rsW9C0d3
+  - 169.197.141.24c2T6BojS
+  - 172.104.98.2168pybmhiq
+  - 45.35.84.16275lV2ofm
+  - 38.91.102.86xalzAcMB
+  - oz.mooncloud.bikezfyxl8Qo
+  - 169.197.141.24cRNCn5g2
+  - 198.57.27.218vwPOdRuy
+  - 38.64.138.145KFGZPubs
+  - 104.21.62.1935eovag2n
+  - 38.91.102.96FODUQwjK
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   proxies:
-  - zz-hk-v5.laov888.win@中国(CN)-广州市/1k4
-  - zz-hk-v5.laov888.win@中国(CN)-广州市/Ugh
-  - 118.107.244.112@香港(HK)-中環/CnR
-  - 216.24.179.100@美国(US)-洛杉矶/Omv
-  - 216.24.179.100@美国(US)-洛杉矶/8d3
-  - www.ltzs.buzz@加拿大(CA)-蒙特利尔/pOg
-  - us11.vip-v2ray.ml@美国(US)-凤凰城/SpM
-  - 118.107.244.112@香港(HK)-中環/ekE
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/dwK
-  - 118.107.244.112@香港(HK)-中環/N8D
-  - 45.77.69.134@美国(US)-洛杉矶/qk3
-  - 70.32.0.208@美国(US)-Ashburn/dEa
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/4ia
-  - 77.243.191.178@比利时(BE)-布鲁塞尔/Vhe
-  - 192.186.129.66@美国(US)-水牛城/JF2
-  - 23.82.136.151@美国(US)-Carthage/YfH
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/afs
-  - 104.16.160.114@加拿大(CA)-蒙特利尔/320
-  - us01.eelvee.org@美国(US)-費利蒙/dxu
-  - ff7.uuv2.co.uk@加拿大(CA)-蒙特利尔/DxI
-  - us01.eelvee.org@美国(US)-費利蒙/2eI
-  - 45.58.150.130@荷兰(NL)-阿姆斯特丹/WjJ
-  - 103.138.75.226@香港(HK)-意法半/vQz
-  - 172.105.180.227@澳大利亚(AU)-悉尼/HdA
-  - us11.vip-v2ray.ml@美国(US)-凤凰城/yGq
-  - 104.20.100.214@美国(US)-紐華克/HG0
-  - us02.eelvee.org@美国(US)-費利蒙/JTX
-  - 38.75.136.93@美国(US)-洛杉矶/xjW
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/NmY
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/87S
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/9Ot
-  - 20.205.37.251@香港(HK)-香港/Fcp
-  - oz.mooncloud.bike@芬兰(FI)-图苏拉/WLR
-  - 62.210.209.50@法国(FR)-巴黎/3IP
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/AlQ
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/O5b
-  - us02.eelvee.org@美国(US)-費利蒙/rsp
-  - 45.77.69.134@美国(US)-洛杉矶/Ob2
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/aI3
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/kTH
-  - 38.64.138.145@美国(US)-芝加哥/zc5
-  - mf-do-ua-04.xncloud.xyz@美国(US)-克利夫頓/C7B
-  - 169.197.141.24@美国(US)-纽约/wNU
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/2yx
-  - 104.26.9.74@美国(US)-紐華克/NDC
-  - 167.88.61.60@美国(US)-圣克拉拉/4tZ
-  - 172.105.35.61@印度(IN)-孟买/ruW
-  - 169.197.141.24@美国(US)-纽约/KXW
-  - 172.104.98.216@日本(JP)-东京/WMg
-  - 45.35.84.162@美国(US)-達拉斯/yFf
-  - 38.91.102.86@美国(US)-西雅圖/84w
-  - oz.mooncloud.bike@芬兰(FI)-图苏拉/9Wu
-  - 169.197.141.24@美国(US)-纽约/1iv
-  - 198.57.27.218@加拿大(CA)-多伦多/SQy
-  - 38.64.138.145@美国(US)-芝加哥/N0o
-  - 104.21.62.193@美国(US)-紐華克/36t
-  - 38.91.102.96@美国(US)-西雅圖/nRT
+  - zz-hk-v5.laov888.win@中国(CN)-广州市/f5r
+  - zz-hk-v5.laov888.win@中国(CN)-广州市/OZ8
+  - 118.107.244.112@香港(HK)-中環/AuD
+  - 216.24.179.100@美国(US)-洛杉矶/MpV
+  - 216.24.179.100@美国(US)-洛杉矶/K8o
+  - www.ltzs.buzz@加拿大(CA)-蒙特利尔/INF
+  - us11.vip-v2ray.ml@美国(US)-凤凰城/3ia
+  - 118.107.244.112@香港(HK)-中環/cQX
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/4kq
+  - 118.107.244.112@香港(HK)-中環/8m5
+  - 45.77.69.134@美国(US)-洛杉矶/bvE
+  - 70.32.0.208@美国(US)-Ashburn/a8g
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/l7L
+  - 77.243.191.178@比利时(BE)-布鲁塞尔/7R0
+  - 192.186.129.66@美国(US)-水牛城/SPi
+  - 23.82.136.151@美国(US)-Carthage/iop
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/pVE
+  - 104.16.160.114@加拿大(CA)-蒙特利尔/ZHj
+  - us01.eelvee.org@美国(US)-費利蒙/uJi
+  - ff7.uuv2.co.uk@加拿大(CA)-蒙特利尔/4R9
+  - us01.eelvee.org@美国(US)-費利蒙/VKh
+  - 45.58.150.130@荷兰(NL)-阿姆斯特丹/K6C
+  - 103.138.75.226@香港(HK)-意法半/hqn
+  - 172.105.180.227@澳大利亚(AU)-悉尼/K49
+  - us11.vip-v2ray.ml@美国(US)-凤凰城/pDM
+  - 104.20.100.214@美国(US)-紐華克/pEL
+  - us02.eelvee.org@美国(US)-費利蒙/CvM
+  - 38.75.136.93@美国(US)-洛杉矶/FVn
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/RGB
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/r7h
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/E3N
+  - 20.205.37.251@香港(HK)-香港/5B2
+  - oz.mooncloud.bike@芬兰(FI)-图苏拉/q2L
+  - 62.210.209.50@法国(FR)-巴黎/w7C
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/Iva
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/vLz
+  - us02.eelvee.org@美国(US)-費利蒙/yQj
+  - 45.77.69.134@美国(US)-洛杉矶/ZMX
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/21Y
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/gN4
+  - 38.64.138.145@美国(US)-芝加哥/L85
+  - mf-do-ua-04.xncloud.xyz@美国(US)-克利夫頓/aVD
+  - 169.197.141.24@美国(US)-纽约/FNu
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/JCj
+  - 104.26.9.74@美国(US)-紐華克/KWu
+  - 167.88.61.60SlkipcoQ
+  - 172.105.35.61rsW9C0d3
+  - 169.197.141.24c2T6BojS
+  - 172.104.98.2168pybmhiq
+  - 45.35.84.16275lV2ofm
+  - 38.91.102.86xalzAcMB
+  - oz.mooncloud.bikezfyxl8Qo
+  - 169.197.141.24cRNCn5g2
+  - 198.57.27.218vwPOdRuy
+  - 38.64.138.145KFGZPubs
+  - 104.21.62.1935eovag2n
+  - 38.91.102.96FODUQwjK
 - name: 🌍 国外媒体
   type: select
   proxies:
