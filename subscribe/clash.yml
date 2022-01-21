@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/PJz
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/hGF
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20000'
@@ -18,7 +18,7 @@ proxies:
   ws-headers:
     Host: youtube-aweikeji
   tls: false
-- name: shcu01.iplc188.com@中国(CN)-上海浦东/je5
+- name: shcu01.iplc188.com@中国(CN)-上海浦东/sxO
   type: vmess
   server: shcu01.iplc188.com
   port: '10004'
@@ -31,7 +31,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/KOC
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/sZ1
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20001'
@@ -44,7 +44,7 @@ proxies:
   ws-headers:
     Host: youtube-aweikeji
   tls: false
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/0KP
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/lDA
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20001'
@@ -57,7 +57,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/tgh
+- name: cm-jm.okvpn.xyz@中国(CN)-深圳市/CJ1
   type: vmess
   server: cm-jm.okvpn.xyz
   port: '20000'
@@ -70,7 +70,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: ff7.uuv2.co.ukWfDi1KNP
+- name: ff7.uuv2.co.ukAWBqgElR
   type: vmess
   server: ff7.uuv2.co.uk
   port: '443'
@@ -83,7 +83,7 @@ proxies:
   ws-headers:
     Host: lsb.stupidfellow.cf
   tls: true
-- name: 66.42.103.1@美国(US)-洛杉矶/Tj4
+- name: 66.42.103.1@美国(US)-洛杉矶/SA9
   type: vmess
   server: 66.42.103.1
   port: '50890'
@@ -96,7 +96,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: ff7.uuv2.co.uk7cKLfGtD
+- name: ff7.uuv2.co.uk1gWCzhyx
   type: vmess
   server: ff7.uuv2.co.uk
   port: '443'
@@ -109,49 +109,49 @@ proxies:
   ws-headers:
     Host: lsb.stupidfellow.cf
   tls: true
-- name: 70.39.71.2@美国(US)-諾克斯維爾/tfL
+- name: 70.39.71.2@美国(US)-諾克斯維爾/sG5
   type: ss
   server: 70.39.71.2
   port: '8389'
   password: XkH8z99cQguQ8ywK5jhV
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: 169.197.142.39@美国(US)-圣克拉拉/QKb
+- name: 169.197.142.39@美国(US)-圣克拉拉/qBg
   type: ss
   server: 169.197.142.39
   port: '8000'
   password: KixLvKzwjekG00rm
   alterId: 2
   cipher: aes-256-gcm
-- name: 169.197.143.157@美国(US)-西雅圖/a16
+- name: 169.197.143.157@美国(US)-西雅圖/PAi
   type: ss
   server: 169.197.143.157
   port: '8118'
   password: cdBIDV42DCwnfIN
   alterId: 2
   cipher: aes-256-gcm
-- name: 38.91.102.86@美国(US)-西雅圖/ugS
+- name: 38.91.102.86@美国(US)-西雅圖/dng
   type: ss
   server: 38.91.102.86
   port: '6379'
   password: zDNVedRFPQexG9v
   alterId: 2
   cipher: aes-256-gcm
-- name: 38.143.66.71@美国(US)-西雅圖/mak
+- name: 38.143.66.71@美国(US)-西雅圖/VCt
   type: ss
   server: 38.143.66.71
   port: '443'
   password: pKEW8JPByTVTLtM
   alterId: 2
   cipher: aes-256-gcm
-- name: 38.91.102.86@美国(US)-西雅圖/kA5
+- name: 38.91.102.86@美国(US)-西雅圖/iNU
   type: ss
   server: 38.91.102.86
   port: '9102'
   password: e4FCWrgpkji3QY
   alterId: 2
   cipher: aes-256-gcm
-- name: usa-dallas.lvuft.com@美国(US)-達拉斯/t6f
+- name: usa-dallas.lvuft.com@美国(US)-達拉斯/F8P
   type: vmess
   server: usa-dallas.lvuft.com
   port: '443'
@@ -164,7 +164,7 @@ proxies:
   ws-headers:
     Host: usa-dallas.lvuft.com
   tls: true
-- name: 208.98.48.2@美国(US)-芝加哥/YDV
+- name: 208.98.48.2@美国(US)-芝加哥/0pu
   type: vmess
   server: 208.98.48.2
   port: '443'
@@ -177,7 +177,7 @@ proxies:
   ws-headers:
     Host: iesei1ei.com
   tls: true
-- name: usa-dallas.lvuft.com@美国(US)-達拉斯/JfX
+- name: usa-dallas.lvuft.com@美国(US)-達拉斯/vaz
   type: vmess
   server: usa-dallas.lvuft.com
   port: '443'
@@ -190,7 +190,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: 104.21.62.193@美国(US)-紐華克/RJG
+- name: 104.21.62.193@美国(US)-紐華克/8Ag
   type: vmess
   server: 104.21.62.193
   port: '443'
@@ -203,14 +203,14 @@ proxies:
   ws-headers:
     Host: free-russian-cdn.xiaohouzi.club
   tls: true
-- name: 38.91.102.86@美国(US)-西雅圖/QjZ
+- name: 38.91.102.86@美国(US)-西雅圖/u6y
   type: ss
   server: 38.91.102.86
   port: '3389'
   password: Y6R9pAtvxxzmGC
   alterId: 2
   cipher: aes-256-gcm
-- name: 45.35.84.162@美国(US)-達拉斯/v8c
+- name: 45.35.84.162@美国(US)-達拉斯/pzc
   type: vmess
   server: 45.35.84.162
   port: '443'
@@ -223,7 +223,7 @@ proxies:
   ws-headers:
     Host: usa-dallas.lvuft.com
   tls: true
-- name: 45.35.84.162@美国(US)-達拉斯/9DA
+- name: 45.35.84.162@美国(US)-達拉斯/eJ0
   type: vmess
   server: 45.35.84.162
   port: '443'
@@ -236,7 +236,7 @@ proxies:
   ws-headers:
     Host: usa-dallas.lvuft.com
   tls: true
-- name: free-russian01-cdn.xiaohouzi.club@俄罗斯(RU)-Zelenograd/yLa
+- name: free-russian01-cdn.xiaohouzi.club@俄罗斯(RU)-Zelenograd/b6T
   type: vmess
   server: free-russian01-cdn.xiaohouzi.club
   port: '443'
@@ -249,14 +249,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: 77.243.191.178@比利时(BE)-布鲁塞尔/4gt
+- name: 77.243.191.178@比利时(BE)-布鲁塞尔/Smq
   type: ss
   server: 77.243.191.178
   port: '8389'
   password: 47GH3wQRw7V4Zhd35bFs
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: 104.21.62.193@美国(US)-紐華克/8A5
+- name: 104.21.62.193@美国(US)-紐華克/GEY
   type: vmess
   server: 104.21.62.193
   port: '443'
@@ -269,14 +269,14 @@ proxies:
   ws-headers:
     Host: free-russian01-cdn.xiaohouzi.club
   tls: true
-- name: 172.105.180.227@澳大利亚(AU)-悉尼/8cs
+- name: 172.105.180.227@澳大利亚(AU)-悉尼/lb0
   type: ss
   server: 172.105.180.227
   port: '8008'
   password: XKFKl2rULjIp74
   alterId: 2
   cipher: aes-256-gcm
-- name: 104.21.62.193@美国(US)-紐華克/dDv
+- name: 104.21.62.193@美国(US)-紐華克/RH4
   type: vmess
   server: 104.21.62.193
   port: '443'
@@ -289,14 +289,14 @@ proxies:
   ws-headers:
     Host: free-russian01-cdn.xiaohouzi.club
   tls: true
-- name: 169.197.142.39@美国(US)-圣克拉拉/qPf
+- name: 169.197.142.39@美国(US)-圣克拉拉/x9i
   type: ss
   server: 169.197.142.39
   port: '6679'
   password: TEzjfAYq2IjtuoS
   alterId: 2
   cipher: aes-256-gcm
-- name: 104.17.170.210@加拿大(CA)-多伦多/cXS
+- name: 104.17.170.210@加拿大(CA)-多伦多/OCm
   type: vmess
   server: 104.17.170.210
   port: '443'
@@ -309,21 +309,21 @@ proxies:
   ws-headers:
     Host: lsb.stupidfellow.cf
   tls: true
-- name: 169.197.142.39@美国(US)-圣克拉拉/BoT
+- name: 169.197.142.39@美国(US)-圣克拉拉/Tx8
   type: ss
   server: 169.197.142.39
   port: '7306'
   password: FoOiGlkAA9yPEGP
   alterId: 2
   cipher: aes-256-gcm
-- name: 185.90.57.152@葡萄牙(PT)-里斯本/p4Y
+- name: 185.90.57.152@葡萄牙(PT)-里斯本/VIU
   type: ss
   server: 185.90.57.152
   port: '8388'
   password: qSnstpCypymLvPeyLRqf
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: 172.67.176.114@美国(US)-紐華克/e2Q
+- name: 172.67.176.114@美国(US)-紐華克/xEz
   type: vmess
   server: 172.67.176.114
   port: '443'
@@ -336,42 +336,42 @@ proxies:
   ws-headers:
     Host: free-russian01-cdn.xiaohouzi.club
   tls: true
-- name: 38.64.138.145@美国(US)-芝加哥/HK3
+- name: 38.64.138.145@美国(US)-芝加哥/Yq6
   type: ss
   server: 38.64.138.145
   port: '2376'
   password: faBAoD54k87UJG7
   alterId: 2
   cipher: aes-256-gcm
-- name: 38.91.102.86@美国(US)-西雅圖/xJo
+- name: 38.91.102.86@美国(US)-西雅圖/rg4
   type: ss
   server: 38.91.102.86
   port: '7001'
   password: RexnBgU7EV5ADxG
   alterId: 2
   cipher: aes-256-gcm
-- name: 169.197.143.157@美国(US)-西雅圖/KQv
+- name: 169.197.143.157@美国(US)-西雅圖/Bbq
   type: ss
   server: 169.197.143.157
   port: '9101'
   password: e4FCWrgpkji3QY
   alterId: 2
   cipher: aes-256-gcm
-- name: 167.88.61.60@美国(US)-圣克拉拉/4rV
+- name: 167.88.61.60@美国(US)-圣克拉拉/MAa
   type: ss
   server: 167.88.61.60
   port: '7307'
   password: FoOiGlkAA9yPEGP
   alterId: 2
   cipher: aes-256-gcm
-- name: 172.105.180.227@澳大利亚(AU)-悉尼/yiH
+- name: 172.105.180.227@澳大利亚(AU)-悉尼/PvF
   type: ss
   server: 172.105.180.227
   port: '6697'
   password: TEzjfAYq2IjtuoS
   alterId: 2
   cipher: aes-256-gcm
-- name: shcn2-06b.iplc188.com@中国(CN)-上海/gNx
+- name: shcn2-06b.iplc188.com@中国(CN)-上海/zJE
   type: vmess
   server: shcn2-06b.iplc188.com
   port: '10001'
@@ -384,7 +384,7 @@ proxies:
   ws-headers:
     Host: shcn2-06b.iplc188.com
   tls: false
-- name: v1.ssrsub.com@加拿大(CA)-蒙特利尔/qVX
+- name: v1.ssrsub.com@美国(US)-紐華克/vJ9
   type: vmess
   server: v1.ssrsub.com
   port: '8443'
@@ -397,84 +397,84 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: 172.105.180.227@澳大利亚(AU)-悉尼/D31
+- name: 172.105.180.227@澳大利亚(AU)-悉尼/mly
   type: ss
   server: 172.105.180.227
   port: '7306'
   password: FoOiGlkAA9yPEGP
   alterId: 2
   cipher: aes-256-gcm
-- name: 192.46.210.73@印度(IN)-孟买/kbi
+- name: 192.46.210.73@印度(IN)-孟买/Kc3
   type: ss
   server: 192.46.210.73
   port: '5500'
   password: KixLvKzwjekG00rm
   alterId: 2
   cipher: aes-256-gcm
-- name: 192.46.210.73@印度(IN)-孟买/t3w
+- name: 192.46.210.73@印度(IN)-孟买/mts
   type: ss
   server: 192.46.210.73
   port: '3389'
   password: Y6R9pAtvxxzmGC
   alterId: 2
   cipher: aes-256-gcm
-- name: 134.195.196.68@加拿大(CA)-多伦多/1ME
+- name: 134.195.196.68@加拿大(CA)-多伦多/yxp
   type: ss
   server: 134.195.196.68
   port: '7306'
   password: FoOiGlkAA9yPEGP
   alterId: 2
   cipher: aes-256-gcm
-- name: 167.88.61.60@美国(US)-圣克拉拉/fYK
+- name: 167.88.61.60@美国(US)-圣克拉拉/1ND
   type: ss
   server: 167.88.61.60
   port: '443'
   password: pKEW8JPByTVTLtM
   alterId: 2
   cipher: aes-256-gcm
-- name: 169.197.141.24@美国(US)-纽约/SL9
+- name: 169.197.141.24@美国(US)-纽约/qor
   type: ss
   server: 169.197.141.24
   port: '7001'
   password: RexnBgU7EV5ADxG
   alterId: 2
   cipher: aes-256-gcm
-- name: 172.105.35.61@印度(IN)-孟买/HR6
+- name: 172.105.35.61@印度(IN)-孟买/typ
   type: ss
   server: 172.105.35.61
   port: '8118'
   password: cdBIDV42DCwnfIN
   alterId: 2
   cipher: aes-256-gcm
-- name: 198.57.27.218ktxI47Zc
+- name: 198.57.27.218OIscUotH
   type: ss
   server: 198.57.27.218
   port: '443'
   password: pKEW8JPByTVTLtM
   alterId: 2
   cipher: aes-256-gcm
-- name: 169.197.141.243rdabvq0
+- name: 169.197.141.241vkViwet
   type: ss
   server: 169.197.141.24
   port: '8091'
   password: PCnnH6SQSnfoS27
   alterId: 2
   cipher: aes-256-gcm
-- name: 172.105.180.227DYyutB1C
+- name: 172.105.180.227YVPMdRNX
   type: ss
   server: 172.105.180.227
   port: '5003'
   password: g5MeD6Ft3CWlJId
   alterId: 2
   cipher: aes-256-gcm
-- name: 169.197.142.39ZdDuShjp
+- name: 169.197.142.39AKe7gNLT
   type: ss
   server: 169.197.142.39
   port: '8091'
   password: PCnnH6SQSnfoS27
   alterId: 2
   cipher: aes-256-gcm
-- name: v5.ssrsub.comPp4amxLg
+- name: v5.ssrsub.comp8EPuaZd
   type: vmess
   server: v5.ssrsub.com
   port: '8443'
@@ -487,14 +487,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: 38.91.102.96IXFo74lO
+- name: 38.91.102.96r72gnuoJ
   type: ss
   server: 38.91.102.96
   port: '5601'
   password: Y6R9pAtvxxzmGC
   alterId: 2
   cipher: aes-256-gcm
-- name: free-russian01-cdn.xiaohouzi.club5j3abzd9
+- name: free-russian01-cdn.xiaohouzi.clubIvW4sbcP
   type: vmess
   server: free-russian01-cdn.xiaohouzi.club
   port: '443'
@@ -507,14 +507,14 @@ proxies:
   ws-headers:
     Host: free-russian01-cdn.xiaohouzi.club
   tls: true
-- name: 198.57.27.2183ztxWkGQ
+- name: 198.57.27.218GxkjOQJX
   type: ss
   server: 198.57.27.218
   port: '8090'
   password: PCnnH6SQSnfoS27
   alterId: 2
   cipher: aes-256-gcm
-- name: 112.33.32.136xaSXWzib
+- name: 112.33.32.136FOyQw46t
   type: vmess
   server: 112.33.32.136
   port: '10003'
@@ -527,21 +527,21 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 141.95.0.26ZeIk1mPO
+- name: 141.95.0.26xNZBn4O6
   type: ss
   server: 141.95.0.26
   port: '826'
   password: sF43Xt2gONqcgFX563
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: 169.197.141.24SXZdECN1
+- name: 169.197.141.24V54mU2te
   type: ss
   server: 169.197.141.24
   port: '3389'
   password: Y6R9pAtvxxzmGC
   alterId: 2
   cipher: aes-256-gcm
-- name: 172.104.98.216BPreiURu
+- name: 172.104.98.216W8dxI0jf
   type: vmess
   server: 172.104.98.216
   port: '80'
@@ -554,7 +554,7 @@ proxies:
   ws-headers:
     Host: 172.104.98.216
   tls: false
-- name: api.ssfree.ruDoKTJf85
+- name: api.ssfree.ruZges7m3V
   type: vmess
   server: api.ssfree.ru
   port: '443'
@@ -567,7 +567,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: shcn2-06b.iplc188.comEL0YW3ZU
+- name: shcn2-06b.iplc188.comfY8VJcq9
   type: vmess
   server: shcn2-06b.iplc188.com
   port: '10002'
@@ -580,7 +580,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: v5.ssrsub.comEUDlZgd3
+- name: v5.ssrsub.com0X5NrjEA
   type: vmess
   server: v5.ssrsub.com
   port: '8443'
@@ -593,14 +593,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: 38.64.138.1453mhiInY5
+- name: 38.64.138.145ugUklLyS
   type: ss
   server: 38.64.138.145
   port: '8080'
   password: KixLvKzwjekG00rm
   alterId: 2
   cipher: aes-256-gcm
-- name: free-russian-cdn.xiaohouzi.clubI46mk7Qc
+- name: free-russian-cdn.xiaohouzi.club9sx2jbTg
   type: vmess
   server: free-russian-cdn.xiaohouzi.club
   port: '443'
@@ -613,7 +613,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: shcn2-06b.iplc188.comzSg3HPJ5
+- name: shcn2-06b.iplc188.comQCJA8lEW
   type: vmess
   server: shcn2-06b.iplc188.com
   port: '10004'
@@ -626,7 +626,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: aicoo6du.comajdwDQAY
+- name: aicoo6du.comlVRasEv5
   type: vmess
   server: aicoo6du.com
   port: '443'
@@ -639,7 +639,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: v5.ssrsub.comONyJZw90
+- name: v5.ssrsub.comf1JSoRae
   type: vmess
   server: v5.ssrsub.com
   port: '8443'
@@ -652,7 +652,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: free-russian-cdn.xiaohouzi.clubniRLgIs7
+- name: free-russian-cdn.xiaohouzi.clubDZglhBKQ
   type: vmess
   server: free-russian-cdn.xiaohouzi.club
   port: '443'
@@ -665,7 +665,7 @@ proxies:
   ws-headers:
     Host: free-russian-cdn.xiaohouzi.club
   tls: true
-- name: shcn2-06b.iplc188.comlKorucmj
+- name: shcn2-06b.iplc188.comX8rKnfdJ
   type: vmess
   server: shcn2-06b.iplc188.com
   port: '10001'
@@ -684,145 +684,145 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/PJz
-  - shcu01.iplc188.com@中国(CN)-上海浦东/je5
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/KOC
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/0KP
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/tgh
-  - ff7.uuv2.co.ukWfDi1KNP
-  - 66.42.103.1@美国(US)-洛杉矶/Tj4
-  - ff7.uuv2.co.uk7cKLfGtD
-  - 70.39.71.2@美国(US)-諾克斯維爾/tfL
-  - 169.197.142.39@美国(US)-圣克拉拉/QKb
-  - 169.197.143.157@美国(US)-西雅圖/a16
-  - 38.91.102.86@美国(US)-西雅圖/ugS
-  - 38.143.66.71@美国(US)-西雅圖/mak
-  - 38.91.102.86@美国(US)-西雅圖/kA5
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/t6f
-  - 208.98.48.2@美国(US)-芝加哥/YDV
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/JfX
-  - 104.21.62.193@美国(US)-紐華克/RJG
-  - 38.91.102.86@美国(US)-西雅圖/QjZ
-  - 45.35.84.162@美国(US)-達拉斯/v8c
-  - 45.35.84.162@美国(US)-達拉斯/9DA
-  - free-russian01-cdn.xiaohouzi.club@俄罗斯(RU)-Zelenograd/yLa
-  - 77.243.191.178@比利时(BE)-布鲁塞尔/4gt
-  - 104.21.62.193@美国(US)-紐華克/8A5
-  - 172.105.180.227@澳大利亚(AU)-悉尼/8cs
-  - 104.21.62.193@美国(US)-紐華克/dDv
-  - 169.197.142.39@美国(US)-圣克拉拉/qPf
-  - 104.17.170.210@加拿大(CA)-多伦多/cXS
-  - 169.197.142.39@美国(US)-圣克拉拉/BoT
-  - 185.90.57.152@葡萄牙(PT)-里斯本/p4Y
-  - 172.67.176.114@美国(US)-紐華克/e2Q
-  - 38.64.138.145@美国(US)-芝加哥/HK3
-  - 38.91.102.86@美国(US)-西雅圖/xJo
-  - 169.197.143.157@美国(US)-西雅圖/KQv
-  - 167.88.61.60@美国(US)-圣克拉拉/4rV
-  - 172.105.180.227@澳大利亚(AU)-悉尼/yiH
-  - shcn2-06b.iplc188.com@中国(CN)-上海/gNx
-  - v1.ssrsub.com@加拿大(CA)-蒙特利尔/qVX
-  - 172.105.180.227@澳大利亚(AU)-悉尼/D31
-  - 192.46.210.73@印度(IN)-孟买/kbi
-  - 192.46.210.73@印度(IN)-孟买/t3w
-  - 134.195.196.68@加拿大(CA)-多伦多/1ME
-  - 167.88.61.60@美国(US)-圣克拉拉/fYK
-  - 169.197.141.24@美国(US)-纽约/SL9
-  - 172.105.35.61@印度(IN)-孟买/HR6
-  - 198.57.27.218ktxI47Zc
-  - 169.197.141.243rdabvq0
-  - 172.105.180.227DYyutB1C
-  - 169.197.142.39ZdDuShjp
-  - v5.ssrsub.comPp4amxLg
-  - 38.91.102.96IXFo74lO
-  - free-russian01-cdn.xiaohouzi.club5j3abzd9
-  - 198.57.27.2183ztxWkGQ
-  - 112.33.32.136xaSXWzib
-  - 141.95.0.26ZeIk1mPO
-  - 169.197.141.24SXZdECN1
-  - 172.104.98.216BPreiURu
-  - api.ssfree.ruDoKTJf85
-  - shcn2-06b.iplc188.comEL0YW3ZU
-  - v5.ssrsub.comEUDlZgd3
-  - 38.64.138.1453mhiInY5
-  - free-russian-cdn.xiaohouzi.clubI46mk7Qc
-  - shcn2-06b.iplc188.comzSg3HPJ5
-  - aicoo6du.comajdwDQAY
-  - v5.ssrsub.comONyJZw90
-  - free-russian-cdn.xiaohouzi.clubniRLgIs7
-  - shcn2-06b.iplc188.comlKorucmj
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/hGF
+  - shcu01.iplc188.com@中国(CN)-上海浦东/sxO
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/sZ1
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/lDA
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/CJ1
+  - ff7.uuv2.co.ukAWBqgElR
+  - 66.42.103.1@美国(US)-洛杉矶/SA9
+  - ff7.uuv2.co.uk1gWCzhyx
+  - 70.39.71.2@美国(US)-諾克斯維爾/sG5
+  - 169.197.142.39@美国(US)-圣克拉拉/qBg
+  - 169.197.143.157@美国(US)-西雅圖/PAi
+  - 38.91.102.86@美国(US)-西雅圖/dng
+  - 38.143.66.71@美国(US)-西雅圖/VCt
+  - 38.91.102.86@美国(US)-西雅圖/iNU
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/F8P
+  - 208.98.48.2@美国(US)-芝加哥/0pu
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/vaz
+  - 104.21.62.193@美国(US)-紐華克/8Ag
+  - 38.91.102.86@美国(US)-西雅圖/u6y
+  - 45.35.84.162@美国(US)-達拉斯/pzc
+  - 45.35.84.162@美国(US)-達拉斯/eJ0
+  - free-russian01-cdn.xiaohouzi.club@俄罗斯(RU)-Zelenograd/b6T
+  - 77.243.191.178@比利时(BE)-布鲁塞尔/Smq
+  - 104.21.62.193@美国(US)-紐華克/GEY
+  - 172.105.180.227@澳大利亚(AU)-悉尼/lb0
+  - 104.21.62.193@美国(US)-紐華克/RH4
+  - 169.197.142.39@美国(US)-圣克拉拉/x9i
+  - 104.17.170.210@加拿大(CA)-多伦多/OCm
+  - 169.197.142.39@美国(US)-圣克拉拉/Tx8
+  - 185.90.57.152@葡萄牙(PT)-里斯本/VIU
+  - 172.67.176.114@美国(US)-紐華克/xEz
+  - 38.64.138.145@美国(US)-芝加哥/Yq6
+  - 38.91.102.86@美国(US)-西雅圖/rg4
+  - 169.197.143.157@美国(US)-西雅圖/Bbq
+  - 167.88.61.60@美国(US)-圣克拉拉/MAa
+  - 172.105.180.227@澳大利亚(AU)-悉尼/PvF
+  - shcn2-06b.iplc188.com@中国(CN)-上海/zJE
+  - v1.ssrsub.com@美国(US)-紐華克/vJ9
+  - 172.105.180.227@澳大利亚(AU)-悉尼/mly
+  - 192.46.210.73@印度(IN)-孟买/Kc3
+  - 192.46.210.73@印度(IN)-孟买/mts
+  - 134.195.196.68@加拿大(CA)-多伦多/yxp
+  - 167.88.61.60@美国(US)-圣克拉拉/1ND
+  - 169.197.141.24@美国(US)-纽约/qor
+  - 172.105.35.61@印度(IN)-孟买/typ
+  - 198.57.27.218OIscUotH
+  - 169.197.141.241vkViwet
+  - 172.105.180.227YVPMdRNX
+  - 169.197.142.39AKe7gNLT
+  - v5.ssrsub.comp8EPuaZd
+  - 38.91.102.96r72gnuoJ
+  - free-russian01-cdn.xiaohouzi.clubIvW4sbcP
+  - 198.57.27.218GxkjOQJX
+  - 112.33.32.136FOyQw46t
+  - 141.95.0.26xNZBn4O6
+  - 169.197.141.24V54mU2te
+  - 172.104.98.216W8dxI0jf
+  - api.ssfree.ruZges7m3V
+  - shcn2-06b.iplc188.comfY8VJcq9
+  - v5.ssrsub.com0X5NrjEA
+  - 38.64.138.145ugUklLyS
+  - free-russian-cdn.xiaohouzi.club9sx2jbTg
+  - shcn2-06b.iplc188.comQCJA8lEW
+  - aicoo6du.comlVRasEv5
+  - v5.ssrsub.comf1JSoRae
+  - free-russian-cdn.xiaohouzi.clubDZglhBKQ
+  - shcn2-06b.iplc188.comX8rKnfdJ
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   proxies:
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/PJz
-  - shcu01.iplc188.com@中国(CN)-上海浦东/je5
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/KOC
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/0KP
-  - cm-jm.okvpn.xyz@中国(CN)-深圳市/tgh
-  - ff7.uuv2.co.ukWfDi1KNP
-  - 66.42.103.1@美国(US)-洛杉矶/Tj4
-  - ff7.uuv2.co.uk7cKLfGtD
-  - 70.39.71.2@美国(US)-諾克斯維爾/tfL
-  - 169.197.142.39@美国(US)-圣克拉拉/QKb
-  - 169.197.143.157@美国(US)-西雅圖/a16
-  - 38.91.102.86@美国(US)-西雅圖/ugS
-  - 38.143.66.71@美国(US)-西雅圖/mak
-  - 38.91.102.86@美国(US)-西雅圖/kA5
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/t6f
-  - 208.98.48.2@美国(US)-芝加哥/YDV
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/JfX
-  - 104.21.62.193@美国(US)-紐華克/RJG
-  - 38.91.102.86@美国(US)-西雅圖/QjZ
-  - 45.35.84.162@美国(US)-達拉斯/v8c
-  - 45.35.84.162@美国(US)-達拉斯/9DA
-  - free-russian01-cdn.xiaohouzi.club@俄罗斯(RU)-Zelenograd/yLa
-  - 77.243.191.178@比利时(BE)-布鲁塞尔/4gt
-  - 104.21.62.193@美国(US)-紐華克/8A5
-  - 172.105.180.227@澳大利亚(AU)-悉尼/8cs
-  - 104.21.62.193@美国(US)-紐華克/dDv
-  - 169.197.142.39@美国(US)-圣克拉拉/qPf
-  - 104.17.170.210@加拿大(CA)-多伦多/cXS
-  - 169.197.142.39@美国(US)-圣克拉拉/BoT
-  - 185.90.57.152@葡萄牙(PT)-里斯本/p4Y
-  - 172.67.176.114@美国(US)-紐華克/e2Q
-  - 38.64.138.145@美国(US)-芝加哥/HK3
-  - 38.91.102.86@美国(US)-西雅圖/xJo
-  - 169.197.143.157@美国(US)-西雅圖/KQv
-  - 167.88.61.60@美国(US)-圣克拉拉/4rV
-  - 172.105.180.227@澳大利亚(AU)-悉尼/yiH
-  - shcn2-06b.iplc188.com@中国(CN)-上海/gNx
-  - v1.ssrsub.com@加拿大(CA)-蒙特利尔/qVX
-  - 172.105.180.227@澳大利亚(AU)-悉尼/D31
-  - 192.46.210.73@印度(IN)-孟买/kbi
-  - 192.46.210.73@印度(IN)-孟买/t3w
-  - 134.195.196.68@加拿大(CA)-多伦多/1ME
-  - 167.88.61.60@美国(US)-圣克拉拉/fYK
-  - 169.197.141.24@美国(US)-纽约/SL9
-  - 172.105.35.61@印度(IN)-孟买/HR6
-  - 198.57.27.218ktxI47Zc
-  - 169.197.141.243rdabvq0
-  - 172.105.180.227DYyutB1C
-  - 169.197.142.39ZdDuShjp
-  - v5.ssrsub.comPp4amxLg
-  - 38.91.102.96IXFo74lO
-  - free-russian01-cdn.xiaohouzi.club5j3abzd9
-  - 198.57.27.2183ztxWkGQ
-  - 112.33.32.136xaSXWzib
-  - 141.95.0.26ZeIk1mPO
-  - 169.197.141.24SXZdECN1
-  - 172.104.98.216BPreiURu
-  - api.ssfree.ruDoKTJf85
-  - shcn2-06b.iplc188.comEL0YW3ZU
-  - v5.ssrsub.comEUDlZgd3
-  - 38.64.138.1453mhiInY5
-  - free-russian-cdn.xiaohouzi.clubI46mk7Qc
-  - shcn2-06b.iplc188.comzSg3HPJ5
-  - aicoo6du.comajdwDQAY
-  - v5.ssrsub.comONyJZw90
-  - free-russian-cdn.xiaohouzi.clubniRLgIs7
-  - shcn2-06b.iplc188.comlKorucmj
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/hGF
+  - shcu01.iplc188.com@中国(CN)-上海浦东/sxO
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/sZ1
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/lDA
+  - cm-jm.okvpn.xyz@中国(CN)-深圳市/CJ1
+  - ff7.uuv2.co.ukAWBqgElR
+  - 66.42.103.1@美国(US)-洛杉矶/SA9
+  - ff7.uuv2.co.uk1gWCzhyx
+  - 70.39.71.2@美国(US)-諾克斯維爾/sG5
+  - 169.197.142.39@美国(US)-圣克拉拉/qBg
+  - 169.197.143.157@美国(US)-西雅圖/PAi
+  - 38.91.102.86@美国(US)-西雅圖/dng
+  - 38.143.66.71@美国(US)-西雅圖/VCt
+  - 38.91.102.86@美国(US)-西雅圖/iNU
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/F8P
+  - 208.98.48.2@美国(US)-芝加哥/0pu
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/vaz
+  - 104.21.62.193@美国(US)-紐華克/8Ag
+  - 38.91.102.86@美国(US)-西雅圖/u6y
+  - 45.35.84.162@美国(US)-達拉斯/pzc
+  - 45.35.84.162@美国(US)-達拉斯/eJ0
+  - free-russian01-cdn.xiaohouzi.club@俄罗斯(RU)-Zelenograd/b6T
+  - 77.243.191.178@比利时(BE)-布鲁塞尔/Smq
+  - 104.21.62.193@美国(US)-紐華克/GEY
+  - 172.105.180.227@澳大利亚(AU)-悉尼/lb0
+  - 104.21.62.193@美国(US)-紐華克/RH4
+  - 169.197.142.39@美国(US)-圣克拉拉/x9i
+  - 104.17.170.210@加拿大(CA)-多伦多/OCm
+  - 169.197.142.39@美国(US)-圣克拉拉/Tx8
+  - 185.90.57.152@葡萄牙(PT)-里斯本/VIU
+  - 172.67.176.114@美国(US)-紐華克/xEz
+  - 38.64.138.145@美国(US)-芝加哥/Yq6
+  - 38.91.102.86@美国(US)-西雅圖/rg4
+  - 169.197.143.157@美国(US)-西雅圖/Bbq
+  - 167.88.61.60@美国(US)-圣克拉拉/MAa
+  - 172.105.180.227@澳大利亚(AU)-悉尼/PvF
+  - shcn2-06b.iplc188.com@中国(CN)-上海/zJE
+  - v1.ssrsub.com@美国(US)-紐華克/vJ9
+  - 172.105.180.227@澳大利亚(AU)-悉尼/mly
+  - 192.46.210.73@印度(IN)-孟买/Kc3
+  - 192.46.210.73@印度(IN)-孟买/mts
+  - 134.195.196.68@加拿大(CA)-多伦多/yxp
+  - 167.88.61.60@美国(US)-圣克拉拉/1ND
+  - 169.197.141.24@美国(US)-纽约/qor
+  - 172.105.35.61@印度(IN)-孟买/typ
+  - 198.57.27.218OIscUotH
+  - 169.197.141.241vkViwet
+  - 172.105.180.227YVPMdRNX
+  - 169.197.142.39AKe7gNLT
+  - v5.ssrsub.comp8EPuaZd
+  - 38.91.102.96r72gnuoJ
+  - free-russian01-cdn.xiaohouzi.clubIvW4sbcP
+  - 198.57.27.218GxkjOQJX
+  - 112.33.32.136FOyQw46t
+  - 141.95.0.26xNZBn4O6
+  - 169.197.141.24V54mU2te
+  - 172.104.98.216W8dxI0jf
+  - api.ssfree.ruZges7m3V
+  - shcn2-06b.iplc188.comfY8VJcq9
+  - v5.ssrsub.com0X5NrjEA
+  - 38.64.138.145ugUklLyS
+  - free-russian-cdn.xiaohouzi.club9sx2jbTg
+  - shcn2-06b.iplc188.comQCJA8lEW
+  - aicoo6du.comlVRasEv5
+  - v5.ssrsub.comf1JSoRae
+  - free-russian-cdn.xiaohouzi.clubDZglhBKQ
+  - shcn2-06b.iplc188.comX8rKnfdJ
 - name: 🌍 国外媒体
   type: select
   proxies:
