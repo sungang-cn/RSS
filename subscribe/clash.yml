@@ -5,49 +5,49 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-- name: cm1.chashao.buzz@中国(CN)-深圳市/TZo
+- name: cm1.chashao.buzz@中国(CN)-深圳市/jbq
   type: ss
   server: cm1.chashao.buzz
   port: '21209'
   password: a0bd91e1-1e8f-41c6-8a68-baf8e94fa467
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: cu.chashao.buzz@中国(CN)-长沙/x4O
+- name: cu.chashao.buzz@中国(CN)-长沙/jQn
   type: ss
   server: cu.chashao.buzz
   port: '21211'
   password: a0bd91e1-1e8f-41c6-8a68-baf8e94fa467
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: cm.chashao.buzz@中国(CN)-广州市/Mqg
+- name: cm.chashao.buzz@中国(CN)-广州市/yEI
   type: ss
   server: cm.chashao.buzz
   port: '21202'
   password: a0bd91e1-1e8f-41c6-8a68-baf8e94fa467
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: cm1.chashao.buzz@中国(CN)-深圳市/XYM
+- name: cm1.chashao.buzz@中国(CN)-深圳市/438
   type: ss
   server: cm1.chashao.buzz
   port: '21202'
   password: a0bd91e1-1e8f-41c6-8a68-baf8e94fa467
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: cu.chashao.buzz@中国(CN)-长沙/UZa
+- name: cu.chashao.buzz@中国(CN)-长沙/iTk
   type: ss
   server: cu.chashao.buzz
   port: '21205'
   password: a0bd91e1-1e8f-41c6-8a68-baf8e94fa467
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: cu.chashao.buzz@中国(CN)-长沙/FvP
+- name: cu.chashao.buzz@中国(CN)-长沙/ndm
   type: ss
   server: cu.chashao.buzz
   port: '21207'
   password: a0bd91e1-1e8f-41c6-8a68-baf8e94fa467
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: 20.212.150.16@新加坡(SG)-Singapore/6IW
+- name: 20.212.150.16@新加坡(SG)-Singapore/sdR
   type: vmess
   server: 20.212.150.16
   port: '11610'
@@ -60,14 +60,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: cm1.chashao.buzz@中国(CN)-深圳市/oHe
+- name: cm1.chashao.buzz@中国(CN)-深圳市/jeP
   type: ss
   server: cm1.chashao.buzz
   port: '21201'
   password: a0bd91e1-1e8f-41c6-8a68-baf8e94fa467
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: 198.41.212.2@加拿大(CA)-蒙特利尔/Hom
+- name: 198.41.212.2@加拿大(CA)-蒙特利尔/L0r
   type: vmess
   server: 198.41.212.2
   port: '443'
@@ -80,7 +80,7 @@ proxies:
   ws-headers:
     Host: zero1.a-yu.xyz
   tls: true
-- name: 45.131.68.163@俄罗斯(RU)-Saint Petersburg/KdB
+- name: 45.131.68.163@俄罗斯(RU)-Saint Petersburg/2eA
   type: vmess
   server: 45.131.68.163
   port: '41299'
@@ -93,7 +93,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 45.131.68.163@俄罗斯(RU)-Saint Petersburg/GkM
+- name: 45.131.68.163@俄罗斯(RU)-Saint Petersburg/7rW
   type: vmess
   server: 45.131.68.163
   port: '41299'
@@ -106,7 +106,7 @@ proxies:
   ws-headers:
     Host: 45.131.68.163
   tls: false
-- name: test.0dc.cn@加拿大(CA)-多伦多/R49
+- name: test.0dc.cn@加拿大(CA)-蒙特利尔/sYR
   type: vmess
   server: test.0dc.cn
   port: '443'
@@ -119,7 +119,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: 92.223.30.132@美国(US)-洛杉矶/kG0
+- name: 92.223.30.132@美国(US)-洛杉矶/H5q
   type: vmess
   server: 92.223.30.132
   port: '443'
@@ -132,7 +132,7 @@ proxies:
   ws-headers:
     Host: gcusfree.galaxycloud.buzz
   tls: true
-- name: 13.231.146.35@日本(JP)-东京/hz5
+- name: 13.231.146.35@日本(JP)-东京/4eb
   type: vmess
   server: 13.231.146.35
   port: '45530'
@@ -145,7 +145,7 @@ proxies:
   ws-headers:
     Host: 13.231.146.35
   tls: false
-- name: chuch3go.com@美国(US)-聖荷西/S24
+- name: chuch3go.com@美国(US)-聖荷西/FuB
   type: vmess
   server: chuch3go.com
   port: '443'
@@ -158,7 +158,7 @@ proxies:
   ws-headers:
     Host: chuch3go.com
   tls: true
-- name: uae.oracleusa.ml@阿联酋(AE)-阿布扎比/yJm
+- name: uae.oracleusa.ml@阿联酋(AE)-阿布扎比/Dgy
   type: vmess
   server: uae.oracleusa.ml
   port: '2053'
@@ -171,7 +171,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: bi.oracleusa.ml@阿联酋(AE)-迪拜/WxJ
+- name: bi.oracleusa.ml@阿联酋(AE)-迪拜/Dx3
   type: vmess
   server: bi.oracleusa.ml
   port: '2053'
@@ -184,7 +184,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: c23s3.jamjams.net@美国(US)-洛杉矶/rGo
+- name: c23s3.jamjams.net@美国(US)-洛杉矶/Y6C
   type: vmess
   server: c23s3.jamjams.net
   port: '61173'
@@ -197,7 +197,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: uae.oracleusa.ml@阿联酋(AE)-阿布扎比/IQV
+- name: uae.oracleusa.ml@阿联酋(AE)-阿布扎比/DTJ
   type: vmess
   server: uae.oracleusa.ml
   port: '2053'
@@ -210,7 +210,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: uae.oracleusa.ml@阿联酋(AE)-阿布扎比/fJv
+- name: uae.oracleusa.ml@阿联酋(AE)-阿布扎比/Z0k
   type: vmess
   server: uae.oracleusa.ml
   port: '2053'
@@ -223,7 +223,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: usaadm.oracleusa.ml@美国(US)-San Jose/3o1
+- name: usaadm.oracleusa.ml@美国(US)-San Jose/dWT
   type: vmess
   server: usaadm.oracleusa.ml
   port: '2053'
@@ -236,7 +236,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: bi.oracleusa.ml@阿联酋(AE)-迪拜/K5U
+- name: bi.oracleusa.ml@阿联酋(AE)-迪拜/9pH
   type: vmess
   server: bi.oracleusa.ml
   port: '2053'
@@ -249,14 +249,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: cu.chashao.buzz@中国(CN)-长沙/7gL
+- name: cu.chashao.buzz@中国(CN)-长沙/FQZ
   type: ss
   server: cu.chashao.buzz
   port: '21214'
   password: a0bd91e1-1e8f-41c6-8a68-baf8e94fa467
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: 50.21.176.135@美国(US)-芝加哥/oKk
+- name: 50.21.176.135@美国(US)-芝加哥/aW9
   type: vmess
   server: 50.21.176.135
   port: '35376'
@@ -269,7 +269,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: nl.oracleusa.ml@加拿大(CA)-蒙特利尔/xEW
+- name: nl.oracleusa.ml@加拿大(CA)-多伦多/k5P
   type: vmess
   server: nl.oracleusa.ml
   port: '2053'
@@ -282,7 +282,7 @@ proxies:
   ws-headers:
     Host: nl.oracleusa.ml
   tls: true
-- name: 23.225.165.245@美国(US)-洛杉矶/spr
+- name: 23.225.165.245@美国(US)-洛杉矶/ThG
   type: vmess
   server: 23.225.165.245
   port: '443'
@@ -295,7 +295,7 @@ proxies:
   ws-headers:
     Host: www.19241194.xyz
   tls: true
-- name: cloudflare.xrenblog.com@美国(US)-旧金山/vFk
+- name: cloudflare.xrenblog.com@美国(US)-旧金山/TJW
   type: vmess
   server: cloudflare.xrenblog.com
   port: '443'
@@ -308,14 +308,14 @@ proxies:
   ws-headers:
     Host: ipv6.xrenblog.com
   tls: true
-- name: cm.chashao.buzz@中国(CN)-广州市/JmQ
+- name: cm.chashao.buzz@中国(CN)-广州市/Wpo
   type: ss
   server: cm.chashao.buzz
   port: '21206'
   password: a0bd91e1-1e8f-41c6-8a68-baf8e94fa467
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: 50.21.176.135@美国(US)-芝加哥/fHy
+- name: 50.21.176.135@美国(US)-芝加哥/hH1
   type: vmess
   server: 50.21.176.135
   port: '35376'
@@ -328,7 +328,7 @@ proxies:
   ws-headers:
     Host: 50.21.176.135
   tls: false
-- name: bi.oracleusa.ml@阿联酋(AE)-迪拜/mhW
+- name: bi.oracleusa.ml@阿联酋(AE)-迪拜/XJt
   type: vmess
   server: bi.oracleusa.ml
   port: '2053'
@@ -341,14 +341,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: cm.chashao.buzz@中国(CN)-广州市/6V1
+- name: cm.chashao.buzz@中国(CN)-广州市/wj8
   type: ss
   server: cm.chashao.buzz
   port: '21211'
   password: a0bd91e1-1e8f-41c6-8a68-baf8e94fa467
   alterId: 2
   cipher: chacha20-ietf-poly1305
-- name: 34.97.85.34@日本(JP)-大阪市/2uK
+- name: 34.97.85.34@日本(JP)-大阪市/PbW
   type: vmess
   server: 34.97.85.34
   port: '23343'
@@ -361,7 +361,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: v2ray.ifuckgfw.ga@加拿大(CA)-蒙特利尔/4vi
+- name: v2ray.ifuckgfw.ga@加拿大(CA)-多伦多/Vzm
   type: vmess
   server: v2ray.ifuckgfw.ga
   port: '8443'
@@ -374,7 +374,7 @@ proxies:
   ws-headers:
     Host: v2ray.ifuckgfw.ga
   tls: true
-- name: 35.178.94.57@英国(GB)-伦敦/e5C
+- name: 35.178.94.57@英国(GB)-伦敦/fXx
   type: vmess
   server: 35.178.94.57
   port: '45530'
@@ -387,7 +387,7 @@ proxies:
   ws-headers:
     Host: 35.178.94.57
   tls: false
-- name: 103.164.81.13@香港(HK)-中環/f0L
+- name: 103.164.81.13@香港(HK)-中環/FRT
   type: vmess
   server: 103.164.81.13
   port: '80'
@@ -400,7 +400,7 @@ proxies:
   ws-headers:
     Host: 103.164.81.13
   tls: false
-- name: 198.41.212.13@加拿大(CA)-蒙特利尔/uDs
+- name: 198.41.212.13@加拿大(CA)-蒙特利尔/eNK
   type: vmess
   server: 198.41.212.13
   port: '443'
@@ -413,7 +413,7 @@ proxies:
   ws-headers:
     Host: zero1.a-yu.xyz
   tls: true
-- name: usa-dallas.lvuft.com@美国(US)-達拉斯/83R
+- name: usa-dallas.lvuft.com@美国(US)-達拉斯/Pps
   type: vmess
   server: usa-dallas.lvuft.com
   port: '443'
@@ -426,7 +426,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: 3.19.55.153@美国(US)-Dublin/gI8
+- name: 3.19.55.153@美国(US)-Dublin/MAc
   type: vmess
   server: 3.19.55.153
   port: '58112'
@@ -439,7 +439,7 @@ proxies:
   ws-headers:
     Host: 3.19.55.153
   tls: false
-- name: 154.84.1.214@荷兰(NL)-阿姆斯特丹/atX
+- name: 154.84.1.214@荷兰(NL)-阿姆斯特丹/aek
   type: vmess
   server: 154.84.1.214
   port: '443'
@@ -452,7 +452,7 @@ proxies:
   ws-headers:
     Host: www.44590130.xyz
   tls: true
-- name: 104.16.181.197@加拿大(CA)-多伦多/yd2
+- name: 104.16.181.197@加拿大(CA)-多伦多/NYj
   type: vmess
   server: 104.16.181.197
   port: '443'
@@ -465,7 +465,7 @@ proxies:
   ws-headers:
     Host: download.china666.ml
   tls: true
-- name: 154.84.1.198@荷兰(NL)-阿姆斯特丹/fdz
+- name: 154.84.1.198@荷兰(NL)-阿姆斯特丹/XIV
   type: vmess
   server: 154.84.1.198
   port: '443'
@@ -478,7 +478,7 @@ proxies:
   ws-headers:
     Host: www.54872833.xyz
   tls: true
-- name: 3.19.55.153@美国(US)-Dublin/oB5
+- name: 3.19.55.153@美国(US)-Dublin/Qp9
   type: vmess
   server: 3.19.55.153
   port: '58112'
@@ -491,7 +491,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 13.40.96.195@英国(GB)-伦敦/SHu
+- name: 13.40.96.195@英国(GB)-伦敦/WCY
   type: vmess
   server: 13.40.96.195
   port: '45530'
@@ -504,7 +504,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: cm.db-link.in@加拿大(CA)-多伦多/2tR
+- name: cm.db-link.in@加拿大(CA)-多伦多/rpX
   type: vmess
   server: cm.db-link.in
   port: '443'
@@ -517,21 +517,21 @@ proxies:
   ws-headers:
     Host: us01.db-link.in
   tls: true
-- name: 172.105.59.32@印度(IN)-孟买/Mzw
+- name: 172.105.59.32@印度(IN)-孟买/4OF
   type: ss
   server: 172.105.59.32
   port: '8118'
   password: cdBIDV42DCwnfIN
   alterId: 2
   cipher: aes-256-gcm
-- name: 169.197.142.99@美国(US)-圣克拉拉/By9
+- name: 169.197.142.991SMc76Np
   type: ss
   server: 169.197.142.99
   port: '9101'
   password: e4FCWrgpkji3QY
   alterId: 2
   cipher: aes-256-gcm
-- name: 106.75.141.252@中国(CN)-北京/mDZ
+- name: 106.75.141.2524wSIpFLG
   type: vmess
   server: 106.75.141.252
   port: '53007'
@@ -544,7 +544,7 @@ proxies:
   ws-headers:
     Host: aweikeji-YouTube-TG
   tls: false
-- name: 198.41.212.9@加拿大(CA)-蒙特利尔/NUm
+- name: 198.41.212.9scM6Lf51
   type: vmess
   server: 198.41.212.9
   port: '443'
@@ -557,14 +557,14 @@ proxies:
   ws-headers:
     Host: zero1.a-yu.xyz
   tls: true
-- name: 169.197.142.99@美国(US)-圣克拉拉/yTK
+- name: 169.197.142.99uTKzFSve
   type: ss
   server: 169.197.142.99
   port: '8091'
   password: PCnnH6SQSnfoS27
   alterId: 2
   cipher: aes-256-gcm
-- name: 172.247.31.45@香港(HK)-Tseung Kwan O/Ac2
+- name: 172.247.31.45CIXSGxy1
   type: vmess
   server: 172.247.31.45
   port: '10002'
@@ -577,14 +577,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 134.195.196.81@加拿大(CA)-多伦多/Nbs
+- name: 134.195.196.813jKXvIbM
   type: ss
   server: 134.195.196.81
   port: '5500'
   password: KixLvKzwjekG00rm
   alterId: 2
   cipher: aes-256-gcm
-- name: iepl02.zerohost.live@中華人民共和國(CN)-广州/sk6
+- name: iepl02.zerohost.liveHrvbiIf8
   type: vmess
   server: iepl02.zerohost.live
   port: '11018'
@@ -597,7 +597,7 @@ proxies:
   ws-headers:
     Host: iepl02.zerohost.live
   tls: false
-- name: 172.105.222.98@日本(JP)-东京/oty
+- name: 172.105.222.98uBv50j49
   type: vmess
   server: 172.105.222.98
   port: '80'
@@ -610,7 +610,7 @@ proxies:
   ws-headers:
     Host: 172.105.222.98
   tls: false
-- name: 106.75.141.252@中国(CN)-北京/rAD
+- name: 106.75.141.252Vp3A2O1l
   type: vmess
   server: 106.75.141.252
   port: '53009'
@@ -623,21 +623,21 @@ proxies:
   ws-headers:
     Host: aweikeji-YouTube-TG
   tls: false
-- name: 172.99.190.92@英国(GB)-伦敦/6ZQ
+- name: 172.99.190.92rn2RSY93
   type: ss
   server: 172.99.190.92
   port: '7002'
   password: RexnBgU7EV5ADxG
   alterId: 2
   cipher: aes-256-gcm
-- name: 172.99.190.92@英国(GB)-伦敦/EsF
+- name: 172.99.190.92JLMyb60R
   type: ss
   server: 172.99.190.92
   port: '443'
   password: pKEW8JPByTVTLtM
   alterId: 2
   cipher: aes-256-gcm
-- name: 43.129.233.11@香港(HK)-香港/ZXp
+- name: 43.129.233.11lWSJwesB
   type: vmess
   server: 43.129.233.11
   port: '22667'
@@ -656,125 +656,125 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - cm1.chashao.buzz@中国(CN)-深圳市/TZo
-  - cu.chashao.buzz@中国(CN)-长沙/x4O
-  - cm.chashao.buzz@中国(CN)-广州市/Mqg
-  - cm1.chashao.buzz@中国(CN)-深圳市/XYM
-  - cu.chashao.buzz@中国(CN)-长沙/UZa
-  - cu.chashao.buzz@中国(CN)-长沙/FvP
-  - 20.212.150.16@新加坡(SG)-Singapore/6IW
-  - cm1.chashao.buzz@中国(CN)-深圳市/oHe
-  - 198.41.212.2@加拿大(CA)-蒙特利尔/Hom
-  - 45.131.68.163@俄罗斯(RU)-Saint Petersburg/KdB
-  - 45.131.68.163@俄罗斯(RU)-Saint Petersburg/GkM
-  - test.0dc.cn@加拿大(CA)-多伦多/R49
-  - 92.223.30.132@美国(US)-洛杉矶/kG0
-  - 13.231.146.35@日本(JP)-东京/hz5
-  - chuch3go.com@美国(US)-聖荷西/S24
-  - uae.oracleusa.ml@阿联酋(AE)-阿布扎比/yJm
-  - bi.oracleusa.ml@阿联酋(AE)-迪拜/WxJ
-  - c23s3.jamjams.net@美国(US)-洛杉矶/rGo
-  - uae.oracleusa.ml@阿联酋(AE)-阿布扎比/IQV
-  - uae.oracleusa.ml@阿联酋(AE)-阿布扎比/fJv
-  - usaadm.oracleusa.ml@美国(US)-San Jose/3o1
-  - bi.oracleusa.ml@阿联酋(AE)-迪拜/K5U
-  - cu.chashao.buzz@中国(CN)-长沙/7gL
-  - 50.21.176.135@美国(US)-芝加哥/oKk
-  - nl.oracleusa.ml@加拿大(CA)-蒙特利尔/xEW
-  - 23.225.165.245@美国(US)-洛杉矶/spr
-  - cloudflare.xrenblog.com@美国(US)-旧金山/vFk
-  - cm.chashao.buzz@中国(CN)-广州市/JmQ
-  - 50.21.176.135@美国(US)-芝加哥/fHy
-  - bi.oracleusa.ml@阿联酋(AE)-迪拜/mhW
-  - cm.chashao.buzz@中国(CN)-广州市/6V1
-  - 34.97.85.34@日本(JP)-大阪市/2uK
-  - v2ray.ifuckgfw.ga@加拿大(CA)-蒙特利尔/4vi
-  - 35.178.94.57@英国(GB)-伦敦/e5C
-  - 103.164.81.13@香港(HK)-中環/f0L
-  - 198.41.212.13@加拿大(CA)-蒙特利尔/uDs
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/83R
-  - 3.19.55.153@美国(US)-Dublin/gI8
-  - 154.84.1.214@荷兰(NL)-阿姆斯特丹/atX
-  - 104.16.181.197@加拿大(CA)-多伦多/yd2
-  - 154.84.1.198@荷兰(NL)-阿姆斯特丹/fdz
-  - 3.19.55.153@美国(US)-Dublin/oB5
-  - 13.40.96.195@英国(GB)-伦敦/SHu
-  - cm.db-link.in@加拿大(CA)-多伦多/2tR
-  - 172.105.59.32@印度(IN)-孟买/Mzw
-  - 169.197.142.99@美国(US)-圣克拉拉/By9
-  - 106.75.141.252@中国(CN)-北京/mDZ
-  - 198.41.212.9@加拿大(CA)-蒙特利尔/NUm
-  - 169.197.142.99@美国(US)-圣克拉拉/yTK
-  - 172.247.31.45@香港(HK)-Tseung Kwan O/Ac2
-  - 134.195.196.81@加拿大(CA)-多伦多/Nbs
-  - iepl02.zerohost.live@中華人民共和國(CN)-广州/sk6
-  - 172.105.222.98@日本(JP)-东京/oty
-  - 106.75.141.252@中国(CN)-北京/rAD
-  - 172.99.190.92@英国(GB)-伦敦/6ZQ
-  - 172.99.190.92@英国(GB)-伦敦/EsF
-  - 43.129.233.11@香港(HK)-香港/ZXp
+  - cm1.chashao.buzz@中国(CN)-深圳市/jbq
+  - cu.chashao.buzz@中国(CN)-长沙/jQn
+  - cm.chashao.buzz@中国(CN)-广州市/yEI
+  - cm1.chashao.buzz@中国(CN)-深圳市/438
+  - cu.chashao.buzz@中国(CN)-长沙/iTk
+  - cu.chashao.buzz@中国(CN)-长沙/ndm
+  - 20.212.150.16@新加坡(SG)-Singapore/sdR
+  - cm1.chashao.buzz@中国(CN)-深圳市/jeP
+  - 198.41.212.2@加拿大(CA)-蒙特利尔/L0r
+  - 45.131.68.163@俄罗斯(RU)-Saint Petersburg/2eA
+  - 45.131.68.163@俄罗斯(RU)-Saint Petersburg/7rW
+  - test.0dc.cn@加拿大(CA)-蒙特利尔/sYR
+  - 92.223.30.132@美国(US)-洛杉矶/H5q
+  - 13.231.146.35@日本(JP)-东京/4eb
+  - chuch3go.com@美国(US)-聖荷西/FuB
+  - uae.oracleusa.ml@阿联酋(AE)-阿布扎比/Dgy
+  - bi.oracleusa.ml@阿联酋(AE)-迪拜/Dx3
+  - c23s3.jamjams.net@美国(US)-洛杉矶/Y6C
+  - uae.oracleusa.ml@阿联酋(AE)-阿布扎比/DTJ
+  - uae.oracleusa.ml@阿联酋(AE)-阿布扎比/Z0k
+  - usaadm.oracleusa.ml@美国(US)-San Jose/dWT
+  - bi.oracleusa.ml@阿联酋(AE)-迪拜/9pH
+  - cu.chashao.buzz@中国(CN)-长沙/FQZ
+  - 50.21.176.135@美国(US)-芝加哥/aW9
+  - nl.oracleusa.ml@加拿大(CA)-多伦多/k5P
+  - 23.225.165.245@美国(US)-洛杉矶/ThG
+  - cloudflare.xrenblog.com@美国(US)-旧金山/TJW
+  - cm.chashao.buzz@中国(CN)-广州市/Wpo
+  - 50.21.176.135@美国(US)-芝加哥/hH1
+  - bi.oracleusa.ml@阿联酋(AE)-迪拜/XJt
+  - cm.chashao.buzz@中国(CN)-广州市/wj8
+  - 34.97.85.34@日本(JP)-大阪市/PbW
+  - v2ray.ifuckgfw.ga@加拿大(CA)-多伦多/Vzm
+  - 35.178.94.57@英国(GB)-伦敦/fXx
+  - 103.164.81.13@香港(HK)-中環/FRT
+  - 198.41.212.13@加拿大(CA)-蒙特利尔/eNK
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/Pps
+  - 3.19.55.153@美国(US)-Dublin/MAc
+  - 154.84.1.214@荷兰(NL)-阿姆斯特丹/aek
+  - 104.16.181.197@加拿大(CA)-多伦多/NYj
+  - 154.84.1.198@荷兰(NL)-阿姆斯特丹/XIV
+  - 3.19.55.153@美国(US)-Dublin/Qp9
+  - 13.40.96.195@英国(GB)-伦敦/WCY
+  - cm.db-link.in@加拿大(CA)-多伦多/rpX
+  - 172.105.59.32@印度(IN)-孟买/4OF
+  - 169.197.142.991SMc76Np
+  - 106.75.141.2524wSIpFLG
+  - 198.41.212.9scM6Lf51
+  - 169.197.142.99uTKzFSve
+  - 172.247.31.45CIXSGxy1
+  - 134.195.196.813jKXvIbM
+  - iepl02.zerohost.liveHrvbiIf8
+  - 172.105.222.98uBv50j49
+  - 106.75.141.252Vp3A2O1l
+  - 172.99.190.92rn2RSY93
+  - 172.99.190.92JLMyb60R
+  - 43.129.233.11lWSJwesB
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   proxies:
-  - cm1.chashao.buzz@中国(CN)-深圳市/TZo
-  - cu.chashao.buzz@中国(CN)-长沙/x4O
-  - cm.chashao.buzz@中国(CN)-广州市/Mqg
-  - cm1.chashao.buzz@中国(CN)-深圳市/XYM
-  - cu.chashao.buzz@中国(CN)-长沙/UZa
-  - cu.chashao.buzz@中国(CN)-长沙/FvP
-  - 20.212.150.16@新加坡(SG)-Singapore/6IW
-  - cm1.chashao.buzz@中国(CN)-深圳市/oHe
-  - 198.41.212.2@加拿大(CA)-蒙特利尔/Hom
-  - 45.131.68.163@俄罗斯(RU)-Saint Petersburg/KdB
-  - 45.131.68.163@俄罗斯(RU)-Saint Petersburg/GkM
-  - test.0dc.cn@加拿大(CA)-多伦多/R49
-  - 92.223.30.132@美国(US)-洛杉矶/kG0
-  - 13.231.146.35@日本(JP)-东京/hz5
-  - chuch3go.com@美国(US)-聖荷西/S24
-  - uae.oracleusa.ml@阿联酋(AE)-阿布扎比/yJm
-  - bi.oracleusa.ml@阿联酋(AE)-迪拜/WxJ
-  - c23s3.jamjams.net@美国(US)-洛杉矶/rGo
-  - uae.oracleusa.ml@阿联酋(AE)-阿布扎比/IQV
-  - uae.oracleusa.ml@阿联酋(AE)-阿布扎比/fJv
-  - usaadm.oracleusa.ml@美国(US)-San Jose/3o1
-  - bi.oracleusa.ml@阿联酋(AE)-迪拜/K5U
-  - cu.chashao.buzz@中国(CN)-长沙/7gL
-  - 50.21.176.135@美国(US)-芝加哥/oKk
-  - nl.oracleusa.ml@加拿大(CA)-蒙特利尔/xEW
-  - 23.225.165.245@美国(US)-洛杉矶/spr
-  - cloudflare.xrenblog.com@美国(US)-旧金山/vFk
-  - cm.chashao.buzz@中国(CN)-广州市/JmQ
-  - 50.21.176.135@美国(US)-芝加哥/fHy
-  - bi.oracleusa.ml@阿联酋(AE)-迪拜/mhW
-  - cm.chashao.buzz@中国(CN)-广州市/6V1
-  - 34.97.85.34@日本(JP)-大阪市/2uK
-  - v2ray.ifuckgfw.ga@加拿大(CA)-蒙特利尔/4vi
-  - 35.178.94.57@英国(GB)-伦敦/e5C
-  - 103.164.81.13@香港(HK)-中環/f0L
-  - 198.41.212.13@加拿大(CA)-蒙特利尔/uDs
-  - usa-dallas.lvuft.com@美国(US)-達拉斯/83R
-  - 3.19.55.153@美国(US)-Dublin/gI8
-  - 154.84.1.214@荷兰(NL)-阿姆斯特丹/atX
-  - 104.16.181.197@加拿大(CA)-多伦多/yd2
-  - 154.84.1.198@荷兰(NL)-阿姆斯特丹/fdz
-  - 3.19.55.153@美国(US)-Dublin/oB5
-  - 13.40.96.195@英国(GB)-伦敦/SHu
-  - cm.db-link.in@加拿大(CA)-多伦多/2tR
-  - 172.105.59.32@印度(IN)-孟买/Mzw
-  - 169.197.142.99@美国(US)-圣克拉拉/By9
-  - 106.75.141.252@中国(CN)-北京/mDZ
-  - 198.41.212.9@加拿大(CA)-蒙特利尔/NUm
-  - 169.197.142.99@美国(US)-圣克拉拉/yTK
-  - 172.247.31.45@香港(HK)-Tseung Kwan O/Ac2
-  - 134.195.196.81@加拿大(CA)-多伦多/Nbs
-  - iepl02.zerohost.live@中華人民共和國(CN)-广州/sk6
-  - 172.105.222.98@日本(JP)-东京/oty
-  - 106.75.141.252@中国(CN)-北京/rAD
-  - 172.99.190.92@英国(GB)-伦敦/6ZQ
-  - 172.99.190.92@英国(GB)-伦敦/EsF
-  - 43.129.233.11@香港(HK)-香港/ZXp
+  - cm1.chashao.buzz@中国(CN)-深圳市/jbq
+  - cu.chashao.buzz@中国(CN)-长沙/jQn
+  - cm.chashao.buzz@中国(CN)-广州市/yEI
+  - cm1.chashao.buzz@中国(CN)-深圳市/438
+  - cu.chashao.buzz@中国(CN)-长沙/iTk
+  - cu.chashao.buzz@中国(CN)-长沙/ndm
+  - 20.212.150.16@新加坡(SG)-Singapore/sdR
+  - cm1.chashao.buzz@中国(CN)-深圳市/jeP
+  - 198.41.212.2@加拿大(CA)-蒙特利尔/L0r
+  - 45.131.68.163@俄罗斯(RU)-Saint Petersburg/2eA
+  - 45.131.68.163@俄罗斯(RU)-Saint Petersburg/7rW
+  - test.0dc.cn@加拿大(CA)-蒙特利尔/sYR
+  - 92.223.30.132@美国(US)-洛杉矶/H5q
+  - 13.231.146.35@日本(JP)-东京/4eb
+  - chuch3go.com@美国(US)-聖荷西/FuB
+  - uae.oracleusa.ml@阿联酋(AE)-阿布扎比/Dgy
+  - bi.oracleusa.ml@阿联酋(AE)-迪拜/Dx3
+  - c23s3.jamjams.net@美国(US)-洛杉矶/Y6C
+  - uae.oracleusa.ml@阿联酋(AE)-阿布扎比/DTJ
+  - uae.oracleusa.ml@阿联酋(AE)-阿布扎比/Z0k
+  - usaadm.oracleusa.ml@美国(US)-San Jose/dWT
+  - bi.oracleusa.ml@阿联酋(AE)-迪拜/9pH
+  - cu.chashao.buzz@中国(CN)-长沙/FQZ
+  - 50.21.176.135@美国(US)-芝加哥/aW9
+  - nl.oracleusa.ml@加拿大(CA)-多伦多/k5P
+  - 23.225.165.245@美国(US)-洛杉矶/ThG
+  - cloudflare.xrenblog.com@美国(US)-旧金山/TJW
+  - cm.chashao.buzz@中国(CN)-广州市/Wpo
+  - 50.21.176.135@美国(US)-芝加哥/hH1
+  - bi.oracleusa.ml@阿联酋(AE)-迪拜/XJt
+  - cm.chashao.buzz@中国(CN)-广州市/wj8
+  - 34.97.85.34@日本(JP)-大阪市/PbW
+  - v2ray.ifuckgfw.ga@加拿大(CA)-多伦多/Vzm
+  - 35.178.94.57@英国(GB)-伦敦/fXx
+  - 103.164.81.13@香港(HK)-中環/FRT
+  - 198.41.212.13@加拿大(CA)-蒙特利尔/eNK
+  - usa-dallas.lvuft.com@美国(US)-達拉斯/Pps
+  - 3.19.55.153@美国(US)-Dublin/MAc
+  - 154.84.1.214@荷兰(NL)-阿姆斯特丹/aek
+  - 104.16.181.197@加拿大(CA)-多伦多/NYj
+  - 154.84.1.198@荷兰(NL)-阿姆斯特丹/XIV
+  - 3.19.55.153@美国(US)-Dublin/Qp9
+  - 13.40.96.195@英国(GB)-伦敦/WCY
+  - cm.db-link.in@加拿大(CA)-多伦多/rpX
+  - 172.105.59.32@印度(IN)-孟买/4OF
+  - 169.197.142.991SMc76Np
+  - 106.75.141.2524wSIpFLG
+  - 198.41.212.9scM6Lf51
+  - 169.197.142.99uTKzFSve
+  - 172.247.31.45CIXSGxy1
+  - 134.195.196.813jKXvIbM
+  - iepl02.zerohost.liveHrvbiIf8
+  - 172.105.222.98uBv50j49
+  - 106.75.141.252Vp3A2O1l
+  - 172.99.190.92rn2RSY93
+  - 172.99.190.92JLMyb60R
+  - 43.129.233.11lWSJwesB
 - name: 🌍 国外媒体
   type: select
   proxies:
