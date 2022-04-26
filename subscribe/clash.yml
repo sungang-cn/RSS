@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-- name: tw01.xniuniu888.club@中国(CN)-广州/HRQ
+- name: tw01.xniuniu888.club@中国(CN)-广州/7wN
   type: vmess
   server: tw01.xniuniu888.club
   port: '30139'
@@ -18,7 +18,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 193.123.229.241@韩国(KR)-首尔特别市/Cux
+- name: 193.123.229.241@韩国(KR)-首尔特别市/wVa
   type: vmess
   server: 193.123.229.241
   port: '4301'
@@ -31,7 +31,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: in02.dns2333.xyz@中国(CN)-深圳/QiE
+- name: in02.dns2333.xyz@中国(CN)-深圳/nme
   type: vmess
   server: in02.dns2333.xyz
   port: '63086'
@@ -44,7 +44,7 @@ proxies:
   ws-headers:
     Host: jp-balancer.myn1des.com
   tls: true
-- name: 185.148.15.49@美国(US)-聖荷西/JvC
+- name: 185.148.15.49@美国(US)-聖荷西/t16
   type: vmess
   server: 185.148.15.49
   port: '28200'
@@ -57,7 +57,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: in02.dns2333.xyz@中国(CN)-深圳/9eW
+- name: in02.dns2333.xyz@中国(CN)-深圳/jWn
   type: vmess
   server: in02.dns2333.xyz
   port: '63014'
@@ -70,7 +70,7 @@ proxies:
   ws-headers:
     Host: mugua-us01.covid19.rip
   tls: true
-- name: v2fly.sab.quest@加拿大(CA)-多伦多/KFq
+- name: v2fly.sab.quest@加拿大(CA)-多伦多/73M
   type: vmess
   server: v2fly.sab.quest
   port: '443'
@@ -83,7 +83,7 @@ proxies:
   ws-headers:
     Host: v2fly.samrt.website
   tls: true
-- name: 104.19.3.32@加拿大(CA)-多伦多/9At
+- name: 104.19.3.32@加拿大(CA)-多伦多/JF7
   type: vmess
   server: 104.19.3.32
   port: '443'
@@ -96,7 +96,7 @@ proxies:
   ws-headers:
     Host: v2fly.samrt.website
   tls: true
-- name: 142.4.127.67@美国(US)-聖荷西/lc9
+- name: 142.4.127.67@美国(US)-聖荷西/n5A
   type: vmess
   server: 142.4.127.67
   port: '443'
@@ -109,7 +109,7 @@ proxies:
   ws-headers:
     Host: www.47727450.xyz
   tls: true
-- name: 8.ezydfdd.com@美国(US)-旧金山/PtM
+- name: 8.ezydfdd.com@美国(US)-旧金山/bLW
   type: vmess
   server: 8.ezydfdd.com
   port: '443'
@@ -122,7 +122,7 @@ proxies:
   ws-headers:
     Host: 8.ezydfdd.com
   tls: true
-- name: 141.164.37.29@韩国(KR)-首尔特别市/1jC
+- name: 141.164.37.29@韩国(KR)-首尔特别市/vUZ
   type: vmess
   server: 141.164.37.29
   port: '8650'
@@ -135,7 +135,7 @@ proxies:
   ws-headers:
     Host: 141.164.37.29
   tls: false
-- name: irancell.android-club.ir@伊朗(IR)-库姆/edF
+- name: irancell.android-club.ir@伊朗(IR)-库姆/W0J
   type: vmess
   server: irancell.android-club.ir
   port: '80'
@@ -148,7 +148,7 @@ proxies:
   ws-headers:
     Host: irancell.android-club.ir
   tls: false
-- name: in02.dns2333.xyz@中国(CN)-深圳/fJO
+- name: in02.dns2333.xyz@中国(CN)-深圳/9n5
   type: vmess
   server: in02.dns2333.xyz
   port: '63041'
@@ -161,7 +161,7 @@ proxies:
   ws-headers:
     Host: mugua-br01.covid19.rip
   tls: true
-- name: 330hk02.fans8.xyz@香港(HK)-中環/S1Z
+- name: 330hk02.fans8.xyz@香港(HK)-中環/fHR
   type: vmess
   server: 330hk02.fans8.xyz
   port: '443'
@@ -174,7 +174,7 @@ proxies:
   ws-headers:
     Host: 330hk02.fans8.xyz
   tls: true
-- name: in03.dns2333.xyz@中国(CN)-深圳/CPf
+- name: in03.dns2333.xyz@中国(CN)-深圳/VqR
   type: vmess
   server: in03.dns2333.xyz
   port: '63086'
@@ -187,7 +187,7 @@ proxies:
   ws-headers:
     Host: jp-balancer.myn1des.com
   tls: true
-- name: in03.dns2333.xyz@中国(CN)-深圳/WFA
+- name: in03.dns2333.xyz@中国(CN)-深圳/qOM
   type: vmess
   server: in03.dns2333.xyz
   port: '63014'
@@ -200,7 +200,7 @@ proxies:
   ws-headers:
     Host: mugua-us01.covid19.rip
   tls: true
-- name: niaop.tk@加拿大(CA)-多伦多/oBd
+- name: niaop.tk@加拿大(CA)-多伦多/LvV
   type: vmess
   server: niaop.tk
   port: '443'
@@ -213,7 +213,7 @@ proxies:
   ws-headers:
     Host: niaop.tk
   tls: true
-- name: 120.240.48.19@中国(CN)-深圳/ENP
+- name: 120.240.48.19@中国(CN)-深圳/P79
   type: vmess
   server: 120.240.48.19
   port: '38106'
@@ -226,7 +226,7 @@ proxies:
   ws-headers:
     Host: www.ivpnpro.net
   tls: false
-- name: app.ssfree.ru@美国(US)-旧金山/PxE
+- name: app.ssfree.ru@美国(US)-旧金山/fz1
   type: vmess
   server: app.ssfree.ru
   port: '443'
@@ -239,7 +239,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: true
-- name: cloudflare.xrenblog.com7Fpjlbmo
+- name: cloudflare.xrenblog.comrmg23uVv
   type: vmess
   server: cloudflare.xrenblog.com
   port: '443'
@@ -252,7 +252,7 @@ proxies:
   ws-headers:
     Host: v4.xrenblog.com
   tls: true
-- name: 20.222.87.174@日本(JP)-东京/985
+- name: 20.222.87.174@日本(JP)-东京/UI5
   type: vmess
   server: 20.222.87.174
   port: '10001'
@@ -265,7 +265,7 @@ proxies:
   ws-headers:
     Host: 20.222.87.174
   tls: false
-- name: hax2.hax01.ml@加拿大(CA)-多伦多/9Eb
+- name: hax2.hax01.ml@加拿大(CA)-多伦多/1ug
   type: vmess
   server: hax2.hax01.ml
   port: '443'
@@ -284,53 +284,53 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - tw01.xniuniu888.club@中国(CN)-广州/HRQ
-  - 193.123.229.241@韩国(KR)-首尔特别市/Cux
-  - in02.dns2333.xyz@中国(CN)-深圳/QiE
-  - 185.148.15.49@美国(US)-聖荷西/JvC
-  - in02.dns2333.xyz@中国(CN)-深圳/9eW
-  - v2fly.sab.quest@加拿大(CA)-多伦多/KFq
-  - 104.19.3.32@加拿大(CA)-多伦多/9At
-  - 142.4.127.67@美国(US)-聖荷西/lc9
-  - 8.ezydfdd.com@美国(US)-旧金山/PtM
-  - 141.164.37.29@韩国(KR)-首尔特别市/1jC
-  - irancell.android-club.ir@伊朗(IR)-库姆/edF
-  - in02.dns2333.xyz@中国(CN)-深圳/fJO
-  - 330hk02.fans8.xyz@香港(HK)-中環/S1Z
-  - in03.dns2333.xyz@中国(CN)-深圳/CPf
-  - in03.dns2333.xyz@中国(CN)-深圳/WFA
-  - niaop.tk@加拿大(CA)-多伦多/oBd
-  - 120.240.48.19@中国(CN)-深圳/ENP
-  - app.ssfree.ru@美国(US)-旧金山/PxE
-  - cloudflare.xrenblog.com7Fpjlbmo
-  - 20.222.87.174@日本(JP)-东京/985
-  - hax2.hax01.ml@加拿大(CA)-多伦多/9Eb
+  - tw01.xniuniu888.club@中国(CN)-广州/7wN
+  - 193.123.229.241@韩国(KR)-首尔特别市/wVa
+  - in02.dns2333.xyz@中国(CN)-深圳/nme
+  - 185.148.15.49@美国(US)-聖荷西/t16
+  - in02.dns2333.xyz@中国(CN)-深圳/jWn
+  - v2fly.sab.quest@加拿大(CA)-多伦多/73M
+  - 104.19.3.32@加拿大(CA)-多伦多/JF7
+  - 142.4.127.67@美国(US)-聖荷西/n5A
+  - 8.ezydfdd.com@美国(US)-旧金山/bLW
+  - 141.164.37.29@韩国(KR)-首尔特别市/vUZ
+  - irancell.android-club.ir@伊朗(IR)-库姆/W0J
+  - in02.dns2333.xyz@中国(CN)-深圳/9n5
+  - 330hk02.fans8.xyz@香港(HK)-中環/fHR
+  - in03.dns2333.xyz@中国(CN)-深圳/VqR
+  - in03.dns2333.xyz@中国(CN)-深圳/qOM
+  - niaop.tk@加拿大(CA)-多伦多/LvV
+  - 120.240.48.19@中国(CN)-深圳/P79
+  - app.ssfree.ru@美国(US)-旧金山/fz1
+  - cloudflare.xrenblog.comrmg23uVv
+  - 20.222.87.174@日本(JP)-东京/UI5
+  - hax2.hax01.ml@加拿大(CA)-多伦多/1ug
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   proxies:
-  - tw01.xniuniu888.club@中国(CN)-广州/HRQ
-  - 193.123.229.241@韩国(KR)-首尔特别市/Cux
-  - in02.dns2333.xyz@中国(CN)-深圳/QiE
-  - 185.148.15.49@美国(US)-聖荷西/JvC
-  - in02.dns2333.xyz@中国(CN)-深圳/9eW
-  - v2fly.sab.quest@加拿大(CA)-多伦多/KFq
-  - 104.19.3.32@加拿大(CA)-多伦多/9At
-  - 142.4.127.67@美国(US)-聖荷西/lc9
-  - 8.ezydfdd.com@美国(US)-旧金山/PtM
-  - 141.164.37.29@韩国(KR)-首尔特别市/1jC
-  - irancell.android-club.ir@伊朗(IR)-库姆/edF
-  - in02.dns2333.xyz@中国(CN)-深圳/fJO
-  - 330hk02.fans8.xyz@香港(HK)-中環/S1Z
-  - in03.dns2333.xyz@中国(CN)-深圳/CPf
-  - in03.dns2333.xyz@中国(CN)-深圳/WFA
-  - niaop.tk@加拿大(CA)-多伦多/oBd
-  - 120.240.48.19@中国(CN)-深圳/ENP
-  - app.ssfree.ru@美国(US)-旧金山/PxE
-  - cloudflare.xrenblog.com7Fpjlbmo
-  - 20.222.87.174@日本(JP)-东京/985
-  - hax2.hax01.ml@加拿大(CA)-多伦多/9Eb
+  - tw01.xniuniu888.club@中国(CN)-广州/7wN
+  - 193.123.229.241@韩国(KR)-首尔特别市/wVa
+  - in02.dns2333.xyz@中国(CN)-深圳/nme
+  - 185.148.15.49@美国(US)-聖荷西/t16
+  - in02.dns2333.xyz@中国(CN)-深圳/jWn
+  - v2fly.sab.quest@加拿大(CA)-多伦多/73M
+  - 104.19.3.32@加拿大(CA)-多伦多/JF7
+  - 142.4.127.67@美国(US)-聖荷西/n5A
+  - 8.ezydfdd.com@美国(US)-旧金山/bLW
+  - 141.164.37.29@韩国(KR)-首尔特别市/vUZ
+  - irancell.android-club.ir@伊朗(IR)-库姆/W0J
+  - in02.dns2333.xyz@中国(CN)-深圳/9n5
+  - 330hk02.fans8.xyz@香港(HK)-中環/fHR
+  - in03.dns2333.xyz@中国(CN)-深圳/VqR
+  - in03.dns2333.xyz@中国(CN)-深圳/qOM
+  - niaop.tk@加拿大(CA)-多伦多/LvV
+  - 120.240.48.19@中国(CN)-深圳/P79
+  - app.ssfree.ru@美国(US)-旧金山/fz1
+  - cloudflare.xrenblog.comrmg23uVv
+  - 20.222.87.174@日本(JP)-东京/UI5
+  - hax2.hax01.ml@加拿大(CA)-多伦多/1ug
 - name: 🌍 国外媒体
   type: select
   proxies:
