@@ -4,18 +4,453 @@ allow-lan: true
 mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
-proxies: []
+proxies:
+- name: 141.164.39.146@韩国(KR)-首尔特别市/sZb
+  type: ss
+  server: 141.164.39.146
+  port: '6697'
+  password: TEzjfAYq2IjtuoS
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 61.222.202.140@台湾(TW)-台北市/3GO
+  type: vmess
+  server: 61.222.202.140
+  port: '33792'
+  uuid: e55cd182-01b0-4fb7-a510-363701a491c5
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: ''
+  tls: false
+- name: V104.bgpnet.top@中国(CN)-深圳/PwC
+  type: vmess
+  server: V104.bgpnet.top
+  port: '26104'
+  uuid: ef361c83-8b89-3950-9c9b-6ccc177e6285
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /admin
+  ws-headers:
+    Host: V104.bgpnet.top
+  tls: false
+- name: x.gotout.work@中国(CN)-深圳/Ybu
+  type: ss
+  server: x.gotout.work
+  port: '30031'
+  password: e0uyakendg7
+  alterId: 2
+  cipher: aes-256-gcm
+- name: x.gotout.work@中国(CN)-深圳/QCx
+  type: ss
+  server: x.gotout.work
+  port: '30012'
+  password: e0uyakendg7
+  alterId: 2
+  cipher: aes-256-gcm
+- name: us1.lolvps.xyz@美国(US)-洛杉矶/S6Z
+  type: vmess
+  server: us1.lolvps.xyz
+  port: '60060'
+  uuid: 95886c76-9207-48bd-9e64-d1422e75ad89
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /AY920UMR
+  ws-headers:
+    Host: us1.lolvps.xyz
+  tls: true
+- name: v2-2.godlight.xyz@新加坡(SG)-新加坡/zZK
+  type: vmess
+  server: v2-2.godlight.xyz
+  port: '30526'
+  uuid: 43308d27-94ec-408e-a8f6-d682cfb99ca9
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /54f634fs
+  ws-headers:
+    Host: v2-2.godlight.xyz
+  tls: true
+- name: shcu.forgebukkit.com@中国(CN)-上海/mTg
+  type: vmess
+  server: shcu.forgebukkit.com
+  port: '47389'
+  uuid: f680dfd8-3b59-48af-aea8-1d4bc09a1705
+  alterId: '0'
+  cipher: auto
+  network: tcp
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: shcu.forgebukkit.com
+  tls: false
+- name: 45.76.71.233@美国(US)-洛杉矶/jAR
+  type: vmess
+  server: 45.76.71.233
+  port: '46983'
+  uuid: 69099258-1476-46dd-a51b-84e915e941be
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /1tGK82lU/
+  ws-headers:
+    Host: 45.76.71.233
+  tls: false
+- name: 155.248.202.203@美国(US)-San Jose/9l8
+  type: vmess
+  server: 155.248.202.203
+  port: '14564'
+  uuid: 4a0da379-a7cc-4389-88d7-45514b896883
+  alterId: '0'
+  cipher: auto
+  network: tcp
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: 155.248.202.203
+  tls: false
+- name: 207.246.94.28@美国(US)-Piscataway/omK
+  type: vmess
+  server: 207.246.94.28
+  port: '42383'
+  uuid: 4773dfdc-9c85-4873-8720-ce8cf5f74f7c
+  alterId: '0'
+  cipher: auto
+  network: tcp
+  ucp: true
+  ws-path: /xrenblog/
+  ws-headers:
+    Host: 207.246.94.28
+  tls: false
+- name: 45.76.71.233@美国(US)-洛杉矶/vwl
+  type: vmess
+  server: 45.76.71.233
+  port: '46983'
+  uuid: 69099258-1476-46dd-a51b-84e915e941be
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /1tGK82lU/
+  ws-headers:
+    Host: ''
+  tls: false
+- name: shcu.forgebukkit.com@中国(CN)-上海/s8T
+  type: vmess
+  server: shcu.forgebukkit.com
+  port: '47389'
+  uuid: f680dfd8-3b59-48af-aea8-1d4bc09a1705
+  alterId: '0'
+  cipher: auto
+  network: tcp
+  ucp: true
+  ws-path: /564dfa20/
+  ws-headers:
+    Host: shcu.forgebukkit.com
+  tls: false
+- name: us3.31vpn.com@美国(US)-克利夫頓/Sa6
+  type: vmess
+  server: us3.31vpn.com
+  port: '443'
+  uuid: 2ef64dc8-ca3c-45b8-ad5f-20871452143b
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /fastssh/3102637493qqcom/626cf7d8bd49b/
+  ws-headers:
+    Host: us3.31vpn.com
+  tls: true
+- name: 426hk.fans8.xyz@香港(HK)-中環/6sm
+  type: vmess
+  server: 426hk.fans8.xyz
+  port: '443'
+  uuid: 93bdaed5-13c5-3927-93d7-a6877c5ac8d2
+  alterId: '2'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /ray
+  ws-headers:
+    Host: 426hk.fans8.xyz
+  tls: true
+- name: V309.bgpnet.top@中国(CN)-北京/4V6
+  type: vmess
+  server: V309.bgpnet.top
+  port: '26309'
+  uuid: ef361c83-8b89-3950-9c9b-6ccc177e6285
+  alterId: '0'
+  cipher: auto
+  network: tcp
+  ucp: true
+  ws-path: /admin
+  ws-headers:
+    Host: download.windowsupdate.com
+  tls: false
+- name: 155.248.202.203@美国(US)-San Jose/EQ5
+  type: vmess
+  server: 155.248.202.203
+  port: '14564'
+  uuid: 4a0da379-a7cc-4389-88d7-45514b896883
+  alterId: '0'
+  cipher: auto
+  network: tcp
+  ucp: true
+  ws-path: /ws
+  ws-headers:
+    Host: 155.248.202.203
+  tls: false
+- name: 61.222.202.140@台湾(TW)-台北市/K2s
+  type: vmess
+  server: 61.222.202.140
+  port: '33792'
+  uuid: e55cd182-01b0-4fb7-a510-363701a491c5
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: 61.222.202.140
+  tls: false
+- name: V203.bgpnet.top@中国(CN)-深圳/92M
+  type: vmess
+  server: V203.bgpnet.top
+  port: '26203'
+  uuid: ef361c83-8b89-3950-9c9b-6ccc177e6285
+  alterId: '0'
+  cipher: auto
+  network: tcp
+  ucp: true
+  ws-path: /admin
+  ws-headers:
+    Host: download.windowsupdate.com
+  tls: false
+- name: 155.248.202.203@美国(US)-San Jose/U0j
+  type: vmess
+  server: 155.248.202.203
+  port: '14564'
+  uuid: 4a0da379-a7cc-4389-88d7-45514b896883
+  alterId: '0'
+  cipher: auto
+  network: tcp
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: ''
+  tls: false
+- name: 140.238.48.194@日本(JP)-东京/lUF
+  type: vmess
+  server: 140.238.48.194
+  port: '8888'
+  uuid: 24f1dfad-1267-4297-8e88-0e9b8ef47e47
+  alterId: '0'
+  cipher: auto
+  network: tcp
+  ucp: true
+  ws-path: /s/c27821f.fm.icloud.com:16708
+  ws-headers:
+    Host: c27821f.rd.cloudflare.systems
+  tls: false
+- name: V203.bgpnet.top@中国(CN)-深圳/eND
+  type: vmess
+  server: V203.bgpnet.top
+  port: '26203'
+  uuid: ef361c83-8b89-3950-9c9b-6ccc177e6285
+  alterId: '0'
+  cipher: auto
+  network: tcp
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: ''
+  tls: false
+- name: 169.197.142.99@美国(US)-圣克拉拉/qHQ
+  type: ss
+  server: 169.197.142.99
+  port: '8009'
+  password: XKFKl2rULjIp74
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 104.16.23.3@加拿大(CA)-多伦多/J6B
+  type: vmess
+  server: 104.16.23.3
+  port: '443'
+  uuid: 248f4f6f-270c-47f7-bea8-ed9d89440054
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: yzkoyeb-7595333.koyeb.app
+  tls: true
+- name: 169.197.142.99@美国(US)-圣克拉拉/RUM
+  type: ss
+  server: 169.197.142.99
+  port: '8118'
+  password: cdBIDV42DCwnfIN
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 1.ezydfdd.com@加拿大(CA)-蒙特利尔/Up8
+  type: vmess
+  server: 1.ezydfdd.com
+  port: '443'
+  uuid: 4ee48ad8-178c-40a2-9c52-a14e90a06e49
+  alterId: '0'
+  cipher: auto
+  network: ws
+  ucp: true
+  ws-path: /nmsl
+  ws-headers:
+    Host: 1.ezydfdd.com
+  tls: true
+- name: 169.197.142.99@美国(US)-圣克拉拉/7eG
+  type: ss
+  server: 169.197.142.99
+  port: '9101'
+  password: e4FCWrgpkji3QY
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 207.246.94.28@美国(US)-Piscataway/50O
+  type: vmess
+  server: 207.246.94.28
+  port: '42383'
+  uuid: 4773dfdc-9c85-4873-8720-ce8cf5f74f7c
+  alterId: '0'
+  cipher: auto
+  network: tcp
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: 207.246.94.28
+  tls: false
+- name: x.gotout.work@中国(CN)-深圳/hzQ
+  type: ss
+  server: x.gotout.work
+  port: '30041'
+  password: e0uyakendg7
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 140.238.48.194@日本(JP)-东京/o4f
+  type: vmess
+  server: 140.238.48.194
+  port: '8888'
+  uuid: 24f1dfad-1267-4297-8e88-0e9b8ef47e47
+  alterId: '0'
+  cipher: auto
+  network: tcp
+  ucp: true
+  ws-path: /
+  ws-headers:
+    Host: 140.238.48.194
+  tls: false
+- name: 38.68.135.19@美国(US)-達拉斯/CzN
+  type: ss
+  server: 38.68.135.19
+  port: '8119'
+  password: cdBIDV42DCwnfIN
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 158.247.205.87@韩国(KR)-首尔特别市/4aS
+  type: ss
+  server: 158.247.205.87
+  port: '5601'
+  password: Y6R9pAtvxxzmGC
+  alterId: 2
+  cipher: aes-256-gcm
+- name: 158.247.205.87@韩国(KR)-首尔特别市/UqS
+  type: ss
+  server: 158.247.205.87
+  port: '443'
+  password: pKEW8JPByTVTLtM
+  alterId: 2
+  cipher: aes-256-gcm
 proxy-groups:
 - name: 🔰 节点选择
   type: select
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
+  - 141.164.39.146@韩国(KR)-首尔特别市/sZb
+  - 61.222.202.140@台湾(TW)-台北市/3GO
+  - V104.bgpnet.top@中国(CN)-深圳/PwC
+  - x.gotout.work@中国(CN)-深圳/Ybu
+  - x.gotout.work@中国(CN)-深圳/QCx
+  - us1.lolvps.xyz@美国(US)-洛杉矶/S6Z
+  - v2-2.godlight.xyz@新加坡(SG)-新加坡/zZK
+  - shcu.forgebukkit.com@中国(CN)-上海/mTg
+  - 45.76.71.233@美国(US)-洛杉矶/jAR
+  - 155.248.202.203@美国(US)-San Jose/9l8
+  - 207.246.94.28@美国(US)-Piscataway/omK
+  - 45.76.71.233@美国(US)-洛杉矶/vwl
+  - shcu.forgebukkit.com@中国(CN)-上海/s8T
+  - us3.31vpn.com@美国(US)-克利夫頓/Sa6
+  - 426hk.fans8.xyz@香港(HK)-中環/6sm
+  - V309.bgpnet.top@中国(CN)-北京/4V6
+  - 155.248.202.203@美国(US)-San Jose/EQ5
+  - 61.222.202.140@台湾(TW)-台北市/K2s
+  - V203.bgpnet.top@中国(CN)-深圳/92M
+  - 155.248.202.203@美国(US)-San Jose/U0j
+  - 140.238.48.194@日本(JP)-东京/lUF
+  - V203.bgpnet.top@中国(CN)-深圳/eND
+  - 169.197.142.99@美国(US)-圣克拉拉/qHQ
+  - 104.16.23.3@加拿大(CA)-多伦多/J6B
+  - 169.197.142.99@美国(US)-圣克拉拉/RUM
+  - 1.ezydfdd.com@加拿大(CA)-蒙特利尔/Up8
+  - 169.197.142.99@美国(US)-圣克拉拉/7eG
+  - 207.246.94.28@美国(US)-Piscataway/50O
+  - x.gotout.work@中国(CN)-深圳/hzQ
+  - 140.238.48.194@日本(JP)-东京/o4f
+  - 38.68.135.19@美国(US)-達拉斯/CzN
+  - 158.247.205.87@韩国(KR)-首尔特别市/4aS
+  - 158.247.205.87@韩国(KR)-首尔特别市/UqS
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
-  proxies: []
+  proxies:
+  - 141.164.39.146@韩国(KR)-首尔特别市/sZb
+  - 61.222.202.140@台湾(TW)-台北市/3GO
+  - V104.bgpnet.top@中国(CN)-深圳/PwC
+  - x.gotout.work@中国(CN)-深圳/Ybu
+  - x.gotout.work@中国(CN)-深圳/QCx
+  - us1.lolvps.xyz@美国(US)-洛杉矶/S6Z
+  - v2-2.godlight.xyz@新加坡(SG)-新加坡/zZK
+  - shcu.forgebukkit.com@中国(CN)-上海/mTg
+  - 45.76.71.233@美国(US)-洛杉矶/jAR
+  - 155.248.202.203@美国(US)-San Jose/9l8
+  - 207.246.94.28@美国(US)-Piscataway/omK
+  - 45.76.71.233@美国(US)-洛杉矶/vwl
+  - shcu.forgebukkit.com@中国(CN)-上海/s8T
+  - us3.31vpn.com@美国(US)-克利夫頓/Sa6
+  - 426hk.fans8.xyz@香港(HK)-中環/6sm
+  - V309.bgpnet.top@中国(CN)-北京/4V6
+  - 155.248.202.203@美国(US)-San Jose/EQ5
+  - 61.222.202.140@台湾(TW)-台北市/K2s
+  - V203.bgpnet.top@中国(CN)-深圳/92M
+  - 155.248.202.203@美国(US)-San Jose/U0j
+  - 140.238.48.194@日本(JP)-东京/lUF
+  - V203.bgpnet.top@中国(CN)-深圳/eND
+  - 169.197.142.99@美国(US)-圣克拉拉/qHQ
+  - 104.16.23.3@加拿大(CA)-多伦多/J6B
+  - 169.197.142.99@美国(US)-圣克拉拉/RUM
+  - 1.ezydfdd.com@加拿大(CA)-蒙特利尔/Up8
+  - 169.197.142.99@美国(US)-圣克拉拉/7eG
+  - 207.246.94.28@美国(US)-Piscataway/50O
+  - x.gotout.work@中国(CN)-深圳/hzQ
+  - 140.238.48.194@日本(JP)-东京/o4f
+  - 38.68.135.19@美国(US)-達拉斯/CzN
+  - 158.247.205.87@韩国(KR)-首尔特别市/4aS
+  - 158.247.205.87@韩国(KR)-首尔特别市/UqS
 - name: 🌍 国外媒体
   type: select
   proxies:
