@@ -5,14 +5,14 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-- name: 141.164.39.146@韩国(KR)-首尔特别市/7We
+- name: 141.164.39.146@韩国(KR)-首尔特别市/7VL
   type: ss
   server: 141.164.39.146
   port: '6697'
   password: TEzjfAYq2IjtuoS
   alterId: 2
   cipher: aes-256-gcm
-- name: 61.222.202.140@台湾(TW)-台北市/z2W
+- name: 61.222.202.140@台湾(TW)-台北市/5W1
   type: vmess
   server: 61.222.202.140
   port: '33792'
@@ -25,7 +25,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: V104.bgpnet.top@中国(CN)-深圳/iy7
+- name: V104.bgpnet.top@中国(CN)-深圳/vHD
   type: vmess
   server: V104.bgpnet.top
   port: '26104'
@@ -38,21 +38,21 @@ proxies:
   ws-headers:
     Host: V104.bgpnet.top
   tls: false
-- name: x.gotout.work@中国(CN)-深圳/PuU
+- name: x.gotout.work@中国(CN)-深圳/Piu
   type: ss
   server: x.gotout.work
   port: '30031'
   password: e0uyakendg7
   alterId: 2
   cipher: aes-256-gcm
-- name: x.gotout.work@中国(CN)-深圳/mC8
+- name: x.gotout.work@中国(CN)-深圳/Aig
   type: ss
   server: x.gotout.work
   port: '30012'
   password: e0uyakendg7
   alterId: 2
   cipher: aes-256-gcm
-- name: us1.lolvps.xyz@美国(US)-洛杉矶/HdO
+- name: us1.lolvps.xyz@美国(US)-洛杉矶/RQd
   type: vmess
   server: us1.lolvps.xyz
   port: '60060'
@@ -65,7 +65,7 @@ proxies:
   ws-headers:
     Host: us1.lolvps.xyz
   tls: true
-- name: v2-2.godlight.xyz@新加坡(SG)-新加坡/RkM
+- name: v2-2.godlight.xyz@新加坡(SG)-新加坡/K6z
   type: vmess
   server: v2-2.godlight.xyz
   port: '30526'
@@ -78,7 +78,7 @@ proxies:
   ws-headers:
     Host: v2-2.godlight.xyz
   tls: true
-- name: shcu.forgebukkit.com@中国(CN)-上海/bHf
+- name: shcu.forgebukkit.com@中国(CN)-上海/Pz1
   type: vmess
   server: shcu.forgebukkit.com
   port: '47389'
@@ -91,7 +91,7 @@ proxies:
   ws-headers:
     Host: shcu.forgebukkit.com
   tls: false
-- name: 45.76.71.233@美国(US)-洛杉矶/ZFC
+- name: 45.76.71.233@美国(US)-洛杉矶/koq
   type: vmess
   server: 45.76.71.233
   port: '46983'
@@ -104,7 +104,7 @@ proxies:
   ws-headers:
     Host: 45.76.71.233
   tls: false
-- name: 155.248.202.203@美国(US)-San Jose/jp6
+- name: 155.248.202.203@美国(US)-San Jose/oA0
   type: vmess
   server: 155.248.202.203
   port: '14564'
@@ -117,7 +117,7 @@ proxies:
   ws-headers:
     Host: 155.248.202.203
   tls: false
-- name: 207.246.94.28@美国(US)-Piscataway/ngf
+- name: 207.246.94.28@美国(US)-Piscataway/nTo
   type: vmess
   server: 207.246.94.28
   port: '42383'
@@ -130,7 +130,7 @@ proxies:
   ws-headers:
     Host: 207.246.94.28
   tls: false
-- name: 45.76.71.233@美国(US)-洛杉矶/Yws
+- name: 45.76.71.233@美国(US)-洛杉矶/rsK
   type: vmess
   server: 45.76.71.233
   port: '46983'
@@ -143,7 +143,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: shcu.forgebukkit.com@中国(CN)-上海/U0E
+- name: shcu.forgebukkit.com@中国(CN)-上海/RfN
   type: vmess
   server: shcu.forgebukkit.com
   port: '47389'
@@ -156,7 +156,7 @@ proxies:
   ws-headers:
     Host: shcu.forgebukkit.com
   tls: false
-- name: us3.31vpn.com@美国(US)-克利夫頓/lzY
+- name: us3.31vpn.com@美国(US)-克利夫頓/oFK
   type: vmess
   server: us3.31vpn.com
   port: '443'
@@ -169,7 +169,7 @@ proxies:
   ws-headers:
     Host: us3.31vpn.com
   tls: true
-- name: 426hk.fans8.xyz@香港(HK)-中環/MTw
+- name: 426hk.fans8.xyz@香港(HK)-中環/ZBX
   type: vmess
   server: 426hk.fans8.xyz
   port: '443'
@@ -182,7 +182,7 @@ proxies:
   ws-headers:
     Host: 426hk.fans8.xyz
   tls: true
-- name: V309.bgpnet.top@中国(CN)-北京/din
+- name: V309.bgpnet.top@中国(CN)-北京/kM9
   type: vmess
   server: V309.bgpnet.top
   port: '26309'
@@ -195,7 +195,7 @@ proxies:
   ws-headers:
     Host: download.windowsupdate.com
   tls: false
-- name: 155.248.202.203@美国(US)-San Jose/9WN
+- name: 155.248.202.203@美国(US)-San Jose/3Ey
   type: vmess
   server: 155.248.202.203
   port: '14564'
@@ -208,7 +208,7 @@ proxies:
   ws-headers:
     Host: 155.248.202.203
   tls: false
-- name: 61.222.202.140@台湾(TW)-台北市/i0T
+- name: 61.222.202.140@台湾(TW)-台北市/d1N
   type: vmess
   server: 61.222.202.140
   port: '33792'
@@ -221,7 +221,7 @@ proxies:
   ws-headers:
     Host: 61.222.202.140
   tls: false
-- name: V203.bgpnet.top@中国(CN)-深圳/k4q
+- name: V203.bgpnet.top@中国(CN)-深圳/3HJ
   type: vmess
   server: V203.bgpnet.top
   port: '26203'
@@ -234,7 +234,7 @@ proxies:
   ws-headers:
     Host: download.windowsupdate.com
   tls: false
-- name: 155.248.202.203@美国(US)-San Jose/cx8
+- name: 155.248.202.203@美国(US)-San Jose/NM5
   type: vmess
   server: 155.248.202.203
   port: '14564'
@@ -247,7 +247,7 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 140.238.48.194@日本(JP)-东京/cVM
+- name: 140.238.48.194@日本(JP)-东京/Pm9
   type: vmess
   server: 140.238.48.194
   port: '8888'
@@ -260,7 +260,7 @@ proxies:
   ws-headers:
     Host: c27821f.rd.cloudflare.systems
   tls: false
-- name: V203.bgpnet.top@中国(CN)-深圳/MDu
+- name: V203.bgpnet.top@中国(CN)-深圳/SjZ
   type: vmess
   server: V203.bgpnet.top
   port: '26203'
@@ -273,14 +273,14 @@ proxies:
   ws-headers:
     Host: ''
   tls: false
-- name: 169.197.142.99@美国(US)-圣克拉拉/HZT
+- name: 169.197.142.99@美国(US)-圣克拉拉/HpK
   type: ss
   server: 169.197.142.99
   port: '8009'
   password: XKFKl2rULjIp74
   alterId: 2
   cipher: aes-256-gcm
-- name: 104.16.23.3@加拿大(CA)-多伦多/3MT
+- name: 104.16.23.3@加拿大(CA)-多伦多/L50
   type: vmess
   server: 104.16.23.3
   port: '443'
@@ -293,14 +293,14 @@ proxies:
   ws-headers:
     Host: yzkoyeb-7595333.koyeb.app
   tls: true
-- name: 169.197.142.99@美国(US)-圣克拉拉/dPb
+- name: 169.197.142.99@美国(US)-圣克拉拉/omA
   type: ss
   server: 169.197.142.99
   port: '8118'
   password: cdBIDV42DCwnfIN
   alterId: 2
   cipher: aes-256-gcm
-- name: 1.ezydfdd.com@美国(US)-芝加哥/xIk
+- name: 1.ezydfdd.com@美国(US)-旧金山/t9S
   type: vmess
   server: 1.ezydfdd.com
   port: '443'
@@ -313,14 +313,14 @@ proxies:
   ws-headers:
     Host: 1.ezydfdd.com
   tls: true
-- name: 169.197.142.99@美国(US)-圣克拉拉/19l
+- name: 169.197.142.99@美国(US)-圣克拉拉/EQ8
   type: ss
   server: 169.197.142.99
   port: '9101'
   password: e4FCWrgpkji3QY
   alterId: 2
   cipher: aes-256-gcm
-- name: 207.246.94.28@美国(US)-Piscataway/GKz
+- name: 207.246.94.28@美国(US)-Piscataway/WaE
   type: vmess
   server: 207.246.94.28
   port: '42383'
@@ -333,14 +333,14 @@ proxies:
   ws-headers:
     Host: 207.246.94.28
   tls: false
-- name: x.gotout.work@中国(CN)-深圳/70f
+- name: x.gotout.work@中国(CN)-深圳/tjC
   type: ss
   server: x.gotout.work
   port: '30041'
   password: e0uyakendg7
   alterId: 2
   cipher: aes-256-gcm
-- name: 140.238.48.194@日本(JP)-东京/NZE
+- name: 140.238.48.194@日本(JP)-东京/qCs
   type: vmess
   server: 140.238.48.194
   port: '8888'
@@ -353,21 +353,21 @@ proxies:
   ws-headers:
     Host: 140.238.48.194
   tls: false
-- name: 38.68.135.19@美国(US)-達拉斯/6a5
+- name: 38.68.135.19@美国(US)-達拉斯/2yY
   type: ss
   server: 38.68.135.19
   port: '8119'
   password: cdBIDV42DCwnfIN
   alterId: 2
   cipher: aes-256-gcm
-- name: 158.247.205.87@韩国(KR)-首尔特别市/P8n
+- name: 158.247.205.87@韩国(KR)-首尔特别市/KIo
   type: ss
   server: 158.247.205.87
   port: '5601'
   password: Y6R9pAtvxxzmGC
   alterId: 2
   cipher: aes-256-gcm
-- name: 158.247.205.87@韩国(KR)-首尔特别市/RNH
+- name: 158.247.205.87@韩国(KR)-首尔特别市/4hY
   type: ss
   server: 158.247.205.87
   port: '443'
@@ -380,77 +380,77 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - 141.164.39.146@韩国(KR)-首尔特别市/7We
-  - 61.222.202.140@台湾(TW)-台北市/z2W
-  - V104.bgpnet.top@中国(CN)-深圳/iy7
-  - x.gotout.work@中国(CN)-深圳/PuU
-  - x.gotout.work@中国(CN)-深圳/mC8
-  - us1.lolvps.xyz@美国(US)-洛杉矶/HdO
-  - v2-2.godlight.xyz@新加坡(SG)-新加坡/RkM
-  - shcu.forgebukkit.com@中国(CN)-上海/bHf
-  - 45.76.71.233@美国(US)-洛杉矶/ZFC
-  - 155.248.202.203@美国(US)-San Jose/jp6
-  - 207.246.94.28@美国(US)-Piscataway/ngf
-  - 45.76.71.233@美国(US)-洛杉矶/Yws
-  - shcu.forgebukkit.com@中国(CN)-上海/U0E
-  - us3.31vpn.com@美国(US)-克利夫頓/lzY
-  - 426hk.fans8.xyz@香港(HK)-中環/MTw
-  - V309.bgpnet.top@中国(CN)-北京/din
-  - 155.248.202.203@美国(US)-San Jose/9WN
-  - 61.222.202.140@台湾(TW)-台北市/i0T
-  - V203.bgpnet.top@中国(CN)-深圳/k4q
-  - 155.248.202.203@美国(US)-San Jose/cx8
-  - 140.238.48.194@日本(JP)-东京/cVM
-  - V203.bgpnet.top@中国(CN)-深圳/MDu
-  - 169.197.142.99@美国(US)-圣克拉拉/HZT
-  - 104.16.23.3@加拿大(CA)-多伦多/3MT
-  - 169.197.142.99@美国(US)-圣克拉拉/dPb
-  - 1.ezydfdd.com@美国(US)-芝加哥/xIk
-  - 169.197.142.99@美国(US)-圣克拉拉/19l
-  - 207.246.94.28@美国(US)-Piscataway/GKz
-  - x.gotout.work@中国(CN)-深圳/70f
-  - 140.238.48.194@日本(JP)-东京/NZE
-  - 38.68.135.19@美国(US)-達拉斯/6a5
-  - 158.247.205.87@韩国(KR)-首尔特别市/P8n
-  - 158.247.205.87@韩国(KR)-首尔特别市/RNH
+  - 141.164.39.146@韩国(KR)-首尔特别市/7VL
+  - 61.222.202.140@台湾(TW)-台北市/5W1
+  - V104.bgpnet.top@中国(CN)-深圳/vHD
+  - x.gotout.work@中国(CN)-深圳/Piu
+  - x.gotout.work@中国(CN)-深圳/Aig
+  - us1.lolvps.xyz@美国(US)-洛杉矶/RQd
+  - v2-2.godlight.xyz@新加坡(SG)-新加坡/K6z
+  - shcu.forgebukkit.com@中国(CN)-上海/Pz1
+  - 45.76.71.233@美国(US)-洛杉矶/koq
+  - 155.248.202.203@美国(US)-San Jose/oA0
+  - 207.246.94.28@美国(US)-Piscataway/nTo
+  - 45.76.71.233@美国(US)-洛杉矶/rsK
+  - shcu.forgebukkit.com@中国(CN)-上海/RfN
+  - us3.31vpn.com@美国(US)-克利夫頓/oFK
+  - 426hk.fans8.xyz@香港(HK)-中環/ZBX
+  - V309.bgpnet.top@中国(CN)-北京/kM9
+  - 155.248.202.203@美国(US)-San Jose/3Ey
+  - 61.222.202.140@台湾(TW)-台北市/d1N
+  - V203.bgpnet.top@中国(CN)-深圳/3HJ
+  - 155.248.202.203@美国(US)-San Jose/NM5
+  - 140.238.48.194@日本(JP)-东京/Pm9
+  - V203.bgpnet.top@中国(CN)-深圳/SjZ
+  - 169.197.142.99@美国(US)-圣克拉拉/HpK
+  - 104.16.23.3@加拿大(CA)-多伦多/L50
+  - 169.197.142.99@美国(US)-圣克拉拉/omA
+  - 1.ezydfdd.com@美国(US)-旧金山/t9S
+  - 169.197.142.99@美国(US)-圣克拉拉/EQ8
+  - 207.246.94.28@美国(US)-Piscataway/WaE
+  - x.gotout.work@中国(CN)-深圳/tjC
+  - 140.238.48.194@日本(JP)-东京/qCs
+  - 38.68.135.19@美国(US)-達拉斯/2yY
+  - 158.247.205.87@韩国(KR)-首尔特别市/KIo
+  - 158.247.205.87@韩国(KR)-首尔特别市/4hY
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   proxies:
-  - 141.164.39.146@韩国(KR)-首尔特别市/7We
-  - 61.222.202.140@台湾(TW)-台北市/z2W
-  - V104.bgpnet.top@中国(CN)-深圳/iy7
-  - x.gotout.work@中国(CN)-深圳/PuU
-  - x.gotout.work@中国(CN)-深圳/mC8
-  - us1.lolvps.xyz@美国(US)-洛杉矶/HdO
-  - v2-2.godlight.xyz@新加坡(SG)-新加坡/RkM
-  - shcu.forgebukkit.com@中国(CN)-上海/bHf
-  - 45.76.71.233@美国(US)-洛杉矶/ZFC
-  - 155.248.202.203@美国(US)-San Jose/jp6
-  - 207.246.94.28@美国(US)-Piscataway/ngf
-  - 45.76.71.233@美国(US)-洛杉矶/Yws
-  - shcu.forgebukkit.com@中国(CN)-上海/U0E
-  - us3.31vpn.com@美国(US)-克利夫頓/lzY
-  - 426hk.fans8.xyz@香港(HK)-中環/MTw
-  - V309.bgpnet.top@中国(CN)-北京/din
-  - 155.248.202.203@美国(US)-San Jose/9WN
-  - 61.222.202.140@台湾(TW)-台北市/i0T
-  - V203.bgpnet.top@中国(CN)-深圳/k4q
-  - 155.248.202.203@美国(US)-San Jose/cx8
-  - 140.238.48.194@日本(JP)-东京/cVM
-  - V203.bgpnet.top@中国(CN)-深圳/MDu
-  - 169.197.142.99@美国(US)-圣克拉拉/HZT
-  - 104.16.23.3@加拿大(CA)-多伦多/3MT
-  - 169.197.142.99@美国(US)-圣克拉拉/dPb
-  - 1.ezydfdd.com@美国(US)-芝加哥/xIk
-  - 169.197.142.99@美国(US)-圣克拉拉/19l
-  - 207.246.94.28@美国(US)-Piscataway/GKz
-  - x.gotout.work@中国(CN)-深圳/70f
-  - 140.238.48.194@日本(JP)-东京/NZE
-  - 38.68.135.19@美国(US)-達拉斯/6a5
-  - 158.247.205.87@韩国(KR)-首尔特别市/P8n
-  - 158.247.205.87@韩国(KR)-首尔特别市/RNH
+  - 141.164.39.146@韩国(KR)-首尔特别市/7VL
+  - 61.222.202.140@台湾(TW)-台北市/5W1
+  - V104.bgpnet.top@中国(CN)-深圳/vHD
+  - x.gotout.work@中国(CN)-深圳/Piu
+  - x.gotout.work@中国(CN)-深圳/Aig
+  - us1.lolvps.xyz@美国(US)-洛杉矶/RQd
+  - v2-2.godlight.xyz@新加坡(SG)-新加坡/K6z
+  - shcu.forgebukkit.com@中国(CN)-上海/Pz1
+  - 45.76.71.233@美国(US)-洛杉矶/koq
+  - 155.248.202.203@美国(US)-San Jose/oA0
+  - 207.246.94.28@美国(US)-Piscataway/nTo
+  - 45.76.71.233@美国(US)-洛杉矶/rsK
+  - shcu.forgebukkit.com@中国(CN)-上海/RfN
+  - us3.31vpn.com@美国(US)-克利夫頓/oFK
+  - 426hk.fans8.xyz@香港(HK)-中環/ZBX
+  - V309.bgpnet.top@中国(CN)-北京/kM9
+  - 155.248.202.203@美国(US)-San Jose/3Ey
+  - 61.222.202.140@台湾(TW)-台北市/d1N
+  - V203.bgpnet.top@中国(CN)-深圳/3HJ
+  - 155.248.202.203@美国(US)-San Jose/NM5
+  - 140.238.48.194@日本(JP)-东京/Pm9
+  - V203.bgpnet.top@中国(CN)-深圳/SjZ
+  - 169.197.142.99@美国(US)-圣克拉拉/HpK
+  - 104.16.23.3@加拿大(CA)-多伦多/L50
+  - 169.197.142.99@美国(US)-圣克拉拉/omA
+  - 1.ezydfdd.com@美国(US)-旧金山/t9S
+  - 169.197.142.99@美国(US)-圣克拉拉/EQ8
+  - 207.246.94.28@美国(US)-Piscataway/WaE
+  - x.gotout.work@中国(CN)-深圳/tjC
+  - 140.238.48.194@日本(JP)-东京/qCs
+  - 38.68.135.19@美国(US)-達拉斯/2yY
+  - 158.247.205.87@韩国(KR)-首尔特别市/KIo
+  - 158.247.205.87@韩国(KR)-首尔特别市/4hY
 - name: 🌍 国外媒体
   type: select
   proxies:
